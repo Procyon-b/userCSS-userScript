@@ -2,7 +2,7 @@
 // @name         Wayback Machine - Images figaro.fr
 // @namespace    https://github.com/Procyon-b
 // @version      0.2
-// @description  Trouve les infos des images, corrige les tags IMG et charges ces images.
+// @description  Trouve les infos des images, corrige les tags IMG et charge ces images.
 // @author       Achernar
 // @match        https://web.archive.org/web/*/https://www.lefigaro.fr/*
 // @grant        none
