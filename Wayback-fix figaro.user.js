@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wayback Machine - Images figaro.fr
 // @namespace    https://github.com/Procyon-b
-// @version      0.3
+// @version      0.4
 // @description  Trouve les infos des images, corrige les tags IMG et charge ces images.
 // @author       Achernar
 // @match        https://web.archive.org/web/*/https://www.lefigaro.fr/*
@@ -23,7 +23,31 @@ function getData(s) {
 
 var data=getData('script[type="application/ld+json"]');
 var m=findMedia(data);
-//console.info(m);
+
+data=getData('script#__NEXT_DATA__');
+var m2=data;
+
+var st={}, imgOrder={}, yt={};
+try{
+  st=m2.props.pageProps.initialState;
+  for (let k in st) {
+    if (k.startsWith('resourceByUrlQuery')) {
+      st=st[k].data.resourceByUrl.body.structured;
+      break;
+      }
+    }
+
+  for (let i=0, k=1, v=0; i<st.length; i++) {
+    let t;
+    if (t=st[i].image) {
+      imgOrder[t.url.split('/').slice(-1) ]=k++;
+      } 
+    else if ((st[i].__typename=='Youtube') && (t=st[i].id) ) {
+      yt[t]=v++;
+      } 
+    }
+  
+}catch(e){}
 
 function findMedia(o) {
   var r;
@@ -35,8 +59,8 @@ function findMedia(o) {
   }
 
 if (m) {
-  var e, img=document.querySelectorAll('figure > figcaption > span:first-child');
-//console.info({img})
+  var e, img=document.querySelectorAll('figure > figcaption > span:first-child'),
+    v=document.querySelectorAll('div.css-0 iframe');
 
   function isMatch(s) {
     if (typeof s != 'string') return;
@@ -47,12 +71,12 @@ if (m) {
       if (it === s) return img[i];
       }
     }
-  
+
   for (let i in m) {
     if (m[i]['@type']=='ImageObject') {
-//console.info({mi:m[i]}, m[i].url);
-      if (e=isMatch(m[i].caption)) {
-//console.info('match',{e})
+      let k;
+      if ( ( (m[i].caption===null) && (k=imgOrder[m[i].url.split('/').slice(-1)]) && (e=img[k]) ) ||
+           (e=isMatch(m[i].caption)) ) {
         let im=document.createElement('img');
         im.src=m[i].url;
         try{
@@ -61,7 +85,15 @@ if (m) {
           }catch(e){}
         }
       }
+    // youtube
+    else if (m[i]['@type']=='VideoObject') {
+      let re=/...\/(https:\/\/.*\/([^\/]+))$/.exec(m[i].embedUrl), p, f;
+      if (re[1] && ((p=yt[re[2]])>=0) && (f=v[p]) ) {
+        f.parentNode.parentNode.innerHTML='<a href="https://www.youtube.com/watch?v='+re[2]+'" target="_blank" title="Regarder la vidéo"><img src="https://web.archive.org/web/2/https://i1.ytimg.com/vi/'+re[2]+'/hqdefault.jpg"></a>';
+        }
+      }
     }
+
   }
 
 })();
