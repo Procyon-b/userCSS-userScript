@@ -22,7 +22,7 @@
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extension
-www.google.com###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="animegenius.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="animegenius.ai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="artvy.ai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="davy.ai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="plugger.ai"]):style(opacity: 0 !important; pointer-events: none;)
