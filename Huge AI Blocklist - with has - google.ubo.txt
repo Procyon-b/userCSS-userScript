@@ -1,6 +1,6 @@
 ! Title: Huge AI Blocklist with :has() - google 
 ! Expires: 1 day
-! Updated: 2024-10-13
+! Updated: 2024-11-04
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 !
@@ -8,15 +8,7 @@
 ! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
 ! Feel free to fork and submit pr's if you find more sites
 
-! HAPPY PRIDE MONTH
-
 ! Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
-
-! I love you.
-! You are valid.
-! LGBTQ+ Rights!
-! Keep your chin up--we will get through this together <33
-! Have a happy day!
 
 
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
@@ -331,6 +323,13 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="impossibleimage
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="stablegenius.ai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pngmaker.ai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="unpod.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="tattoosgenerator.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="polyai.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pixverse.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="davinci.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="dzine.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="decohere.ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="myninja.ai"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have .com domain extension
@@ -582,6 +581,26 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="frequentart.myp
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="midprompteria.com"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="promptalot.com"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="midjourney9.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="journeyaiart.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="threwthelookingglass.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="promptcow.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="gecdesigns.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="2moonsai.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="nobleshapes.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="aiartpromptslist.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="theaipromptshop.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="whytryai.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="imaginewithrashid.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="piclumen.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="playbook.com/ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="creativefabrica.com/spark"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="neuralframes.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="capcut.com/tools/ai-art-generator"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="kittl.com/feature/ai-text-to-vector"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="klingai.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="nocodingai.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="artaigallery.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="flux-image.com"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have .art domain extension
@@ -682,6 +701,7 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="assetsai.art"])
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="liblib.art"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="lunai.art"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pictab.art"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="aiphotos123.art"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have .co domain extension
@@ -722,6 +742,7 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="inspiringdesign
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="designbundles.net/illustrate-ai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="designbundles.net/ylivdesign"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="flux-ai.net"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="vitalentum.net"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -858,6 +879,10 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="flux-ai.io"]):s
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="aiimagegenerator.is"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="musesai.io"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="promptstock.photos"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="shecodes.io/athena/"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="promptlibrary.org"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="myedit.online"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="gamer.se"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Google Play AI applications
@@ -1292,6 +1317,8 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="deviantart.com/
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="deviantart.com/jaredsyn"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="deviantart.com/instaai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="deviantart.com/lizzyrascal"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="deviantart.com/krzychumen"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="deviantart.com/selosai"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1338,6 +1365,7 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="medium.com/@inc
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="medium.com/@aitubo011"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="medium.com/mlearning-ai"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="medium.com/generative-ai"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="medium.com/@SLover"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! // Miscellaneous crypto/nft shit
@@ -1360,6 +1388,7 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pinterest.com/p
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pinterest.com/pin/mulher-fatal"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pinterest.com/pin/563018696976219"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="pinterest.com/pin/idleturtle85-a-very-cute-baby-peacock--482518547589787278"]):style(opacity: 0 !important; pointer-events: none;)
 
 ! // Adobe shit
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="adobe.com/products/firefly"]):style(opacity: 0 !important; pointer-events: none;)
@@ -1373,6 +1402,12 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="stock.adobe.com
 
 ! // Individual Artstation shit
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="artstation.com/artwork/kQZoLA"]):style(opacity: 0 !important; pointer-events: none;)
+
+
+! // Individual Instagram
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="instagram.com/launchdsigns/p/Ctg9hxcA6Lj"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="instagram.com/percipietro/p/DAhljhFOZU8"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! // Fiverr shit
@@ -1501,6 +1536,7 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="samurai-gamers.
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="zleague.gg"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="dinosaur.org"]):style(opacity: 0 !important; pointer-events: none;)
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="disciplines.ng"]):style(opacity: 0 !important; pointer-events: none;)
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="nucleovisual.com"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! // VoiceMod shit
@@ -1510,3 +1546,6 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="tuna.voicemod.n
 ! // Getty Wallpapers
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="gettywallpapers.com/cute-anime-girl-profile-pictures"]):style(opacity: 0 !important; pointer-events: none;)
 
+
+! // Tiktok
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="tiktok.com/@ku_13js"]):style(opacity: 0 !important; pointer-events: none;)
