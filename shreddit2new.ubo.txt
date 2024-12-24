@@ -36,17 +36,8 @@ www.reddit.com#$#:root { --bgCol: #DAE0E6; --borderCol: #ccc; --bg: #DAE0E6; }
 www.reddit.com#$#:root.theme-dark { --bgCol: black; --borderCol: #343536; --bg: black; }
 www.reddit.com#$#:root .grid-container.grid { background: var(--bgCol) !important; }
 www.reddit.com#$#.rounded-\[16px\] { border-radius: 4px !important; }
-
-!www.reddit.com#$#.xs\:rounded-t-\[16px\], :host .xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
-!www.reddit.com#$#.xs\:rounded-t-\[16px\].xs\:rounded-t-\[16px\], :host .xs\:rounded-t-\[16px\].xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
-!www.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
-
-!www.reddit.com#$#.xs\:rounded-b-\[16px\], :host .xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
-!www.reddit.com#$#.xs\:rounded-b-\[16px\].xs\:rounded-b-\[16px\], :host .xs\:rounded-b-\[16px\].xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
-!www.reddit.com#$#.xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
-
 www.reddit.com#$#main > div:has(> [bundlename="shreddit_sort_dropdown"]), main > [source="chat_feed_upsell"] > subreddit-feed-channel-upsell > div, community-highlight-carousel, shreddit-post { border-radius: 4px !important; border: 1px solid var(--borderCol) !important; }
 www.reddit.com#$#shreddit-post:hover { border: 1px solid #818384; }
 www.reddit.com#$#main > div:has(> [bundlename="shreddit_sort_dropdown"]) { background-color: var(--color-neutral-background); }
@@ -60,7 +51,7 @@ www.reddit.com#$##right-sidebar-container { --scrollbar-background: var(--bgCol)
 www.reddit.com#$#shreddit-post h1 { overflow: visible !important; }
 ! /* margin after a collapsed root-comment + height */
 www.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapsed] { margin-bottom: -.9em; }
-www.reddit.com#$#:host(shreddit-comment[collapsed]) button { height: 26px ; }
+www.reddit.com#$#details[role="article"]:not(:has(> div:first-child[class="relative"])) button { height: 26px !important; }
 
 !#endif
 
