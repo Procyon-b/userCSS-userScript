@@ -39,7 +39,8 @@ www.reddit.com#$#.rounded-\[16px\] { border-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
 www.reddit.com#$#main > div:has(> [bundlename="shreddit_sort_dropdown"]), main > [source="chat_feed_upsell"] > subreddit-feed-channel-upsell > div, community-highlight-carousel, shreddit-post { border-radius: 4px !important; border: 1px solid var(--borderCol) !important; }
-www.reddit.com#$#shreddit-post:hover { border: 1px solid #818384; }
+www.reddit.com#$#shreddit-post:hover { border: 1px solid #818384 !important; }
+www.reddit.com#$#shreddit-post.bg-neutral-background { background-color: var(--color-neutral-background) !important; }
 www.reddit.com#$#main > div:has(> [bundlename="shreddit_sort_dropdown"]) { background-color: var(--color-neutral-background); }
 www.reddit.com#$#shreddit-feed > hr, hr:has(~ shreddit-feed), comment-body-header > hr:first-child { display: none !important; }
 www.reddit.com#$#shreddit-feed > article { margin-bottom: 2px !important; }
