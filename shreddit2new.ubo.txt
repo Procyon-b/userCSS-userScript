@@ -37,11 +37,13 @@ www.reddit.com#$#:root .grid-container.grid { background: var(--bgCol) !importan
 www.reddit.com#$#.rounded-\[16px\] { border-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
-www.reddit.com#$#main > div:has(> [bundlename="shreddit_sort_dropdown"]), main > [source="chat_feed_upsell"] > subreddit-feed-channel-upsell > div, community-highlight-carousel, shreddit-post { border-radius: 4px !important; border: 1px solid var(--borderCol) !important; }
-www.reddit.com#$#shreddit-post:hover { border: 1px solid #818384 !important; }
-www.reddit.com#$#shreddit-post.bg-neutral-background { background-color: var(--color-neutral-background) !important; }
-www.reddit.com#$#main > div:has(> [bundlename="shreddit_sort_dropdown"]) { background-color: var(--color-neutral-background); }
+www.reddit.com#$#shreddit-profile-comment > div, main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)), main > div:has(> [bundlename="shreddit_sort_dropdown"]), main > div > div:has(> [bundlename="shreddit_sort_dropdown"]), main > [source="chat_feed_upsell"] > subreddit-feed-channel-upsell > div, community-highlight-carousel, shreddit-post { border-radius: 4px !important; border: 1px solid var(--borderCol) !important; }
+www.reddit.com#$#shreddit-profile-comment > div:hover, shreddit-post:hover { border: 1px solid #818384 !important; }
+www.reddit.com#$#shreddit-profile-comment > div, shreddit-post.bg-neutral-background { background-color: var(--color-neutral-background) !important; }
+www.reddit.com#$#main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)) { margin-top: 8px; }
+www.reddit.com#$#main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)), main > div > div:has(> [bundlename="shreddit_sort_dropdown"]), main > div:has(> [bundlename="shreddit_sort_dropdown"]) { background-color: var(--color-neutral-background); }
 www.reddit.com#$#shreddit-feed > hr, hr:has(~ shreddit-feed), comment-body-header > hr:first-child { display: none !important; }
+www.reddit.com#$#shreddit-profile-comment > div { margin-bottom: 6px !important; }
 www.reddit.com#$#shreddit-feed > article { margin-bottom: 2px !important; }
 www.reddit.com#$#:host .blurred, .blurred, [style*="blur"] { filter: none !important; }
 www.reddit.com#$#li .post-background-image-filter, :host .post-background-image-filter { display: none !important; }
