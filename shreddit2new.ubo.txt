@@ -49,7 +49,7 @@ www.reddit.com#$#post-consume-tracker + hr { visibility: hidden; }
 www.reddit.com#$#shreddit-profile-comment > div { margin-bottom: 6px !important; }
 www.reddit.com#$#shreddit-feed > article { margin-bottom: 2px !important; }
 www.reddit.com#$#:host .blurred, .blurred, [style*="blur"] { filter: none !important; }
-www.reddit.com#$#li .post-background-image-filter, :host .post-background-image-filter, div.border-solid:empty { display: none !important; }
+www.reddit.com#$#li .post-background-image-filter, :host .post-background-image-filter { display: none !important; }
 www.reddit.com#$#comment-body-header, shreddit-comment-tree { padding-top: 0.5rem; margin-left: -0.5rem; margin-right: -0.5rem; padding-left: 0.5rem !important; padding-right: 0.5rem !important; }
 www.reddit.com#$##right-sidebar-container { --scrollbar-background: var(--bgCol) !important; }
 ! /*H1 overflow (don't see bottom of "g" letter)  20241215*/
