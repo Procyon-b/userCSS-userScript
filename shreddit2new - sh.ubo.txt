@@ -1,0 +1,116 @@
+! Title: SHreddit - Style like "new" - for sh.reddit
+! Expires: 1 day
+! Updated: 2024-12-26
+! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
+! Homepage: 
+!
+! Issues: https://github.com/Procyon-b/userCSS-userScript
+
+!!! SHreddit - sliding left menu
+
+!#if !false
+sh.reddit.com#$##left-sidebar-container:not(:hover):not(:has(:focus)) { margin-left: -267px; transition: margin-left 0.5s; }
+sh.reddit.com#$#:root { --bg: var(--color-neutral-background); }
+! to change the height of the "handle" replace "40px" with another value
+sh.reddit.com#$#:has(> #left-sidebar-container)::before { content: ""; background: var(--bg); width: 0; height: 100vh; position: fixed; top: calc( var(--shreddit-header-height) + 40px); left: 0 !important; }
+sh.reddit.com#$#:has(> #left-sidebar-container:not(:hover):not(:focus-within))::before { width: 7px; z-index: 2; transition: width 0.5s; transition-timing-function: step-end; }
+sh.reddit.com#$##left-sidebar-container { margin-left: 0px; transition: margin-left 0.1s; z-index: 1; width: 272px; display: block !important; }
+sh.reddit.com#$##left-sidebar-container, #left-sidebar-container * { overscroll-behavior: contain; }
+sh.reddit.com#$#.grid-container.grid { grid-template-columns: 0px 1fr !important; }
+sh.reddit.com#$#div:has( ~ #left-sidebar-container) { max-width: 100vw !important; }
+!#endif
+
+
+! order in left menu
+
+!#if !false
+sh.reddit.com#$#reddit-sidebar-nav#left-sidebar > nav > :is([name^="LeftNavCommunitiesSection_"], [name^="LeftNavCommunitiesSection_"] + faceplate-expandable-section-helper, [name^="CommunityCreationFlow_"], [name^="CommunityCreationFlow_"] + hr) { order: -1 !important; display: block !important; }
+!#endif
+
+
+!!! "new" style
+
+!#if !false
+sh.reddit.com#$#:root { --bgCol: #DAE0E6; --borderCol: #ccc; --bg: #DAE0E6; }
+sh.reddit.com#$#:root.theme-dark { --bgCol: black; --borderCol: #343536; --bg: black; }
+sh.reddit.com#$#:root .grid-container.grid { background: var(--bgCol) !important; }
+sh.reddit.com#$#.rounded-\[16px\] { border-radius: 4px !important; }
+sh.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
+sh.reddit.com#$#.xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
+sh.reddit.com#$#shreddit-profile-comment > div, main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)), main > div:has(> [bundlename="shreddit_sort_dropdown"]), main > div > div:has(> [bundlename="shreddit_sort_dropdown"]), main > [source="chat_feed_upsell"] > subreddit-feed-channel-upsell > div, community-highlight-carousel, shreddit-post, reddit-feed post-consume-tracker > .hover\:bg-neutral-background-hover { border-radius: 4px !important; border: 1px solid var(--borderCol) !important; }
+sh.reddit.com#$#shreddit-profile-comment > div:hover, shreddit-post:hover, reddit-feed post-consume-tracker > .hover\:bg-neutral-background-hover:hover { border: 1px solid #818384 !important; }
+sh.reddit.com#$#shreddit-profile-comment > div, shreddit-post.bg-neutral-background, reddit-feed post-consume-tracker > .hover\:bg-neutral-background-hover { background-color: var(--color-neutral-background) !important; }
+sh.reddit.com#$#main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)) { margin-top: 8px; }
+sh.reddit.com#$#main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s):has(div:first-child):has(> div:not(.px-md):first-child), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)):has(> div:not(.px-md):first-child) { padding-left: 1em; padding-right: 1em; }
+sh.reddit.com#$#main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)), main > div > div:has(> [bundlename="shreddit_sort_dropdown"]), main > div:has(> [bundlename="shreddit_sort_dropdown"]) { background-color: var(--color-neutral-background); }
+sh.reddit.com#$#main > div.bg-neutral-background:has(> shreddit-screenview-data) { background: none !important; }
+sh.reddit.com#$#shreddit-feed > hr, hr:has(~ shreddit-feed), comment-body-header > hr:first-child { display: none !important; }
+sh.reddit.com#$#post-consume-tracker + hr { visibility: hidden; }
+sh.reddit.com#$#shreddit-profile-comment > div { margin-bottom: 6px !important; }
+sh.reddit.com#$#shreddit-feed > article { margin-bottom: 2px !important; }
+sh.reddit.com#$#:host .blurred, .blurred, [style*="blur"] { filter: none !important; }
+sh.reddit.com#$#li .post-background-image-filter, :host .post-background-image-filter { display: none !important; }
+sh.reddit.com#$#comment-body-header, shreddit-comment-tree { padding-top: 0.5rem; margin-left: -0.5rem; margin-right: -0.5rem; padding-left: 0.5rem !important; padding-right: 0.5rem !important; }
+sh.reddit.com#$##right-sidebar-container { --scrollbar-background: var(--bgCol) !important; }
+! /*H1 overflow (don't see bottom of "g" letter)  20241215*/
+sh.reddit.com#$#shreddit-post h1 { overflow: visible !important; }
+! /* margin after a collapsed root-comment + height */
+sh.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapsed] { margin-bottom: -.9em; }
+sh.reddit.com#$#details[role="article"]:not(:has(> div:first-child[class="relative"])) button { height: 26px !important; }
+
+!#endif
+
+
+!!! fixes
+
+!#if !false
+sh.reddit.com#$#div[slot="comment"] .inline-block.max-w-full.inline-block.max-w-full { max-width: calc(100% - 16px) !important; }
+!#endif
+
+
+!!! Post votes on the left side
+
+!#if !false
+sh.reddit.com#$#:root { --sideBg: rgba(26,26,27,0.1) }
+sh.reddit.com#$#:root.theme-dark { --sideBg: rgba(26,26,27,0.8) }
+sh.reddit.com#$#:is(main, aside) shreddit-post { position: relative; }
+sh.reddit.com#$#shreddit-post { padding-left: 48px !important; }
+sh.reddit.com#$#shreddit-post::before { content: ""; width: 40px; height: 100% !important; background-color: var(--sideBg); position: absolute !important; top: 0; left: 0; border-radius: 4px 0 0 4px !important; }
+sh.reddit.com#$#.shreddit-post-container span:has( >span[data-post-click-location="vote"]) { position: absolute !important; left: 0 !important; top: 0 !important; margin-left: 4px; margin-top: 4px; }
+sh.reddit.com#$#.shreddit-post-container span[data-post-click-location="vote"] { flex-direction: column; background: transparent !important; }
+sh.reddit.com#$#.shreddit-post-container span[data-post-click-location="vote"] > button svg { color: #818384; width: 20px; height: 20px; }
+!#endif
+
+
+!!! flair at the top next to the post's title
+
+!#if !false
+sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) { flex-direction: row !important; flex-wrap: wrap !important; }
+sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) > div:not(class) { order: -1; margin-right: .5em; padding-top: 3px; max-height: 1.6em; }
+sh.reddit.com#$#shreddit-post[view-context="SubredditFeed"] > [slot="text-body"] { flex-basis: 100%; }
+!#endif
+
+
+!!! width of content
+
+!#if false
+! note: this is disabled by default
+! as wide as possible:
+sh.reddit.com#$#.subgrid-container:has(~ #left-sidebar-container) { width: auto !important; }
+! up to this width: 
+! sh.reddit.com#$#.subgrid-container:has(~ #left-sidebar-container) { width: 1300px !important; }
+sh.reddit.com#$#.subgrid-container:has(~ #left-sidebar-container) #main-content { max-width: unset !important; }
+!#endif
+
+
+!!! hide elements
+
+!#if !false
+! "community highlights"
+sh.reddit.com##community-highlight-carousel
+! Mod - chat upsell
+sh.reddit.com##faceplate-tracker[source="chat_feed_upsell"]
+! hide awards
+sh.reddit.com##award-button
+!#endif
+

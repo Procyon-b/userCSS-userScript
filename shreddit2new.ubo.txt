@@ -1,10 +1,10 @@
 ! Title: SHreddit - Style like "new"
 ! Expires: 1 day
-! Updated: 2024-12-24
+! Updated: 2024-12-26
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
-! Issues: 
+! Issues: https://github.com/Procyon-b/userCSS-userScript
 
 !!! SHreddit - sliding left menu
 
@@ -64,8 +64,6 @@ www.reddit.com#$#details[role="article"]:not(:has(> div:first-child[class="relat
 !!! fixes
 
 !#if !false
-! www.reddit.com#$#
-if fixes {
 www.reddit.com#$#div[slot="comment"] .inline-block.max-w-full.inline-block.max-w-full { max-width: calc(100% - 16px) !important; }
 !#endif
 
@@ -73,7 +71,6 @@ www.reddit.com#$#div[slot="comment"] .inline-block.max-w-full.inline-block.max-w
 !!! Post votes on the left side
 
 !#if !false
-! www.reddit.com#$#
 www.reddit.com#$#:root { --sideBg: rgba(26,26,27,0.1) }
 www.reddit.com#$#:root.theme-dark { --sideBg: rgba(26,26,27,0.8) }
 www.reddit.com#$#:is(main, aside) shreddit-post { position: relative; }

@@ -1,10 +1,10 @@
 ! Title: SHreddit - Mods: adds colors for deleted posts and comments
 ! Expires: 1 day
-! Updated: 2024-12-24
+! Updated: 2024-12-26
 ! Description: Set of cosmetic filters to style SHreddit for mods colors
 ! Homepage: 
 !
-! Issues: 
+! Issues: https://github.com/Procyon-b/userCSS-userScript
 
 !!! removed post
 
