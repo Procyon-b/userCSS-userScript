@@ -87,7 +87,7 @@ www.reddit.com,sh.reddit.com#$#.shreddit-post-container span[data-post-click-loc
 !#if !false
 www.reddit.com,sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) { flex-direction: row !important; flex-wrap: wrap !important; }
 www.reddit.com,sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) > div:not(class) { order: -1; margin-right: .5em; padding-top: 3px; max-height: 1.6em; }
-www.reddit.com,sh.reddit.com#$#shreddit-post[view-context="SubredditFeed"] > [slot="text-body"] { flex-basis: 100% !important; }
+www.reddit.com,sh.reddit.com#$#shreddit-post:is([view-type="cardView"],[view-context="SubredditFeed"]) > shreddit-post-flair ~ [slot="text-body"] { flex-basis: 100%; }
 !#endif
 
 
