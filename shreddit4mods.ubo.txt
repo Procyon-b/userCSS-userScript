@@ -1,6 +1,6 @@
 ! Title: SHreddit - Mods: adds colors for deleted posts and comments
 ! Expires: 1 day
-! Updated: 2024-12-26
+! Updated: 2024-12-28
 ! Description: Set of cosmetic filters to style SHreddit for mods colors
 ! Homepage: 
 !
@@ -22,12 +22,10 @@ www.reddit.com#$#:is(shreddit-post[moderation-verdict="MOD_REMOVED"], shreddit-p
 !!! removed comment
 
 !#if !false
-www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > :is(div[slot="comment"], shreddit-comment-action-row) { position: relative; }
-www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > :is(div[slot="comment"], shreddit-comment-action-row) { z-index: 1 !important; border-radius: 0px !important; }
+www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > div[slot="comment"] { border-radius: 0px !important; }
 www.reddit.com#$#shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]):not(:has(shreddit-mod-inline-actions[removed="true"])) { --modRemColBg: rgba(255, 191, 11, .2); }
-www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > :is(div[slot="commentAvatar"], div[slot="commentMeta"]) { background-color: var(--modRemColBg) !important; }
+www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > :is(div[slot="commentAvatar"], div[slot="commentMeta"], div[slot="comment"], shreddit-comment-action-row) { background-color: var(--modRemColBg) !important; }
 www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > div[slot="commentMeta"] { padding-left: .5rem; margin-left: 0 !important; width: 100%; }
-www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > :is(div[slot="comment"], shreddit-comment-action-row)::before { background-color: var(--modRemColBg); content: ""; position: absolute; height: 100%; width: 100%; left: 0; top: 0; z-index: -1; }
 www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > div[slot="comment"] { margin-top: -2px; padding-top: 2px; }
 www.reddit.com#$#:is(shreddit-comment[moderation-verdict="MOD_REMOVED"], shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> [slot="mod-content-state-indicators"]), shreddit-comment:not([moderation-verdict="MOD_REMOVED"]):has(> shreddit-comment-action-row > div[slot="mod-verdict"][show-removal-reason-cta])) > shreddit-comment-action-row { margin-bottom: 2px; }
 !#endif
