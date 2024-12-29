@@ -1,6 +1,6 @@
 ! Title: SHreddit - Style like "new"
 ! Expires: 1 day
-! Updated: 2024-12-29
+! Updated: 2024-12-30
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
@@ -56,8 +56,8 @@ www.reddit.com#$##right-sidebar-container { --scrollbar-background: var(--bgCol)
 www.reddit.com#$#shreddit-post h1 { overflow: visible !important; }
 ! /* margin after a collapsed root-comment + height */
 www.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapsed] { margin-bottom: -.9em; }
-www.reddit.com##shreddit-comment-tree > shreddit-comment[collapsed] community-achievements-flair
-www.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapsed] [slot="commentMeta"] > div > div { display: contents !important; }
+www.reddit.com##shreddit-comment[collapsed] community-achievements-flair
+www.reddit.com#$#shreddit-comment[collapsed] [slot="commentMeta"] > div > div { display: contents !important; }
 www.reddit.com#$#details[role="article"]:not(:has(> summary > div:first-child[class="relative"])) button { height: 26px !important; }
 
 !#endif
