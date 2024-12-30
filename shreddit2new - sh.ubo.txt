@@ -107,7 +107,7 @@ sh.reddit.com#$#.subgrid-container:has(~ #left-sidebar-container) #main-content 
 
 !!! hide elements
 
-!#if !false
+!#if false
 ! "community highlights"
 sh.reddit.com##community-highlight-carousel
 ! Mod - chat upsell
