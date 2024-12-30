@@ -107,11 +107,11 @@ www.reddit.com#$#.subgrid-container:has(~ #left-sidebar-container) #main-content
 
 !!! hide elements
 
-!#if false
+!#if !false
 ! "community highlights"
-www.reddit.com##community-highlight-carousel
+!www.reddit.com##community-highlight-carousel
 ! Mod - chat upsell
-www.reddit.com##faceplate-tracker[source="chat_feed_upsell"]
+!www.reddit.com##faceplate-tracker[source="chat_feed_upsell"]
 ! hide awards
 www.reddit.com##award-button
 !#endif
