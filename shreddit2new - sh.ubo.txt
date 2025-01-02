@@ -1,6 +1,6 @@
 ! Title: SHreddit - Style like "new" - for sh.reddit
 ! Expires: 1 day
-! Updated: 2024-12-30
+! Updated: 2025-01-02
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
@@ -43,7 +43,7 @@ sh.reddit.com#$#shreddit-profile-comment > div, shreddit-post.bg-neutral-backgro
 sh.reddit.com#$#.main-container > main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)) { margin-top: 8px; }
 sh.reddit.com#$#.main-container > main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s):has(div:first-child):has(> div:not(.px-md):first-child), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)):has(> div:not(.px-md):first-child) { padding-left: 1em; padding-right: 1em; }
 sh.reddit.com#$#.main-container > main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)), main > div > div:has(> [bundlename="shreddit_sort_dropdown"]), main > div:has(> [bundlename="shreddit_sort_dropdown"]) { background-color: var(--color-neutral-background); }
-sh.reddit.com#$#main > div.bg-neutral-background:has(> shreddit-screenview-data) { background: none !important; }
+sh.reddit.com#$#shreddit-profile-comment, main > div.bg-neutral-background:has(> shreddit-screenview-data) { background: none !important; }
 sh.reddit.com#$#shreddit-feed > hr, hr:has(~ shreddit-feed), comment-body-header > hr:first-child { display: none !important; }
 sh.reddit.com#$#post-consume-tracker + hr { visibility: hidden; }
 sh.reddit.com#$#shreddit-profile-comment > div { margin-bottom: 6px !important; }
