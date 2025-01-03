@@ -1,6 +1,6 @@
 ! Title: SHreddit - Style like "new"
 ! Expires: 1 day
-! Updated: 2025-01-02
+! Updated: 2025-01-03
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
@@ -38,6 +38,7 @@ www.reddit.com#$#.rounded-\[16px\] { border-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
 www.reddit.com#$#.xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
 www.reddit.com#$#shreddit-profile-comment > div, .main-container > main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)), main > div:has(> [bundlename="shreddit_sort_dropdown"]), main > div > div:has(> [bundlename="shreddit_sort_dropdown"]), main > [source="chat_feed_upsell"] > subreddit-feed-channel-upsell > div, community-highlight-carousel, shreddit-post, reddit-feed post-consume-tracker > .hover\:bg-neutral-background-hover { border-radius: 4px !important; border: 1px solid var(--borderCol) !important; }
+www.reddit.com#$#shreddit-post [slot="credit-bar"] { padding-top: 0 !important; }
 www.reddit.com#$#shreddit-profile-comment > div:hover, shreddit-post:hover, reddit-feed post-consume-tracker > .hover\:bg-neutral-background-hover:hover { border: 1px solid #818384 !important; }
 www.reddit.com#$#shreddit-profile-comment > div, shreddit-post.bg-neutral-background, reddit-feed post-consume-tracker > .hover\:bg-neutral-background-hover { background-color: var(--color-neutral-background) !important; }
 www.reddit.com#$#.main-container > main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)) { margin-top: 8px; }
