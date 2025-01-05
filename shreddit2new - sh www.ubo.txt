@@ -1,6 +1,6 @@
 ! Title: SHreddit - Style like "new" - for sh.reddit & www.reddit
 ! Expires: 1 day
-! Updated: 2025-01-03
+! Updated: 2025-01-05
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
@@ -21,7 +21,7 @@ www.reddit.com,sh.reddit.com#$#div:has( ~ #left-sidebar-container) { max-width: 
 !#endif
 
 
-! order in left menu
+!!! order in left menu
 
 !#if !false
 www.reddit.com,sh.reddit.com#$#reddit-sidebar-nav#left-sidebar > nav > :is([name^="LeftNavCommunitiesSection_"], [name^="LeftNavCommunitiesSection_"] + faceplate-expandable-section-helper, [name^="CommunityCreationFlow_"], [name^="CommunityCreationFlow_"] + hr) { order: -1 !important; display: block !important; }
@@ -68,6 +68,7 @@ www.reddit.com,sh.reddit.com#$#details[role="article"]:not(:has(> summary > div:
 
 !#if !false
 www.reddit.com,sh.reddit.com#$#div[slot="comment"] .inline-block.max-w-full.inline-block.max-w-full { max-width: calc(100% - 16px) !important; }
+www.reddit.com,sh.reddit.com#$#.text-wrap, [style*="text-wrap:"] { white-space: normal !important; }
 !#endif
 
 
