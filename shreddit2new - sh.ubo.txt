@@ -34,7 +34,7 @@ sh.reddit.com#$#reddit-sidebar-nav#left-sidebar > nav > :is([name^="LeftNavCommu
 sh.reddit.com#$#:root { --bgCol: #DAE0E6; --borderCol: #ccc; --bg: #DAE0E6; }
 sh.reddit.com#$#:root.theme-dark { --bgCol: black; --borderCol: #343536; --bg: black; }
 sh.reddit.com#$#:root .grid-container.grid { background: var(--bgCol) !important; }
-sh.reddit.com#$#.rounded-\[16px\] { border-radius: 4px !important; }
+sh.reddit.com#$#.rounded-\[16px\], .xs\:rounded-\[16px\] { border-radius: 4px !important; }
 sh.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
 sh.reddit.com#$#.xs\:rounded-b-\[16px\] { border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; }
 sh.reddit.com#$#shreddit-profile-comment > div, .main-container > main:not(:has(article)):not(.right-sidebar-xs):not(.right-sidebar-s), main:not(:has(article)):is(.right-sidebar-xs,.right-sidebar-s):has(+ #right-sidebar-container):not(:has(+ #right-sidebar-container.styled-scrollbars)), main > div:has(> [bundlename="shreddit_sort_dropdown"]), main > div > div:has(> [bundlename="shreddit_sort_dropdown"]), main > [source="chat_feed_upsell"] > subreddit-feed-channel-upsell > div, community-highlight-carousel, shreddit-post, reddit-feed post-consume-tracker > .hover\:bg-neutral-background-hover { border-radius: 4px !important; border: 1px solid var(--borderCol) !important; }
