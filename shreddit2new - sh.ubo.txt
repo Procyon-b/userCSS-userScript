@@ -1,6 +1,6 @@
 ! Title: SHreddit - Style like "new" - for sh.reddit
 ! Expires: 1 day
-! Updated: 2025-01-05
+! Updated: 2025-01-06
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
@@ -31,8 +31,8 @@ sh.reddit.com#$#reddit-sidebar-nav#left-sidebar > nav > :is([name^="LeftNavCommu
 !!! "new" style
 
 !#if !false
-sh.reddit.com#$#:root { --bgCol: #DAE0E6; --borderCol: #ccc; --bg: #DAE0E6; }
-sh.reddit.com#$#:root.theme-dark { --bgCol: black; --borderCol: #343536; --bg: black; }
+sh.reddit.com#$#:root { --newRedditTheme-monospaceColor: #FF006D; --bgCol: #DAE0E6; --borderCol: #ccc; --bg: #DAE0E6; }
+sh.reddit.com#$#:root.theme-dark { --newRedditTheme-monospaceColor: #5291f8; --bgCol: black; --borderCol: #343536; --bg: black; }
 sh.reddit.com#$#:root .grid-container.grid { background: var(--bgCol) !important; }
 sh.reddit.com#$#.rounded-\[16px\], .xs\:rounded-\[16px\] { border-radius: 4px !important; }
 sh.reddit.com#$#.xs\:rounded-t-\[16px\] { border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; }
@@ -60,6 +60,8 @@ sh.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapsed] { margin-bot
 sh.reddit.com##shreddit-comment[collapsed] community-achievements-flair
 sh.reddit.com#$#shreddit-comment[collapsed] [slot="commentMeta"] > div > div { display: contents !important; }
 sh.reddit.com#$#details[role="article"]:not(:has(> summary > div:first-child[class="relative"])) button { height: 26px !important; }
+sh.reddit.com#$#:is([slot="comment"], [slot="text-body"]) pre { padding: 8px !important; margin: 4px 0 !important; border: none !important; }
+sh.reddit.com#$#:is([slot="comment"], [slot="text-body"]) p > code { background: var(--color-tone-5) !important; border: none !important; padding: 0 !important; margin: 0 2px; color: var(--newRedditTheme-monospaceColor); }
 
 !#endif
 
