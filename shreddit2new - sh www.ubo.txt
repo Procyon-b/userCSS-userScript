@@ -1,6 +1,6 @@
 ! Title: SHreddit - Style like "new" - for sh.reddit & www.reddit
 ! Expires: 1 day
-! Updated: 2025-01-06
+! Updated: 2025-01-07
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
@@ -60,8 +60,10 @@ www.reddit.com,sh.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapse
 www.reddit.com,sh.reddit.com##shreddit-comment[collapsed] community-achievements-flair
 www.reddit.com,sh.reddit.com#$#shreddit-comment[collapsed] [slot="commentMeta"] > div > div { display: contents !important; }
 www.reddit.com,sh.reddit.com#$#details[role="article"]:not(:has(> summary > div:first-child[class="relative"])) button { height: 26px !important; }
-www.reddit.com,sh.reddit.com#$#:is([slot="comment"], [slot="text-body"]) pre { padding: 8px !important; margin: 4px 0 !important; border: none !important; }
-www.reddit.com,sh.reddit.com#$#:is([slot="comment"], [slot="text-body"]) p > code { background: var(--color-tone-5) !important; border: none !important; padding: 0 !important; margin: 0 2px; color: var(--newRedditTheme-monospaceColor); }
+www.reddit.com,sh.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre, :is([slot="comment"], [slot="text-body"]) pre { padding: 8px !important; margin: 4px 0 !important; border: none !important; }
+www.reddit.com,sh.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview code, :is([slot="comment"], [slot="text-body"]) p > code { background: var(--color-tone-5) !important; border: none !important; padding: 0 !important; margin: 0 2px; color: var(--newRedditTheme-monospaceColor); }
+www.reddit.com,sh.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre { background: var(--color-tone-5); display: block !important; }
+www.reddit.com,sh.reddit.com#$#.feed-card-text-preview pre::before { content: none !important; }
 
 !#endif
 
@@ -93,7 +95,7 @@ www.reddit.com,sh.reddit.com#$#.shreddit-post-container span[data-post-click-loc
 !#if !false
 www.reddit.com,sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) { flex-direction: row !important; flex-wrap: wrap !important; }
 www.reddit.com,sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) > div:not(class) { order: -1; margin-right: .5em; padding-top: 3px; max-height: 1.6em; }
-www.reddit.com,sh.reddit.com#$#shreddit-post:is([view-type="cardView"],[view-context="SubredditFeed"]) > shreddit-post-flair ~ [slot="text-body"] { flex-basis: 100%; }
+www.reddit.com,sh.reddit.com#$#shreddit-post:is([view-type="cardView"],[view-context="SubredditFeed"]) > shreddit-post-flair ~ [slot="text-body"] { flex-basis: 100%; width: 100%; }
 !#endif
 
 

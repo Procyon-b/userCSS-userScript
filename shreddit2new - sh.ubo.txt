@@ -1,6 +1,6 @@
 ! Title: SHreddit - Style like "new" - for sh.reddit
 ! Expires: 1 day
-! Updated: 2025-01-06
+! Updated: 2025-01-07
 ! Description: Set of cosmetic filters to style SHreddit more like NEWreddit
 ! Homepage: 
 !
@@ -60,8 +60,10 @@ sh.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapsed] { margin-bot
 sh.reddit.com##shreddit-comment[collapsed] community-achievements-flair
 sh.reddit.com#$#shreddit-comment[collapsed] [slot="commentMeta"] > div > div { display: contents !important; }
 sh.reddit.com#$#details[role="article"]:not(:has(> summary > div:first-child[class="relative"])) button { height: 26px !important; }
-sh.reddit.com#$#:is([slot="comment"], [slot="text-body"]) pre { padding: 8px !important; margin: 4px 0 !important; border: none !important; }
-sh.reddit.com#$#:is([slot="comment"], [slot="text-body"]) p > code { background: var(--color-tone-5) !important; border: none !important; padding: 0 !important; margin: 0 2px; color: var(--newRedditTheme-monospaceColor); }
+sh.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre, :is([slot="comment"], [slot="text-body"]) pre { padding: 8px !important; margin: 4px 0 !important; border: none !important; }
+sh.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview code, :is([slot="comment"], [slot="text-body"]) p > code { background: var(--color-tone-5) !important; border: none !important; padding: 0 !important; margin: 0 2px; color: var(--newRedditTheme-monospaceColor); }
+sh.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre { background: var(--color-tone-5); display: block !important; }
+sh.reddit.com#$#.feed-card-text-preview pre::before { content: none !important; }
 
 !#endif
 
@@ -93,7 +95,7 @@ sh.reddit.com#$#.shreddit-post-container span[data-post-click-location="vote"] >
 !#if !false
 sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) { flex-direction: row !important; flex-wrap: wrap !important; }
 sh.reddit.com#$#div#content-tag-container + div.flex > div.flex:has(> h2) > div:not(class) { order: -1; margin-right: .5em; padding-top: 3px; max-height: 1.6em; }
-sh.reddit.com#$#shreddit-post:is([view-type="cardView"],[view-context="SubredditFeed"]) > shreddit-post-flair ~ [slot="text-body"] { flex-basis: 100%; }
+sh.reddit.com#$#shreddit-post:is([view-type="cardView"],[view-context="SubredditFeed"]) > shreddit-post-flair ~ [slot="text-body"] { flex-basis: 100%; width: 100%; }
 !#endif
 
 
