@@ -60,9 +60,9 @@ www.reddit.com#$#shreddit-comment-tree > shreddit-comment[collapsed] { margin-bo
 www.reddit.com##shreddit-comment[collapsed] community-achievements-flair
 www.reddit.com#$#shreddit-comment[collapsed] [slot="commentMeta"] > div > div { display: contents !important; }
 www.reddit.com#$#details[role="article"]:not(:has(> summary > div:first-child[class="relative"])) button { height: 26px !important; }
-www.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre, :is([slot="comment"], [slot="text-body"]) pre { padding: 8px !important; margin: 4px 0 !important; border: none !important; }
-www.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview code, :is([slot="comment"], [slot="text-body"]) p > code { background: var(--color-tone-5) !important; border: none !important; padding: 0 !important; margin: 0 2px; color: var(--newRedditTheme-monospaceColor); }
-www.reddit.com#$#.feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre { background: var(--color-tone-5); display: block !important; }
+www.reddit.com#$#[contenteditable="true"][data-lexical-editor="true"] code.block, .feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre, :is([slot="comment"], [slot="text-body"]) pre { padding: 8px !important; margin: 4px 0 !important; border: none !important; }
+www.reddit.com#$#[contenteditable="true"][data-lexical-editor="true"] code:not(.block)[data-lexical-text="true"], .feed-card-text-preview.feed-card-text-preview.feed-card-text-preview code, :is([slot="comment"], [slot="text-body"]) p > code { background: var(--color-tone-5) !important; border: none !important; padding: 0 !important; margin: 0 2px; color: var(--newRedditTheme-monospaceColor); }
+www.reddit.com#$#[contenteditable="true"][data-lexical-editor="true"] code.block, .feed-card-text-preview.feed-card-text-preview.feed-card-text-preview pre { background: var(--color-tone-5) !important; display: block !important; }
 www.reddit.com#$#.feed-card-text-preview pre::before { content: none !important; }
 
 !#endif
