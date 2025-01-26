@@ -1,6 +1,6 @@
 ! Title: Huge AI Blocklist with :has() - DDG  - opacity
 ! Expires: 1 day
-! Updated: 2024-11-04
+! Updated: 2025-01-26
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 !
@@ -14,6 +14,14 @@
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extension
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="otter.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="fireflies.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="krisp.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="julius.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="cgdream.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="tryleap.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="magichour.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="perplexity.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="animegenius.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="artvy.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="davy.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
@@ -330,9 +338,22 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="davinci.ai"])
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="dzine.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="decohere.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="myninja.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="neoprompt.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="thedream.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="viggle.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="llamagen.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="gab.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="mascots.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="moescape.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Sites that have .com domain extension
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="steelefortress.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="cybersecguide.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="chatbot.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="aicreate.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="appypie.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="toolbaz.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="hayo.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="yodayo.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="stable-diffusion-art.com"]):style(opacity: .4 !important; outline: 2px solid red;)
@@ -601,7 +622,34 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="klingai.com"]
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="nocodingai.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="artaigallery.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="flux-image.com"]):style(opacity: .4 !important; outline: 2px solid red;)
-
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="seapik.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="talkie-ai.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="laprompt.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="fluxaistudio.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="sql-easy.com/learn/best-ai-sql-tools"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="sql-easy.com/learn/best-ai-sql-query"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="tusiart.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="underonethousand.com/p/poetry-for-machines"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pngtree.com/so/cel-shading"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="artificialpaintings.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="insertface.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="dungeonsanddragonsfan.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="imagella.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="civitaic.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pixexid.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="ciciai.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="aistickr.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="sora.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="drawever.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="smiletemplates.com/search/images"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="beatcoynz-artwork.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="stlmax.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="ebsynth.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="ishencai.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="metademolab.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="softgist.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="vondy.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="aitoolhunt.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 ! Sites that have .art domain extension
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="imagine.art"]):style(opacity: .4 !important; outline: 2px solid red;)
@@ -745,7 +793,8 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="flux-ai.net"]
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="vitalentum.net"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
-! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="getmerlin.in"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="aitree.io"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="transpic.cn"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="sticky.cool"]):style(opacity: .4 !important; outline: 2px solid red;)
@@ -763,6 +812,7 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="kahma.io"]):s
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="artspark.io"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="draeno.io"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="letsenhance.io"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="madpenguin.org"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="lipsumar.io"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="gpt4free.io"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="swimm.io"]):style(opacity: .4 !important; outline: 2px solid red;)
@@ -883,6 +933,18 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="shecodes.io/a
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="promptlibrary.org"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="myedit.online"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="gamer.se"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="glif.app"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="infiniteworlds.app"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="idyllic.app"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="linuxconfig.org"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="stablediffusion.blog"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="distinctplugins.io"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="nohat.cc"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="stl.team"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="idesigns.shop"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="bottr.me"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="comfy.org"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="waifu.com.mx"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Google Play AI applications
@@ -1175,6 +1237,8 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="twitter.com/F
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="x.com/Feral_Forest/"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="twitter.com/watanaharumi/"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="x.com/watanaharumi/"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="twitter.com/AyakonArts/"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="x.com/AyakonArts/"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
@@ -1187,6 +1251,7 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="youtube.com/@
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="youtube.com/@LaCarnevali"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="youtube.com/@OlivioSarikas"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="youtube.com/@alkaid-art"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Block list of AI "artists"/orgs (instagram)
@@ -1298,6 +1363,14 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pinterest.com
 
 ! Block list of AI "artists"/orgs (behance)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/oliviosarikas"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/ai_nevys_creator"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/jiboncrafts01"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/annadoma"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/OskarThiemicke"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/ivannaart"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/foxyeaf"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/olgachalykh"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/zeeshi"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Block list of AI "artists"/orgs (ko-fi)
@@ -1319,6 +1392,7 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="deviantart.co
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="deviantart.com/lizzyrascal"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="deviantart.com/krzychumen"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="deviantart.com/selosai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="deviantart.com/aismart"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1350,9 +1424,11 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="ko-fi.com/s/a
 ! Freepik garbage
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/premium-ai-image"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/free-ai-image"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/author/maxstudioko"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="freepik.com/author/smmstore773"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
@@ -1366,6 +1442,7 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="medium.com/@a
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="medium.com/mlearning-ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="medium.com/generative-ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="medium.com/@SLover"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="medium.com/@queenskisivuli"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! // Miscellaneous crypto/nft shit
@@ -1389,6 +1466,7 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pinterest.com
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pinterest.com/pin/mulher-fatal"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pinterest.com/pin/563018696976219"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pinterest.com/pin/idleturtle85-a-very-cute-baby-peacock--482518547589787278"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="pinterest.com/pin/reference--13088655160761671"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 ! // Adobe shit
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="adobe.com/products/firefly"]):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1481,12 +1559,116 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/bigsleep"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/promptsideas"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/cursedAIpics"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/lotr_ai_art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiArtLounge"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/GarfieldAI_art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiArtShow"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Ai_Husbando_Art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AI_Art_Department"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiCarArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiArtChallenge"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/TrippyAiArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiArt_Psych"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/FanArtAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AI_Art_Requests"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/shittyAiArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AI_Art_Series"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiArtWow"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/RenaissanceArt_AI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aiCoffeeArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/narrative_ai_art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/ADULT_ART_AI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Art_of_AI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiGirlsSexyArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiComicBookArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/3amAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIArtCreator"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIEscher"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIGenArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aisettings"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AmazingAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/ArtIsForEveryone"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/craiyon"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/dallemini"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/dawnAi"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/DimensionTraveler"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/DiscoDiffusion"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/dreamcasting"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/HighEndAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/invokeai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/hellaflyai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiComicBookArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/generateforme"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/JustOneWord"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Lensa"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/MidJourney2Dalle"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/midjourney_imagine"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/MidjourneyArtworks"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/MidJourneyFantasy"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/MidjourneyPrompts"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/momaia"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/PromptArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/starryai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/WomboArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Wombodream"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/wonderAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiWholesome"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/nijijourney"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Ai_Dragons"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIGameOfThrones"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Ai_HarryPotter"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/DragonDiffusion"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/LOTRAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/lotr_ai_art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aispacegirls"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiVideoGameArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/DuneAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIRetrofuturism"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Ai_StarWars_Art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/StarWarsAIArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aifails"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIgeneratednightmares"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/LensaFails"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/MidjourneyFails"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/weirddalle"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIfreakout"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AiGenCarporn"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aigeneratedmemes"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIGeneratedPokemon"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Ai_Pokemon"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/DreamArchitecture"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/Ai_PeopleOfColor_Art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/DreamstudioAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/text2aiart"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/WorldbuildingWithAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIArtistWorkflows"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/DreamBooth"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aigamedev"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/GenTube"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/ImageGenerators"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/indie_games_and_ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/MidJourneyDiscussions"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/promptcraft"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/PromptDesign"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/PromptEngineering"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/PromptSharing"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/StableDiffusionInfo"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aiARTistsUNITE"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aiGayArt"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/AIisfuckinglit"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/anyaiart"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/FurAI"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/sdnsfw"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/unstable_diffusion"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/WaifuDiffusion"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/r/aiyiff"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! // Block list of AI reddit users
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/user/aidaily0"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/user/Wyprany"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/user/AIContent"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="reddit.com/user/TrickyPride"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! // Reddit shit (placeholder)
@@ -1537,6 +1719,7 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="zleague.gg"])
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="dinosaur.org"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="disciplines.ng"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="nucleovisual.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="fullbloomclub.net"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! // VoiceMod shit
@@ -1549,3 +1732,28 @@ duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="gettywallpape
 
 ! // Tiktok
 duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="tiktok.com/@ku_13js"]):style(opacity: .4 !important; outline: 2px solid red;)
+
+
+! // Behance (standalone galleries)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/209291699/AI-Generated-Creative-Posts"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/208813917/AI-Art-Photography-Portfolio"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/209354857/AI-Gen-Visuals"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/199345215/Ai-Generated-Creative-Poster-Design-Nazmul-GFX"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/206632057/Trendy-Ai-generated-Fashion-Poster-Design-Fabrilife"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/190706173/AI-Generated-Images"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/190706335/Digital-Art"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/210948839/Space-Kitty"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="behance.net/gallery/210345701/A-Jewel-in-the-Sky"]):style(opacity: .4 !important; outline: 2px solid red;)
+
+
+! // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
+
+
+! // Redbubble (standalone pins)
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="redbubble.com/i/pin/Steampunk-female-portrait-Cel-shading-Japan-anime-style-by-DigitalEmporio/152924525.NP9QY"]):style(opacity: .4 !important; outline: 2px solid red;)
+
+
+! // Redbubble Accounts
+duckduckgo.com##:is(li[data-layout="organic"], .tile):has(a[href*="redbubble.com/people/digitalemporio/shop"]):style(opacity: .4 !important; outline: 2px solid red;)
+
+
