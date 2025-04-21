@@ -3,7 +3,8 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250421.0056
+! Version: 20250421.0109
+! Last modified: Mon, 21 Apr 2025 01:09:10 GMT
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
