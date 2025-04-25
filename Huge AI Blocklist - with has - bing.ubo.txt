@@ -3,8 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250421.0109
-! Last modified: Mon, 21 Apr 2025 01:09:10 GMT
+! Version: 20250425.2105
+! Last modified: Fri, 25 Apr 2025 21:05:46 GMT
+! Original file date: 2025-04-25T05:22:54Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -675,6 +676,10 @@ www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*=
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="duolingoguides.com"]):style(opacity: 0 !important; pointer-events: none;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="songtell.com"]):style(opacity: 0 !important; pointer-events: none;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="prompt-com.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="deepseek.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="peopleai.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="airportcalgary.com"]):style(opacity: 0 !important; pointer-events: none;)
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="dogbreedadvice.com"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have .art domain extension
@@ -820,6 +825,7 @@ www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*=
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="heatware.net"]):style(opacity: 0 !important; pointer-events: none;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="bigshadows.net"]):style(opacity: 0 !important; pointer-events: none;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="eyecandy.net"]):style(opacity: 0 !important; pointer-events: none;)
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="jeddahairport.net"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
@@ -981,6 +987,7 @@ www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*=
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="groundabout.coffee"]):style(opacity: 0 !important; pointer-events: none;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="igot.coffee"]):style(opacity: 0 !important; pointer-events: none;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="manuals.plus"]):style(opacity: 0 !important; pointer-events: none;)
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="spca.education"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Google Play AI applications
