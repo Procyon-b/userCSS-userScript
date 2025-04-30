@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250430.1420
-! Last modified: Wed, 30 Apr 2025 14:20:54 GMT
-! Original file date: 2025-04-30T09:14:56Z
+! Version: 20250430.2042
+! Last modified: Wed, 30 Apr 2025 20:42:58 GMT
+! Original file date: 2025-04-30T19:43:07Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -748,6 +748,7 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [js
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[href*="peopleai.com"])
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[href*="airportcalgary.com"])
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[href*="dogbreedadvice.com"])
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[href*="drawatoon.com"])
 
 
 ! Sites that have .art domain extension
