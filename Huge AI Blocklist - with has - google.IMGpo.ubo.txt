@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250425.2105
-! Last modified: Fri, 25 Apr 2025 21:05:46 GMT
-! Original file date: 2025-04-25T05:22:54Z
+! Version: 20250430.1420
+! Last modified: Wed, 30 Apr 2025 14:20:54 GMT
+! Original file date: 2025-04-30T09:14:56Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -16,6 +16,74 @@
 !
 ! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
 ! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+
+! // DDG & Bing version
+! //// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
+
+! Sites that have .ai domain extension
+! Sites that have .com domain extension
+! Sites that have .art domain extension
+! Sites that have .co domain extension
+! Sites that have .net domain extension
+! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
+! Google Play AI applications
+! Apple AI applications
+! Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
+! //// Block lists of individual users
+
+! Block list of AI "artists"/orgs (twitter)
+! Block list of AI "artists"/orgs (youtube)
+! Block list of AI "artists"/orgs (instagram)
+! Block list of AI "artists"/orgs (pinterest)
+! Block list of AI "artists"/orgs (behance)
+! Block list of AI "artists"/orgs (ko-fi)
+
+! Block list of AI "artists"/orgs (deviantart)
+! Block list of AI "artists"/orgs (artstation)
+
+! Block list of AI "artists"/orgs (facebook)
+! Artstation shit
+
+! s.id garbage
+
+! ko-fi garbage
+! Freepik garbage
+! Medium garbage
+! // Miscellaneous crypto/nft shit
+! // Etsy shit
+! // Individual Pinterest shit
+! // Adobe shit
+! // Individual Adobe Stock shit
+! // Individual Artstation shit
+
+! // Individual Instagram
+! // Fiverr shit
+
+! //// Block list of AI subreddits
+! // Block list of AI reddit users
+! // Reddit shit (placeholder)
+
+
+! // Tumblr shit
+
+! // Pixels
+! // Amazon shit
+! // AI content farms/spam
+! // VoiceMod shit
+
+! // Getty Wallpapers
+
+! // Tiktok
+
+! // Behance (standalone galleries)
+! // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
+
+
+! // Redbubble (standalone pins)
+
+! // Redbubble Accounts
+
+! /////////// Google Version
 
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
@@ -3447,6 +3515,9 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"]:has(a[href*="redbubbl
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[href*="redbubble.com/people/digitalemporio/shop"])
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"]:has(a[href*="redbubble.com/people/digitalemporio/shop"]):style( opacity: 0; pointer-events: none; )
 
+
+! /////////////////
+! /////////////////
 
 ! // Google AI Overview
 
