@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250430.2042
-! Last modified: Wed, 30 Apr 2025 20:42:58 GMT
-! Original file date: 2025-04-30T19:43:07Z
+! Version: 20250502.0006
+! Last modified: Fri, 02 May 2025 00:06:13 GMT
+! Original file date: 2025-05-01T00:41:21Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -358,6 +358,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="lov
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="typli.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="yeschat.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="boodlebox.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="sunoai.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="thetawise.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="imagineanything.ai"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Sites that have .com domain extension
@@ -682,6 +685,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="peo
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="airportcalgary.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="dogbreedadvice.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="drawatoon.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="suno.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Sites that have .art domain extension
@@ -990,6 +994,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="gro
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="igot.coffee"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="manuals.plus"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="spca.education"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="sunoai.asia"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Google Play AI applications
