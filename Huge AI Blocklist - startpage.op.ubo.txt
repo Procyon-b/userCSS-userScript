@@ -7,10 +7,6 @@
 ! Last modified: Wed, 14 May 2025 16:31:32 GMT
 ! Original file date: 2025-05-01T00:41:21Z
 
-! Explanation: The original filter list uses a scriptlet that is resource intensive.
-!              This version of the list uses pure CSS.
-!              Search engines are separated in their own list. Load the one(s) needed.
-!
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
 !
