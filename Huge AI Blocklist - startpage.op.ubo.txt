@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250514.1631
-! Last modified: Wed, 14 May 2025 16:31:32 GMT
-! Original file date: 2025-05-01T00:41:21Z
+! Version: 20250524.1220
+! Last modified: Sat, 24 May 2025 12:20:19 GMT
+! Original file date: 2025-05-24T09:05:03Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1411,6 +1411,8 @@ startpage.com###main div.result a[href*="drawatoon.com"]:upward(.result):style(o
 startpage.com###main div.image-container .image-quick-details > span:has-text(drawatoon.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a[href*="suno.com"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(suno.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a[href*="buddhaweekly.com"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(buddhaweekly.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Sites that have .art domain extension
@@ -2017,6 +2019,8 @@ startpage.com###main div.result a[href*="spca.education"]:upward(.result):style(
 startpage.com###main div.image-container .image-quick-details > span:has-text(spca.education):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a[href*="sunoai.asia"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(sunoai.asia):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a[href*="diffus.me"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(diffus.me):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Google Play AI applications

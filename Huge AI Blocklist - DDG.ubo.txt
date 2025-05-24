@@ -3,14 +3,10 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250523.0109
-! Last modified: Fri, 23 May 2025 01:09:30 GMT
-! Original file date: 2025-05-01T00:41:21Z
+! Version: 20250524.1220
+! Last modified: Sat, 24 May 2025 12:20:19 GMT
+! Original file date: 2025-05-24T09:05:03Z
 
-! Explanation: The original filter list uses a scriptlet that is resource intensive.
-!              This version of the list uses pure CSS.
-!              Search engines are separated in their own list. Load the one(s) needed.
-!
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
 !
@@ -1348,6 +1344,8 @@ duckduckgo.com##li[data-layout="organic"] a[href*="drawatoon.com"]:upward(li[dat
 duckduckgo.com##li:has(>figure) a[href*="drawatoon.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a[href*="suno.com"]:upward(li[data-layout="organic"])
 duckduckgo.com##li:has(>figure) a[href*="suno.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a[href*="buddhaweekly.com"]:upward(li[data-layout="organic"])
+duckduckgo.com##li:has(>figure) a[href*="buddhaweekly.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have .art domain extension
@@ -1954,6 +1952,8 @@ duckduckgo.com##li[data-layout="organic"] a[href*="spca.education"]:upward(li[da
 duckduckgo.com##li:has(>figure) a[href*="spca.education"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a[href*="sunoai.asia"]:upward(li[data-layout="organic"])
 duckduckgo.com##li:has(>figure) a[href*="sunoai.asia"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a[href*="diffus.me"]:upward(li[data-layout="organic"])
+duckduckgo.com##li:has(>figure) a[href*="diffus.me"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Google Play AI applications

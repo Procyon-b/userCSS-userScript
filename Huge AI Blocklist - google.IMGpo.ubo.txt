@@ -3,14 +3,10 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250516.2037
-! Last modified: Fri, 16 May 2025 20:37:31 GMT
-! Original file date: 2025-05-01T00:41:21Z
+! Version: 20250524.1220
+! Last modified: Sat, 24 May 2025 12:20:19 GMT
+! Original file date: 2025-05-24T09:05:03Z
 
-! Explanation: The original filter list uses a scriptlet that is resource intensive.
-!              This version of the list uses pure CSS.
-!              Search engines are separated in their own list. Load the one(s) needed.
-!
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
 !
@@ -1415,6 +1411,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class][href*="drawatoon.com"]:upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class][href*="suno.com"]):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class][href*="suno.com"]:upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class][href*="buddhaweekly.com"]):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class][href*="buddhaweekly.com"]:upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 
 
 ! Sites that have .art domain extension
@@ -2021,6 +2019,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class][href*="spca.education"]:upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class][href*="sunoai.asia"]):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class][href*="sunoai.asia"]:upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class][href*="diffus.me"]):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class][href*="diffus.me"]:upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 
 
 ! Google Play AI applications
