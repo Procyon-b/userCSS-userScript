@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250524.1220
-! Last modified: Sat, 24 May 2025 12:20:19 GMT
-! Original file date: 2025-05-24T09:05:03Z
+! Version: 20250718.1800
+! Last modified: Fri, 18 Jul 2025 18:00:09 GMT
+! Original file date: 2025-07-18T06:23:55Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -683,6 +683,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="dogbree
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="drawatoon.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="suno.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="buddhaweekly.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="softhandtech.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Sites that have .art domain extension
@@ -1878,5 +1879,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="redbubb
 
 ! // Google AI Overview
 
+! // Google AI Mode search tab
+
 ! // GitHub Copilot
 ! // Just in case exceptions
+! // Gmail, Google Drive, Google Docs: Try Gemini button
+

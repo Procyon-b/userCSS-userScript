@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250524.1220
-! Last modified: Sat, 24 May 2025 12:20:19 GMT
-! Original file date: 2025-05-24T09:05:03Z
+! Version: 20250718.1800
+! Last modified: Fri, 18 Jul 2025 18:00:09 GMT
+! Original file date: 2025-07-18T06:23:55Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1413,6 +1413,8 @@ startpage.com###main div.result a[href*="suno.com"]:upward(.result):style(opacit
 startpage.com###main div.image-container .image-quick-details > span:has-text(suno.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a[href*="buddhaweekly.com"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(buddhaweekly.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a[href*="softhandtech.com"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(softhandtech.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Sites that have .art domain extension
@@ -3533,5 +3535,9 @@ startpage.com###main div.image-container .image-quick-details > span:has-text(re
 
 ! // Google AI Overview
 
+! // Google AI Mode search tab
+
 ! // GitHub Copilot
 ! // Just in case exceptions
+! // Gmail, Google Drive, Google Docs: Try Gemini button
+
