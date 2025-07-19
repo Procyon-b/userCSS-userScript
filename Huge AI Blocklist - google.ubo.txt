@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250718.1800
-! Last modified: Fri, 18 Jul 2025 18:00:09 GMT
-! Original file date: 2025-07-18T06:23:55Z
+! Version: 20250719.1752
+! Last modified: Sat, 19 Jul 2025 17:52:41 GMT
+! Original file date: 2025-07-19T08:31:15Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -751,6 +751,7 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [js
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="suno.com"]):remove()
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="buddhaweekly.com"]):remove()
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="softhandtech.com"]):remove()
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="netwrck.com"]):remove()
 
 
 ! Sites that have .art domain extension

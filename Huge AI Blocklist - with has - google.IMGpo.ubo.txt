@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250718.1800
-! Last modified: Fri, 18 Jul 2025 18:00:09 GMT
-! Original file date: 2025-07-18T06:23:55Z
+! Version: 20250719.1752
+! Last modified: Sat, 19 Jul 2025 17:52:41 GMT
+! Original file date: 2025-07-19T08:31:15Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -1419,6 +1419,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"]:has(a[class][href*="buddhaweekly.com"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class][href*="softhandtech.com"])
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"]:has(a[class][href*="softhandtech.com"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class][href*="netwrck.com"])
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"]:has(a[class][href*="netwrck.com"]):style( opacity: 0; pointer-events: none; )
 
 
 ! Sites that have .art domain extension

@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250718.1800
-! Last modified: Fri, 18 Jul 2025 18:00:09 GMT
-! Original file date: 2025-07-18T06:23:55Z
+! Version: 20250719.1752
+! Last modified: Sat, 19 Jul 2025 17:52:41 GMT
+! Original file date: 2025-07-19T08:31:15Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1415,6 +1415,8 @@ startpage.com###main div.result a[href*="buddhaweekly.com"]:upward(.result):styl
 startpage.com###main div.image-container .image-quick-details > span:has-text(buddhaweekly.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a[href*="softhandtech.com"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(softhandtech.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a[href*="netwrck.com"]:upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(netwrck.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Sites that have .art domain extension
