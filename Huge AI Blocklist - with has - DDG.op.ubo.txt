@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250719.1752
-! Last modified: Sat, 19 Jul 2025 17:52:41 GMT
-! Original file date: 2025-07-19T08:31:15Z
+! Version: 20250721.1542
+! Last modified: Mon, 21 Jul 2025 15:42:23 GMT
+! Original file date: 2025-07-21T04:34:02Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -689,6 +689,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="sun
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="buddhaweekly.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="softhandtech.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="netwrck.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="civitaiarchive.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 
 ! Sites that have .art domain extension
