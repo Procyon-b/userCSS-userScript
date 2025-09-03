@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250721.1542
-! Last modified: Mon, 21 Jul 2025 15:42:23 GMT
-! Original file date: 2025-07-21T04:34:02Z
+! Version: 20250903.1748
+! Last modified: Wed, 03 Sep 2025 17:48:05 GMT
+! Original file date: 2025-09-03T04:21:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -700,6 +700,8 @@ duckduckgo.com##li:has(>figure) a[href*="imagineanything.ai"]:upward(li:has(>fig
 
 
 ! Sites that have .com domain extension
+duckduckgo.com##li[data-layout="organic"] a[href*="thelinuxcode.com"]:upward(li[data-layout="organic"])
+duckduckgo.com##li:has(>figure) a[href*="thelinuxcode.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a[href*="steelefortress.com"]:upward(li[data-layout="organic"])
 duckduckgo.com##li:has(>figure) a[href*="steelefortress.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a[href*="cybersecguide.com"]:upward(li[data-layout="organic"])
@@ -1352,7 +1354,10 @@ duckduckgo.com##li[data-layout="organic"] a[href*="netwrck.com"]:upward(li[data-
 duckduckgo.com##li:has(>figure) a[href*="netwrck.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a[href*="civitaiarchive.com"]:upward(li[data-layout="organic"])
 duckduckgo.com##li:has(>figure) a[href*="civitaiarchive.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
-
+duckduckgo.com##li[data-layout="organic"] a[href*="deepwiki.com"]:upward(li[data-layout="organic"])
+duckduckgo.com##li:has(>figure) a[href*="deepwiki.com"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a[href*="deepwiki.org"]:upward(li[data-layout="organic"])
+duckduckgo.com##li:has(>figure) a[href*="deepwiki.org"]:upward(li:has(>figure)):style(opacity: 0 !important; pointer-events: none;)
 
 ! Sites that have .art domain extension
 duckduckgo.com##li[data-layout="organic"] a[href*="imagine.art"]:upward(li[data-layout="organic"])

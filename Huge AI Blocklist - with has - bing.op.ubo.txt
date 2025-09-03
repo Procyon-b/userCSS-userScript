@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250721.1542
-! Last modified: Mon, 21 Jul 2025 15:42:23 GMT
-! Original file date: 2025-07-21T04:34:02Z
+! Version: 20250903.1748
+! Last modified: Wed, 03 Sep 2025 17:48:05 GMT
+! Original file date: 2025-09-03T04:21:05Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -364,6 +364,7 @@ www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*=
 
 
 ! Sites that have .com domain extension
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="thelinuxcode.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="steelefortress.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="cybersecguide.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="chatbot.com"]):style(opacity: .4 !important; outline: 2px solid red;)
@@ -690,7 +691,8 @@ www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*=
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="softhandtech.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="netwrck.com"]):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="civitaiarchive.com"]):style(opacity: .4 !important; outline: 2px solid red;)
-
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="deepwiki.com"]):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="deepwiki.org"]):style(opacity: .4 !important; outline: 2px solid red;)
 
 ! Sites that have .art domain extension
 www.bing.com###b_content :is(main, #vm_c) li:has(a:is(.tilk,[h*="image"])[href*="imagine.art"]):style(opacity: .4 !important; outline: 2px solid red;)

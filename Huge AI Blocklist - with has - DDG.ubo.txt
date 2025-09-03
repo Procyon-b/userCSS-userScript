@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250721.1542
-! Last modified: Mon, 21 Jul 2025 15:42:23 GMT
-! Original file date: 2025-07-21T04:34:02Z
+! Version: 20250903.1748
+! Last modified: Wed, 03 Sep 2025 17:48:05 GMT
+! Original file date: 2025-09-03T04:21:05Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -364,6 +364,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="ima
 
 
 ! Sites that have .com domain extension
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="thelinuxcode.com"]):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="steelefortress.com"]):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="cybersecguide.com"]):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="chatbot.com"]):style(opacity: 0 !important; pointer-events: none;)
@@ -690,7 +691,8 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="bud
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="softhandtech.com"]):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="netwrck.com"]):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="civitaiarchive.com"]):style(opacity: 0 !important; pointer-events: none;)
-
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="deepwiki.com"]):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="deepwiki.org"]):style(opacity: 0 !important; pointer-events: none;)
 
 ! Sites that have .art domain extension
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="imagine.art"]):style(opacity: 0 !important; pointer-events: none;)
