@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250903.1748
-! Last modified: Wed, 03 Sep 2025 17:48:05 GMT
-! Original file date: 2025-09-03T04:21:05Z
+! Version: 20250909.1715
+! Last modified: Tue, 09 Sep 2025 17:15:13 GMT
+! Original file date: 2025-09-09T03:02:21Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -1186,6 +1186,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="bra
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="ai-nudes.ai"]):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="undress.xxx"]):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="girlfriend.ai"]):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)):has(a[href*="clothoff.net"]):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! //// Block lists of individual users
