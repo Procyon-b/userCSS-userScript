@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250909.1715
-! Last modified: Tue, 09 Sep 2025 17:15:13 GMT
-! Original file date: 2025-09-09T03:02:21Z
+! Version: 20251003.1648
+! Last modified: Fri, 03 Oct 2025 16:48:18 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -688,7 +688,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="softhan
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="netwrck.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="civitaiarchive.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="deepwiki.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
-duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="deepwiki.org"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="civarchive.com"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 
 ! Sites that have .art domain extension
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="imagine.art"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
@@ -998,6 +998,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="manuals
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="spca.education"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="sunoai.asia"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="diffus.me"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##:is(li[data-layout="organic"], li:has(>figure)) a[href*="deepwiki.org"]:upward(:is(li[data-layout="organic"], li:has(>figure))):style(opacity: 0 !important; pointer-events: none;)
 
 
 ! Google Play AI applications

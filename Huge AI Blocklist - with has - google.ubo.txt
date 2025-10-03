@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-! Version: 20250909.1715
-! Last modified: Tue, 09 Sep 2025 17:15:13 GMT
-! Original file date: 2025-09-09T03:02:21Z
+! Version: 20251003.1648
+! Last modified: Fri, 03 Oct 2025 16:48:18 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -756,6 +756,9 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [js
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="buddhaweekly.com"])
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="softhandtech.com"])
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="netwrck.com"])
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="civitaiarchive.com"])
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="deepwiki.com"])
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class][href*="civarchive.com"])
 
 
 ! Sites that have .art domain extension
