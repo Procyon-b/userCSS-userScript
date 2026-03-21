@@ -5,4 +5,4 @@ The filenames of the uBO filter lists derived from the "Huge AI Blocklist" by la
  - ...&lt;engine&gt;.op.ubo.txt: opacify and mark with a red outline the snippets and thumbnails
  - ...&lt;engine&gt;.IMGpo.ubo.txt: hide the snippets and thumbnails but the space used by the thumbnails is not recovered
 
-The ones with " with has " in the name should be ignored. They are still generated in case someone is still using them. But the pure CSS selector used in them, while more efficient, usually slows the rendering the image search pages.
+The ones with " with has " in the name should be ignored. They are still generated in case someone is still using them. But the pure CSS selector used in them, while more efficient, usually slows the rendering of the image search pages.
