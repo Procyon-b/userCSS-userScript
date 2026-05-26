@@ -1,8 +1,0 @@
-! Title: Huge AI Blocklist - Ecosia - opacity
-! Expires: 4 days
-! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
-! Original homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
-
-! list moved
-
-!#include Huge%20AI%20Blocklist/Huge%20AI%20Blocklist%20-%20ecosia.op.ubo.txt
