@@ -7,6 +7,8 @@ The filenames of the uBO filter lists derived from the "Huge AI Blocklist" by la
 
 The ones with " with has " in the name should be ignored. They are still generated in case someone is still using them. But the pure CSS selector used in them, while more efficient, usually slows the rendering of the image search pages.
 
+Also, __don't use__ the lists in the root directory of this repository. They are placeholders to redirect to the new location. They will be removed in the future.
+
 I have added the possibility to use a fork of the list. It generates the same filters plus a few more.
 
 ## Here are the available versions:
