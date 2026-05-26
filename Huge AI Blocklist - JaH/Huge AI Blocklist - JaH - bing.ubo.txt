@@ -1,11 +1,11 @@
-! Title: Huge AI Blocklist -- just_a_husk - bing
+! Title: Huge AI Blocklist -- JaH - bing
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260526.0345
-! Last modified: Tue, 26 May 2026 03:45:04 GMT
-! Original file date: undefined
+! Version: 20260526.2126
+! Last modified: Tue, 26 May 2026 21:26:19 GMT
+! Original file date: 2026-04-06T09:23:28+02:00
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.

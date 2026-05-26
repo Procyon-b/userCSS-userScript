@@ -1,11 +1,11 @@
-! Title: Huge AI Blocklist -- just_a_husk - Yandex - image placeholder
+! Title: Huge AI Blocklist -- JaH - Yandex - image placeholder
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260526.0345
-! Last modified: Tue, 26 May 2026 03:45:04 GMT
-! Original file date: undefined
+! Version: 20260526.2126
+! Last modified: Tue, 26 May 2026 21:26:19 GMT
+! Original file date: 2026-04-06T09:23:28+02:00
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
