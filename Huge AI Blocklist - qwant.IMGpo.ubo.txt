@@ -1,4 +1,4 @@
-! Title: Huge AI Blocklist - Qwant - image placeholder
+! Title: Huge AI Blocklist - Qwant - image placeholder - DEPRECATED
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 

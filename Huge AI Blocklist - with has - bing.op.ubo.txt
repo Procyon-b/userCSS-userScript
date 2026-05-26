@@ -1,6 +1,7 @@
-! Title: Huge AI Blocklist with :has() - bing - opacity
+! Title: Huge AI Blocklist with :has() - bing - opacity - DEPRECATED
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+
 ! list moved
 
 !#include Huge%20AI%20Blocklist/Huge%20AI%20Blocklist%20-%20with%20has%20-%20bing.op.ubo.txt
