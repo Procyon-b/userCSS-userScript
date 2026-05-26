@@ -11,7 +11,7 @@ Also, __don't use__ the lists in the root directory of this repository. They are
 
 I have added the possibility to use a fork of the list. It generates the same filters plus a few more.
 
-## Here are the available versions:
+## Here are the versions available:
 
 | search engine | hidden | opacity | images placeholder |
 |---|---|---|---|
