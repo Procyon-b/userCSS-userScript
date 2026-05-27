@@ -1,4 +1,4 @@
-# A short note:
+# A short note about filtering AI results from search results:
 
 The filenames of the uBO filter lists derived from the "Huge AI Blocklist" by laylavish:
  - ...&lt;engine&gt;.ubo.txt : hide the snippets and thumbnails
