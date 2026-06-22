@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -461,6 +461,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".success.ai"], [href*="//success.ai"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".suno.ai"], [href*="//suno.ai"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".sunoai.ai"], [href*="//sunoai.ai"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".supawork.ai"], [href*="//supawork.ai"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".swapcode.ai"], [href*="//swapcode.ai"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".syntha.ai"], [href*="//syntha.ai"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".talkio.ai"], [href*="//talkio.ai"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -719,6 +720,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".ai.tenorshare.com"], [href*="//ai.tenorshare.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".ai016.com"], [href*="//ai016.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".ai4prompts.com"], [href*="//ai4prompts.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aiai.com"], [href*="//aiai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aiallure.com"], [href*="//aiallure.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aianimeartgeneratorfree.com"], [href*="//aianimeartgeneratorfree.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aianimegen.com"], [href*="//aianimegen.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1029,6 +1031,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mixologyai.com"], [href*="//mixologyai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mobile-eyes.com"], [href*="//mobile-eyes.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mobirise.com"], [href*="//mobirise.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mockofun.com"], [href*="//mockofun.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mostraak.com"], [href*="//mostraak.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".motionarray.com"], [href*="//motionarray.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".motionartistshub.com"], [href*="//motionartistshub.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1042,6 +1045,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mypingoai.com"], [href*="//mypingoai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mysterylores.com"], [href*="//mysterylores.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".mythologyworldwide.com"], [href*="//mythologyworldwide.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".myxxgirl.com"], [href*="//myxxgirl.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".nerdytechblog.com"], [href*="//nerdytechblog.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".netwrck.com"], [href*="//netwrck.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".neuralframes.com"], [href*="//neuralframes.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1069,6 +1073,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".oryoy.com"], [href*="//oryoy.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".owlift.com"], [href*="//owlift.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".paintedsaintly.com"], [href*="//paintedsaintly.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".pandaprompts.com"], [href*="//pandaprompts.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".peerdh.com"], [href*="//peerdh.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".pelcro.com"], [href*="//pelcro.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".peopleai.com"], [href*="//peopleai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1078,6 +1083,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".pfptown.com"], [href*="//pfptown.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".phillipstelzel.com"], [href*="//phillipstelzel.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".photoai.com"], [href*="//photoai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".photogptai.com"], [href*="//photogptai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".pica-ai.com"], [href*="//pica-ai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".picassoia.com"], [href*="//picassoia.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".pickle.com"], [href*="//pickle.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1203,6 +1209,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".thegamingmecca.com"], [href*="//thegamingmecca.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".theinsaneapp.com"], [href*="//theinsaneapp.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".thejesusai.com"], [href*="//thejesusai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".thejoai.com"], [href*="//thejoai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".thelinuxcode.com"], [href*="//thelinuxcode.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".thepetpainting.com"], [href*="//thepetpainting.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".theresanaiforthat.com"], [href*="//theresanaiforthat.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1255,6 +1262,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".www.techbloat.com"], [href*="//www.techbloat.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".xjavascript.com"], [href*="//xjavascript.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".yodayo.com"], [href*="//yodayo.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".yourdreamai.com"], [href*="//yourdreamai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".zazow.com"], [href*="//zazow.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".zebrabi.com"], [href*="//zebrabi.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".zhihu.com"], [href*="//zhihu.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1307,6 +1315,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".modelo.io"], [href*="//modelo.io"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".moemate.io"], [href*="//moemate.io"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".musesai.io"], [href*="//musesai.io"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".myaiart.io"], [href*="//myaiart.io"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".notegpt.io"], [href*="//notegpt.io"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".opensea.io"], [href*="//opensea.io"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".playform.io"], [href*="//playform.io"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1425,6 +1434,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aimons.xyz"], [href*="//aimons.xyz"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".ainude.porn"], [href*="//ainude.porn"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aipicasso.studio.site"], [href*="//aipicasso.studio.site"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aitoolbox.cn"], [href*="//aitoolbox.cn"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".aitools.fyi"], [href*="//aitools.fyi"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".alliancy.fr"], [href*="//alliancy.fr"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".animalia-life.club"], [href*="//animalia-life.club"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1518,6 +1528,7 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".outsourceit.today"], [href*="//outsourceit.today"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".pandia.pro"], [href*="//pandia.pro"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".petalica.paint"], [href*="//petalica.paint"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".photoai.me"], [href*="//photoai.me"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".phraser.tech"], [href*="//phraser.tech"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".picture.lk"], [href*="//picture.lk"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".pinokio.computer"], [href*="//pinokio.computer"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2146,9 +2157,9 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2175,9 +2186,9 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2204,9 +2215,9 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2233,9 +2244,67 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
+
+! Explanation: The original filter list uses a scriptlet that is resource intensive.
+!              This version of the list uses pure CSS.
+!              Search engines are separated in their own list. Load the one(s) needed.
+!
+! Homepage: https://github.com/Procyon-b/userCSS-userScript
+
+!
+! Issues: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/issues
+! PRs: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/pulls
+
+! Sites that have .ai domain extension
+! Sites that have .app domain extension
+! Sites that have .art domain extension
+! Sites that have .co domain extension
+! Sites that have .com domain extension
+! Sites that have .io domain extension
+! Sites that have .net domain extension
+! Sites that have .org domain extension
+! Sites that have other domain extensions
+! Specific users/subpages with predominantly AI-generated content
+! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Expires: 4 days
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
+
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
+
+! Explanation: The original filter list uses a scriptlet that is resource intensive.
+!              This version of the list uses pure CSS.
+!              Search engines are separated in their own list. Load the one(s) needed.
+!
+! Homepage: https://github.com/Procyon-b/userCSS-userScript
+
+!
+! Issues: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/issues
+! PRs: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/pulls
+
+! Sites that have .ai domain extension
+! Sites that have .app domain extension
+! Sites that have .art domain extension
+! Sites that have .co domain extension
+! Sites that have .com domain extension
+! Sites that have .io domain extension
+! Sites that have .net domain extension
+! Sites that have .org domain extension
+! Sites that have other domain extensions
+! Specific users/subpages with predominantly AI-generated content
+! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Expires: 4 days
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
+
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.

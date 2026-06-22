@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,59 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260621.2204
-! Last modified: Sun, 21 Jun 2026 22:04:57 GMT
-! Original file date: 2026-06-20T12:58:01Z
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
+
+! Homepage: https://github.com/Procyon-b/userCSS-userScript
+
+!
+! Issues: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/issues
+! PRs: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/pulls
+
+! Sites that have .ai domain extension
+! Sites that have .app domain extension
+! Sites that have .art domain extension
+! Sites that have .co domain extension
+! Sites that have .com domain extension
+! Sites that have .io domain extension
+! Sites that have .net domain extension
+! Sites that have .org domain extension
+! Sites that have other domain extensions
+! Specific users/subpages with predominantly AI-generated content
+! Title: Huge AI Blocklist -- JaH - Yandex - image placeholder
+! Expires: 4 days
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
+
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
+
+! Homepage: https://github.com/Procyon-b/userCSS-userScript
+
+!
+! Issues: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/issues
+! PRs: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/pulls
+
+! Sites that have .ai domain extension
+! Sites that have .app domain extension
+! Sites that have .art domain extension
+! Sites that have .co domain extension
+! Sites that have .com domain extension
+! Sites that have .io domain extension
+! Sites that have .net domain extension
+! Sites that have .org domain extension
+! Sites that have other domain extensions
+! Specific users/subpages with predominantly AI-generated content
+! Title: Huge AI Blocklist -- JaH - Yandex - image placeholder
+! Expires: 4 days
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
+
+! Version: 20260622.1839
+! Last modified: Mon, 22 Jun 2026 18:39:20 GMT
+! Original file date: 2026-06-22T08:35:37Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
