@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -254,6 +254,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".bot3.ai"], [href*="//bot3.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".brainds.ai"], [href*="//brainds.ai"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".brainds.ai"], [href*="//brainds.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".bubio.ai"], [href*="//bubio.ai"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".bubio.ai"], [href*="//bubio.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".buddy.ai"], [href*="//buddy.ai"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".buddy.ai"], [href*="//buddy.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".bylo.ai"], [href*="//bylo.ai"]):upward(li):remove()
@@ -636,6 +638,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".lexyapp.ai"], [href*="//lexyapp.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".libraire.ai"], [href*="//libraire.ai"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".libraire.ai"], [href*="//libraire.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".liftapp.ai"], [href*="//liftapp.ai"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".liftapp.ai"], [href*="//liftapp.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".lightyear.ai"], [href*="//lightyear.ai"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".lightyear.ai"], [href*="//lightyear.ai"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".lingup.ai"], [href*="//lingup.ai"]):upward(li):remove()
@@ -1184,6 +1188,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".imagineme.app"], [href*="//imagineme.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".infiniteworlds.app"], [href*="//infiniteworlds.app"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".infiniteworlds.app"], [href*="//infiniteworlds.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".komiko.app"], [href*="//komiko.app"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".komiko.app"], [href*="//komiko.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".live-portrait.vercel.app"], [href*="//live-portrait.vercel.app"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".live-portrait.vercel.app"], [href*="//live-portrait.vercel.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".liveportrait.app"], [href*="//liveportrait.app"]):upward(li):remove()
@@ -1500,6 +1506,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".ai-englishlab.com"], [href*="//ai-englishlab.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".ai-fantasy-art.com"], [href*="//ai-fantasy-art.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".ai-fantasy-art.com"], [href*="//ai-fantasy-art.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".ai-pokemon-generator.en.softonic.com"], [href*="//ai-pokemon-generator.en.softonic.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".ai-pokemon-generator.en.softonic.com"], [href*="//ai-pokemon-generator.en.softonic.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".ai.gopubby.com"], [href*="//ai.gopubby.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".ai.gopubby.com"], [href*="//ai.gopubby.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".ai.nero.com"], [href*="//ai.nero.com"]):upward(li):remove()
@@ -1842,6 +1850,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".drawever.com"], [href*="//drawever.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".dreamboothr.com"], [href*="//dreamboothr.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".dreamboothr.com"], [href*="//dreamboothr.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".dreamina.capcut.com"], [href*="//dreamina.capcut.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".dreamina.capcut.com"], [href*="//dreamina.capcut.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".dreamphillic.com"], [href*="//dreamphillic.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".dreamphillic.com"], [href*="//dreamphillic.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".dreamsofbooks.com"], [href*="//dreamsofbooks.com"]):upward(li):remove()
@@ -1918,6 +1928,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".funinformatique.com"], [href*="//funinformatique.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".future-pedia.com"], [href*="//future-pedia.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".future-pedia.com"], [href*="//future-pedia.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".futureen.com"], [href*="//futureen.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".futureen.com"], [href*="//futureen.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".fxhome.com"], [href*="//fxhome.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".fxhome.com"], [href*="//fxhome.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".fykoo.com"], [href*="//fykoo.com"]):upward(li):remove()
@@ -2868,6 +2880,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".objectiondecroissance.org"], [href*="//objectiondecroissance.org"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".ocfchess.org"], [href*="//ocfchess.org"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".ocfchess.org"], [href*="//ocfchess.org"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".opportunitycroydon.org"], [href*="//opportunitycroydon.org"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".opportunitycroydon.org"], [href*="//opportunitycroydon.org"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".perchance.org"], [href*="//perchance.org"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".perchance.org"], [href*="//perchance.org"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".promptlibrary.org"], [href*="//promptlibrary.org"]):upward(li):remove()
@@ -3066,6 +3080,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".koala.sh"], [href*="//koala.sh"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".larevueia.fr"], [href*="//larevueia.fr"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".larevueia.fr"], [href*="//larevueia.fr"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".linear.liftapp"], [href*="//linear.liftapp"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".linear.liftapp"], [href*="//linear.liftapp"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".lovelines.xyz"], [href*="//lovelines.xyz"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".lovelines.xyz"], [href*="//lovelines.xyz"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".made.porn"], [href*="//made.porn"]):upward(li):remove()
@@ -3088,6 +3104,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".myedit.online"], [href*="//myedit.online"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".nathaliedupuy.fr"], [href*="//nathaliedupuy.fr"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".nathaliedupuy.fr"], [href*="//nathaliedupuy.fr"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".naviai.cn"], [href*="//naviai.cn"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".naviai.cn"], [href*="//naviai.cn"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".neural.love"], [href*="//neural.love"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".neural.love"], [href*="//neural.love"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".nextberry.de"], [href*="//nextberry.de"]):upward(li):remove()
@@ -4368,9 +4386,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4393,9 +4411,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

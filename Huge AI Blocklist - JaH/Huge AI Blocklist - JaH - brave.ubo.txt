@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -254,6 +254,8 @@ search.brave.com###results > .snippet a:is([href*=".bot3.ai"], [href*="//bot3.ai
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(bot3.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".brainds.ai"], [href*="//brainds.ai"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(brainds.ai):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".bubio.ai"], [href*="//bubio.ai"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(bubio.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".buddy.ai"], [href*="//buddy.ai"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(buddy.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".bylo.ai"], [href*="//bylo.ai"]):upward(.snippet):remove()
@@ -636,6 +638,8 @@ search.brave.com###results > .snippet a:is([href*=".lexyapp.ai"], [href*="//lexy
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(lexyapp.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".libraire.ai"], [href*="//libraire.ai"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(libraire.ai):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".liftapp.ai"], [href*="//liftapp.ai"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(liftapp.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".lightyear.ai"], [href*="//lightyear.ai"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(lightyear.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".lingup.ai"], [href*="//lingup.ai"]):upward(.snippet):remove()
@@ -1184,6 +1188,8 @@ search.brave.com###results > .snippet a:is([href*=".imagineme.app"], [href*="//i
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(imagineme.app):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".infiniteworlds.app"], [href*="//infiniteworlds.app"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(infiniteworlds.app):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".komiko.app"], [href*="//komiko.app"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(komiko.app):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".live-portrait.vercel.app"], [href*="//live-portrait.vercel.app"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(live-portrait.vercel.app):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".liveportrait.app"], [href*="//liveportrait.app"]):upward(.snippet):remove()
@@ -1500,6 +1506,8 @@ search.brave.com###results > .snippet a:is([href*=".ai-englishlab.com"], [href*=
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(ai-englishlab.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".ai-fantasy-art.com"], [href*="//ai-fantasy-art.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(ai-fantasy-art.com):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".ai-pokemon-generator.en.softonic.com"], [href*="//ai-pokemon-generator.en.softonic.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(ai-pokemon-generator.en.softonic.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".ai.gopubby.com"], [href*="//ai.gopubby.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(ai.gopubby.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".ai.nero.com"], [href*="//ai.nero.com"]):upward(.snippet):remove()
@@ -1842,6 +1850,8 @@ search.brave.com###results > .snippet a:is([href*=".drawever.com"], [href*="//dr
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(drawever.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".dreamboothr.com"], [href*="//dreamboothr.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(dreamboothr.com):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".dreamina.capcut.com"], [href*="//dreamina.capcut.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(dreamina.capcut.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".dreamphillic.com"], [href*="//dreamphillic.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(dreamphillic.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".dreamsofbooks.com"], [href*="//dreamsofbooks.com"]):upward(.snippet):remove()
@@ -1918,6 +1928,8 @@ search.brave.com###results > .snippet a:is([href*=".funinformatique.com"], [href
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(funinformatique.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".future-pedia.com"], [href*="//future-pedia.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(future-pedia.com):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".futureen.com"], [href*="//futureen.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(futureen.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".fxhome.com"], [href*="//fxhome.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(fxhome.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".fykoo.com"], [href*="//fykoo.com"]):upward(.snippet):remove()
@@ -2868,6 +2880,8 @@ search.brave.com###results > .snippet a:is([href*=".objectiondecroissance.org"],
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(objectiondecroissance.org):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".ocfchess.org"], [href*="//ocfchess.org"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(ocfchess.org):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".opportunitycroydon.org"], [href*="//opportunitycroydon.org"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(opportunitycroydon.org):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".perchance.org"], [href*="//perchance.org"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(perchance.org):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".promptlibrary.org"], [href*="//promptlibrary.org"]):upward(.snippet):remove()
@@ -3066,6 +3080,8 @@ search.brave.com###results > .snippet a:is([href*=".koala.sh"], [href*="//koala.
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(koala.sh):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".larevueia.fr"], [href*="//larevueia.fr"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(larevueia.fr):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".linear.liftapp"], [href*="//linear.liftapp"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linear.liftapp):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".lovelines.xyz"], [href*="//lovelines.xyz"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(lovelines.xyz):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".made.porn"], [href*="//made.porn"]):upward(.snippet):remove()
@@ -3088,6 +3104,8 @@ search.brave.com###results > .snippet a:is([href*=".myedit.online"], [href*="//m
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(myedit.online):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".nathaliedupuy.fr"], [href*="//nathaliedupuy.fr"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(nathaliedupuy.fr):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".naviai.cn"], [href*="//naviai.cn"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(naviai.cn):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".neural.love"], [href*="//neural.love"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(neural.love):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".nextberry.de"], [href*="//nextberry.de"]):upward(.snippet):remove()
@@ -4368,9 +4386,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4393,9 +4411,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260622.2207
-! Last modified: Mon, 22 Jun 2026 22:07:57 GMT
-! Original file date: undefined
+! Version: 20260702.2238
+! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
+! Original file date: 2026-07-01T17:01:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
