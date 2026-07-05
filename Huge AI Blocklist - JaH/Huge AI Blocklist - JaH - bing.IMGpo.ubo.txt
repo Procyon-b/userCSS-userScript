@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -1062,6 +1062,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".askai.glarity.app"], [href*=
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".askai.glarity.app"], [href*="//askai.glarity.app"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".askaichat.app"], [href*="//askaichat.app"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".askaichat.app"], [href*="//askaichat.app"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".banana2.app"], [href*="//banana2.app"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".banana2.app"], [href*="//banana2.app"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".bargpt.app"], [href*="//bargpt.app"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".bargpt.app"], [href*="//bargpt.app"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".deepfaker.app"], [href*="//deepfaker.app"]):upward(li):remove()
@@ -1454,6 +1456,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".aicoin.com"], [href*="//aico
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aicoin.com"], [href*="//aicoin.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".aicreate.com"], [href*="//aicreate.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aicreate.com"], [href*="//aicreate.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".aidomainnews.blogspot.com"], [href*="//aidomainnews.blogspot.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aidomainnews.blogspot.com"], [href*="//aidomainnews.blogspot.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".aidrivenrecipes.com"], [href*="//aidrivenrecipes.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aidrivenrecipes.com"], [href*="//aidrivenrecipes.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".aidungeon.com"], [href*="//aidungeon.com"]):upward(li):remove()
@@ -1808,6 +1812,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".fashionadvisorai.com"], [hre
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".fashionadvisorai.com"], [href*="//fashionadvisorai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".favtutor.com"], [href*="//favtutor.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".favtutor.com"], [href*="//favtutor.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".fdaytalk.com"], [href*="//fdaytalk.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".fdaytalk.com"], [href*="//fdaytalk.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".findmyaitool.com"], [href*="//findmyaitool.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".findmyaitool.com"], [href*="//findmyaitool.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".finxter.com"], [href*="//finxter.com"]):upward(li):remove()
@@ -1864,6 +1870,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".getidol.com"], [href*="//get
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".getidol.com"], [href*="//getidol.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".getmynudes.com"], [href*="//getmynudes.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".getmynudes.com"], [href*="//getmynudes.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".gingersec.com"], [href*="//gingersec.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".gingersec.com"], [href*="//gingersec.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".gitscripts.com"], [href*="//gitscripts.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".gitscripts.com"], [href*="//gitscripts.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".goaimusic.com"], [href*="//goaimusic.com"]):upward(li):remove()
@@ -2040,6 +2048,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".mindfulchase.com"], [href*="
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".mindfulchase.com"], [href*="//mindfulchase.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".mindplix.com"], [href*="//mindplix.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".mindplix.com"], [href*="//mindplix.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".mintmetricai.com"], [href*="//mintmetricai.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".mintmetricai.com"], [href*="//mintmetricai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".mixcomfy.com"], [href*="//mixcomfy.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".mixcomfy.com"], [href*="//mixcomfy.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".mixologyai.com"], [href*="//mixologyai.com"]):upward(li):remove()
@@ -2662,6 +2672,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".aichatting.net"], [href*="//
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aichatting.net"], [href*="//aichatting.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".aihentaigenerator.net"], [href*="//aihentaigenerator.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aihentaigenerator.net"], [href*="//aihentaigenerator.net"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".aiphotogenerator.net"], [href*="//aiphotogenerator.net"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aiphotogenerator.net"], [href*="//aiphotogenerator.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".aiporn.net"], [href*="//aiporn.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aiporn.net"], [href*="//aiporn.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".aipornhub.net"], [href*="//aipornhub.net"]):upward(li):remove()
@@ -2718,6 +2730,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".novelai.net"], [href*="//nov
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".novelai.net"], [href*="//novelai.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".nudeme.net"], [href*="//nudeme.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".nudeme.net"], [href*="//nudeme.net"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".photoavatarmaker.net"], [href*="//photoavatarmaker.net"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".photoavatarmaker.net"], [href*="//photoavatarmaker.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".podcastrocket.net"], [href*="//podcastrocket.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".podcastrocket.net"], [href*="//podcastrocket.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".porndeepfake.net"], [href*="//porndeepfake.net"]):upward(li):remove()
@@ -4290,9 +4304,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4319,9 +4333,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4348,9 +4362,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4377,9 +4391,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4406,9 +4420,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4435,9 +4449,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.

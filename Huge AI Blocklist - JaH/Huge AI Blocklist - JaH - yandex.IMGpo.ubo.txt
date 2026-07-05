@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1158,6 +1158,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".askai.glarity.app"], [href*="//askai.glarity.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".askaichat.app"], [href*="//askaichat.app"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".askaichat.app"], [href*="//askaichat.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".banana2.app"], [href*="//banana2.app"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".banana2.app"], [href*="//banana2.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".bargpt.app"], [href*="//bargpt.app"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".bargpt.app"], [href*="//bargpt.app"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".deepfaker.app"], [href*="//deepfaker.app"]):upward(li):remove()
@@ -1550,6 +1552,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aicoin.com"], [href*="//aicoin.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aicreate.com"], [href*="//aicreate.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aicreate.com"], [href*="//aicreate.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aidomainnews.blogspot.com"], [href*="//aidomainnews.blogspot.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aidomainnews.blogspot.com"], [href*="//aidomainnews.blogspot.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aidrivenrecipes.com"], [href*="//aidrivenrecipes.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aidrivenrecipes.com"], [href*="//aidrivenrecipes.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aidungeon.com"], [href*="//aidungeon.com"]):upward(li):remove()
@@ -1904,6 +1908,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".fashionadvisorai.com"], [href*="//fashionadvisorai.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".favtutor.com"], [href*="//favtutor.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".favtutor.com"], [href*="//favtutor.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".fdaytalk.com"], [href*="//fdaytalk.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".fdaytalk.com"], [href*="//fdaytalk.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".findmyaitool.com"], [href*="//findmyaitool.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".findmyaitool.com"], [href*="//findmyaitool.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".finxter.com"], [href*="//finxter.com"]):upward(li):remove()
@@ -1960,6 +1966,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".getidol.com"], [href*="//getidol.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".getmynudes.com"], [href*="//getmynudes.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".getmynudes.com"], [href*="//getmynudes.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".gingersec.com"], [href*="//gingersec.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".gingersec.com"], [href*="//gingersec.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".gitscripts.com"], [href*="//gitscripts.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".gitscripts.com"], [href*="//gitscripts.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".goaimusic.com"], [href*="//goaimusic.com"]):upward(li):remove()
@@ -2136,6 +2144,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mindfulchase.com"], [href*="//mindfulchase.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mindplix.com"], [href*="//mindplix.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mindplix.com"], [href*="//mindplix.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mintmetricai.com"], [href*="//mintmetricai.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mintmetricai.com"], [href*="//mintmetricai.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mixcomfy.com"], [href*="//mixcomfy.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mixcomfy.com"], [href*="//mixcomfy.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mixologyai.com"], [href*="//mixologyai.com"]):upward(li):remove()
@@ -2758,6 +2768,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aichatting.net"], [href*="//aichatting.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aihentaigenerator.net"], [href*="//aihentaigenerator.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aihentaigenerator.net"], [href*="//aihentaigenerator.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aiphotogenerator.net"], [href*="//aiphotogenerator.net"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aiphotogenerator.net"], [href*="//aiphotogenerator.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aiporn.net"], [href*="//aiporn.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aiporn.net"], [href*="//aiporn.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aipornhub.net"], [href*="//aipornhub.net"]):upward(li):remove()
@@ -2814,6 +2826,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".novelai.net"], [href*="//novelai.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".nudeme.net"], [href*="//nudeme.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".nudeme.net"], [href*="//nudeme.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".photoavatarmaker.net"], [href*="//photoavatarmaker.net"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".photoavatarmaker.net"], [href*="//photoavatarmaker.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".podcastrocket.net"], [href*="//podcastrocket.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".podcastrocket.net"], [href*="//podcastrocket.net"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".porndeepfake.net"], [href*="//porndeepfake.net"]):upward(li):remove()
@@ -4386,9 +4400,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4411,9 +4425,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260702.2238
-! Last modified: Thu, 02 Jul 2026 22:38:35 GMT
-! Original file date: 2026-07-01T17:01:00Z
+! Version: 20260705.1653
+! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
+! Original file date: 2026-07-05T16:49:24Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
