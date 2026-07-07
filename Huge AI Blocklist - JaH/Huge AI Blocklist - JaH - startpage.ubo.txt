@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260705.1653
-! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
-! Original file date: 2026-07-05T16:49:24Z
+! Version: 20260707.1703
+! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
+! Original file date: 2026-07-07T12:37:07Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260705.1653
-! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
-! Original file date: 2026-07-05T16:49:24Z
+! Version: 20260707.1703
+! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
+! Original file date: 2026-07-07T12:37:07Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260705.1653
-! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
-! Original file date: 2026-07-05T16:49:24Z
+! Version: 20260707.1703
+! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
+! Original file date: 2026-07-07T12:37:07Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260705.1653
-! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
-! Original file date: 2026-07-05T16:49:24Z
+! Version: 20260707.1703
+! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
+! Original file date: 2026-07-07T12:37:07Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260705.1653
-! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
-! Original file date: 2026-07-05T16:49:24Z
+! Version: 20260707.1703
+! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
+! Original file date: 2026-07-07T12:37:07Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1456,6 +1456,8 @@ startpage.com###main div.result a:is([href*=".diffusionart.co"], [href*="//diffu
 startpage.com###main div.image-container .image-quick-details > span:has-text(diffusionart.co):upward(.image-container)
 startpage.com###main div.result a:is([href*=".embolden.co"], [href*="//embolden.co"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(embolden.co):upward(.image-container)
+startpage.com###main div.result a:is([href*=".factually.co"], [href*="//factually.co"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(factually.co):upward(.image-container)
 startpage.com###main div.result a:is([href*=".hiddendoor.co"], [href*="//hiddendoor.co"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(hiddendoor.co):upward(.image-container)
 startpage.com###main div.result a:is([href*=".huggingface.co"], [href*="//huggingface.co"]):upward(.result):remove()
@@ -4400,9 +4402,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260705.1653
-! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
-! Original file date: 2026-07-05T16:49:24Z
+! Version: 20260707.1703
+! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
+! Original file date: 2026-07-07T12:37:07Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4425,9 +4427,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260705.1653
-! Last modified: Sun, 05 Jul 2026 16:53:54 GMT
-! Original file date: 2026-07-05T16:49:24Z
+! Version: 20260707.1703
+! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
+! Original file date: 2026-07-07T12:37:07Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
