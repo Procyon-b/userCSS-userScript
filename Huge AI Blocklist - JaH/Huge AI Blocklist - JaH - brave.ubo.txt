@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260707.1703
-! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
-! Original file date: 2026-07-07T12:37:07Z
+! Version: 20260708.1836
+! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
+! Original file date: 2026-07-08T16:18:33Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260707.1703
-! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
-! Original file date: 2026-07-07T12:37:07Z
+! Version: 20260708.1836
+! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
+! Original file date: 2026-07-08T16:18:33Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260707.1703
-! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
-! Original file date: 2026-07-07T12:37:07Z
+! Version: 20260708.1836
+! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
+! Original file date: 2026-07-08T16:18:33Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260707.1703
-! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
-! Original file date: 2026-07-07T12:37:07Z
+! Version: 20260708.1836
+! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
+! Original file date: 2026-07-08T16:18:33Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260707.1703
-! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
-! Original file date: 2026-07-07T12:37:07Z
+! Version: 20260708.1836
+! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
+! Original file date: 2026-07-08T16:18:33Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -428,6 +428,8 @@ search.brave.com###results > .snippet a:is([href*=".eilla.ai"], [href*="//eilla.
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(eilla.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".eleuther.ai"], [href*="//eleuther.ai"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(eleuther.ai):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".elser.ai"], [href*="//elser.ai"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(elser.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".englishcoach.ai"], [href*="//englishcoach.ai"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(englishcoach.ai):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".englishdaily.ai"], [href*="//englishdaily.ai"]):upward(.snippet):remove()
@@ -1214,6 +1216,8 @@ search.brave.com###results > .snippet a:is([href*=".roleplai.app"], [href*="//ro
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(roleplai.app):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".roughly.app"], [href*="//roughly.app"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(roughly.app):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".seeddance.app"], [href*="//seeddance.app"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(seeddance.app):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".sidequests.halonex.app"], [href*="//sidequests.halonex.app"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(sidequests.halonex.app):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".spreadai.app"], [href*="//spreadai.app"]):upward(.snippet):remove()
@@ -1682,6 +1686,8 @@ search.brave.com###results > .snippet a:is([href*=".bobcares.com"], [href*="//bo
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(bobcares.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".boomy.com"], [href*="//boomy.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(boomy.com):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".brainly.com"], [href*="//brainly.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(brainly.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".briskteaching.com"], [href*="//briskteaching.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(briskteaching.com):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".buddhaweekly.com"], [href*="//buddhaweekly.com"]):upward(.snippet):remove()
@@ -3590,6 +3596,8 @@ search.brave.com###results > .snippet a:is([href*=".medium.com/@inchristiely"], 
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(medium.com/@inchristiely):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".medium.com/@moraneus"], [href*="//medium.com/@moraneus"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(medium.com/@moraneus):upward(.image-result):remove()
+search.brave.com###results > .snippet a:is([href*=".medium.com/@ooikrish13"], [href*="//medium.com/@ooikrish13"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(medium.com/@ooikrish13):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".medium.com/@queenskisivuli"], [href*="//medium.com/@queenskisivuli"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(medium.com/@queenskisivuli):upward(.image-result):remove()
 search.brave.com###results > .snippet a:is([href*=".medium.com/generative-ai"], [href*="//medium.com/generative-ai"]):upward(.snippet):remove()
@@ -4402,9 +4410,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260707.1703
-! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
-! Original file date: 2026-07-07T12:37:07Z
+! Version: 20260708.1836
+! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
+! Original file date: 2026-07-08T16:18:33Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4427,9 +4435,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260707.1703
-! Last modified: Tue, 07 Jul 2026 17:03:58 GMT
-! Original file date: 2026-07-07T12:37:07Z
+! Version: 20260708.1836
+! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
+! Original file date: 2026-07-08T16:18:33Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
