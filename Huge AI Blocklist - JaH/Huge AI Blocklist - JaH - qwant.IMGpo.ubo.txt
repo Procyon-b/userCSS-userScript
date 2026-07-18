@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260708.1836
-! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
-! Original file date: 2026-07-08T16:18:33Z
+! Version: 20260718.1937
+! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
+! Original file date: 2026-07-18T07:17:23Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260708.1836
-! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
-! Original file date: 2026-07-08T16:18:33Z
+! Version: 20260718.1937
+! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
+! Original file date: 2026-07-18T07:17:23Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260708.1836
-! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
-! Original file date: 2026-07-08T16:18:33Z
+! Version: 20260718.1937
+! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
+! Original file date: 2026-07-18T07:17:23Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260708.1836
-! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
-! Original file date: 2026-07-08T16:18:33Z
+! Version: 20260718.1937
+! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
+! Original file date: 2026-07-18T07:17:23Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260708.1836
-! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
-! Original file date: 2026-07-08T16:18:33Z
+! Version: 20260718.1937
+! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
+! Original file date: 2026-07-18T07:17:23Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -3148,6 +3148,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="nudify.site"
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(nudify.site):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="olafjeziorski.pl"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(olafjeziorski.pl):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="onenaturalist.blog"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(onenaturalist.blog):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="onexception.dev"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(onexception.dev):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="otasarimciol.shop"]:upward(1):remove()
@@ -4410,9 +4412,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260708.1836
-! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
-! Original file date: 2026-07-08T16:18:33Z
+! Version: 20260718.1937
+! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
+! Original file date: 2026-07-18T07:17:23Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4435,9 +4437,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260708.1836
-! Last modified: Wed, 08 Jul 2026 18:36:16 GMT
-! Original file date: 2026-07-08T16:18:33Z
+! Version: 20260718.1937
+! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
+! Original file date: 2026-07-18T07:17:23Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
