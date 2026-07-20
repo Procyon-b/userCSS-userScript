@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -1808,6 +1808,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".englishoverview.com"], [href
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".englishoverview.com"], [href*="//englishoverview.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".epic-avatar.com"], [href*="//epic-avatar.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".epic-avatar.com"], [href*="//epic-avatar.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".fadr.com"], [href*="//fadr.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".fadr.com"], [href*="//fadr.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".fairytailai.com"], [href*="//fairytailai.com"]):upward(li):remove()
@@ -4316,9 +4318,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4345,9 +4347,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4374,9 +4376,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4403,9 +4405,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4432,9 +4434,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4461,9 +4463,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.

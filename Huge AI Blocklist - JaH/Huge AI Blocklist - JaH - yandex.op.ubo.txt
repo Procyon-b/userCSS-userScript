@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1904,6 +1904,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".englishoverview.com"], [href*="//englishoverview.com"]):upward(.JustifierRowLayout-Item):style(opacity: .4 !important; outline: 2px solid red;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".epic-avatar.com"], [href*="//epic-avatar.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".epic-avatar.com"], [href*="//epic-avatar.com"]):upward(.JustifierRowLayout-Item):style(opacity: .4 !important; outline: 2px solid red;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"]):upward(.JustifierRowLayout-Item):style(opacity: .4 !important; outline: 2px solid red;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".fadr.com"], [href*="//fadr.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".fadr.com"], [href*="//fadr.com"]):upward(.JustifierRowLayout-Item):style(opacity: .4 !important; outline: 2px solid red;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".fairytailai.com"], [href*="//fairytailai.com"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4412,9 +4414,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4437,9 +4439,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

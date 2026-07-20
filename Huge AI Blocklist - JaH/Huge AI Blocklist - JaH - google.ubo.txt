@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1013,6 +1013,7 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [js
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class]:is([href*=".engineerwithaitech.com"], [href*="//engineerwithaitech.com"])):remove()
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class]:is([href*=".englishoverview.com"], [href*="//englishoverview.com"])):remove()
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class]:is([href*=".epic-avatar.com"], [href*="//epic-avatar.com"])):remove()
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class]:is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"])):remove()
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class]:is([href*=".fadr.com"], [href*="//fadr.com"])):remove()
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class]:is([href*=".fairytailai.com"], [href*="//fairytailai.com"])):remove()
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [jsname="dTDiAc"]):has(a[class]:is([href*=".fakeyou.com"], [href*="//fakeyou.com"])):remove()
@@ -2275,9 +2276,9 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [js
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2300,9 +2301,9 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf, [js
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260718.1937
-! Last modified: Sat, 18 Jul 2026 19:37:55 GMT
-! Original file date: 2026-07-18T07:17:23Z
+! Version: 20260720.1739
+! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
+! Original file date: 2026-07-20T17:07:19Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
