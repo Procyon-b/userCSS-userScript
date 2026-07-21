@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -330,6 +330,8 @@ startpage.com###main div.result a:is([href*=".coursebox.ai"], [href*="//coursebo
 startpage.com###main div.image-container .image-quick-details > span:has-text(coursebox.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".covers.ai"], [href*="//covers.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(covers.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is([href*=".craftium.ai"], [href*="//craftium.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(craftium.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".creaitor.ai"], [href*="//creaitor.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(creaitor.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".creati.ai"], [href*="//creati.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1634,6 +1636,8 @@ startpage.com###main div.result a:is([href*=".amhuru.com"], [href*="//amhuru.com
 startpage.com###main div.image-container .image-quick-details > span:has-text(amhuru.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".angelgf.com"], [href*="//angelgf.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(angelgf.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is([href*=".animalbrainrot.com"], [href*="//animalbrainrot.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(animalbrainrot.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".anythingtranslate.com"], [href*="//anythingtranslate.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(anythingtranslate.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".app.studyraid.com"], [href*="//app.studyraid.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1688,6 +1692,8 @@ startpage.com###main div.result a:is([href*=".boomy.com"], [href*="//boomy.com"]
 startpage.com###main div.image-container .image-quick-details > span:has-text(boomy.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".brainly.com"], [href*="//brainly.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(brainly.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is([href*=".brainrothub.com"], [href*="//brainrothub.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(brainrothub.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".briskteaching.com"], [href*="//briskteaching.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(briskteaching.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".buddhaweekly.com"], [href*="//buddhaweekly.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1832,6 +1838,8 @@ startpage.com###main div.result a:is([href*=".descript.com"], [href*="//descript
 startpage.com###main div.image-container .image-quick-details > span:has-text(descript.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(desifakes.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is([href*=".designzscrapaishop.com"], [href*="//designzscrapaishop.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(designzscrapaishop.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".desklib.com"], [href*="//desklib.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(desklib.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".dev59.com"], [href*="//dev59.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2060,6 +2068,8 @@ startpage.com###main div.result a:is([href*=".jannyai.com"], [href*="//jannyai.c
 startpage.com###main div.image-container .image-quick-details > span:has-text(jannyai.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".journeyaiart.com"], [href*="//journeyaiart.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(journeyaiart.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is([href*=".joyreactor.com"], [href*="//joyreactor.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(joyreactor.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".justspeakai.com"], [href*="//justspeakai.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(justspeakai.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".kaedim3d.com"], [href*="//kaedim3d.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3262,6 +3272,8 @@ startpage.com###main div.result a:is([href*=".wondershare.fr"], [href*="//wonder
 startpage.com###main div.image-container .image-quick-details > span:has-text(wondershare.fr):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".yoohoo.cards"], [href*="//yoohoo.cards"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(yoohoo.cards):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is([href*=".zerochan.next"], [href*="//zerochan.next"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(zerochan.next):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".zerogpt.plus"], [href*="//zerogpt.plus"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(zerogpt.plus):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is([href*=".zleague.gg"], [href*="//zleague.gg"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4414,9 +4426,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4439,9 +4451,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

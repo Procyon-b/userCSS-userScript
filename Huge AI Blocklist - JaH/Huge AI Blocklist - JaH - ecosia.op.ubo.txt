@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -330,6 +330,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".coursebox.ai"], [href*="//coursebox.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".covers.ai"], [href*="//covers.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".covers.ai"], [href*="//covers.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".craftium.ai"], [href*="//craftium.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".craftium.ai"], [href*="//craftium.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".creaitor.ai"], [href*="//creaitor.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".creaitor.ai"], [href*="//creaitor.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".creati.ai"], [href*="//creati.ai"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1634,6 +1636,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".amhuru.com"], [href*="//amhuru.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".angelgf.com"], [href*="//angelgf.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".angelgf.com"], [href*="//angelgf.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".animalbrainrot.com"], [href*="//animalbrainrot.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".animalbrainrot.com"], [href*="//animalbrainrot.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".anythingtranslate.com"], [href*="//anythingtranslate.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".anythingtranslate.com"], [href*="//anythingtranslate.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".app.studyraid.com"], [href*="//app.studyraid.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1688,6 +1692,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".boomy.com"], [href*="//boomy.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".brainly.com"], [href*="//brainly.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".brainly.com"], [href*="//brainly.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".brainrothub.com"], [href*="//brainrothub.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".brainrothub.com"], [href*="//brainrothub.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".briskteaching.com"], [href*="//briskteaching.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".briskteaching.com"], [href*="//briskteaching.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".buddhaweekly.com"], [href*="//buddhaweekly.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1832,6 +1838,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".descript.com"], [href*="//descript.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".designzscrapaishop.com"], [href*="//designzscrapaishop.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".designzscrapaishop.com"], [href*="//designzscrapaishop.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".desklib.com"], [href*="//desklib.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".desklib.com"], [href*="//desklib.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".dev59.com"], [href*="//dev59.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2060,6 +2068,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".jannyai.com"], [href*="//jannyai.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".journeyaiart.com"], [href*="//journeyaiart.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".journeyaiart.com"], [href*="//journeyaiart.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".joyreactor.com"], [href*="//joyreactor.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".joyreactor.com"], [href*="//joyreactor.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".justspeakai.com"], [href*="//justspeakai.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".justspeakai.com"], [href*="//justspeakai.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".kaedim3d.com"], [href*="//kaedim3d.com"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3262,6 +3272,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".wondershare.fr"], [href*="//wondershare.fr"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".yoohoo.cards"], [href*="//yoohoo.cards"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".yoohoo.cards"], [href*="//yoohoo.cards"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".zerochan.next"], [href*="//zerochan.next"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".zerochan.next"], [href*="//zerochan.next"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".zerogpt.plus"], [href*="//zerogpt.plus"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".zerogpt.plus"], [href*="//zerogpt.plus"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".zleague.gg"], [href*="//zleague.gg"]):upward(article):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4414,9 +4426,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4439,9 +4451,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260720.1739
-! Last modified: Mon, 20 Jul 2026 17:39:33 GMT
-! Original file date: 2026-07-20T17:07:19Z
+! Version: 20260721.1552
+! Last modified: Tue, 21 Jul 2026 15:52:02 GMT
+! Original file date: 2026-07-21T10:05:31Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
