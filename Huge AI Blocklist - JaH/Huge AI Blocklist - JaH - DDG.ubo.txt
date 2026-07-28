@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260726.1717
-! Last modified: Sun, 26 Jul 2026 17:17:04 GMT
-! Original file date: 2026-07-26T11:23:39Z
+! Version: 20260728.1631
+! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
+! Original file date: 2026-07-28T15:27:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260726.1717
-! Last modified: Sun, 26 Jul 2026 17:17:04 GMT
-! Original file date: 2026-07-26T11:23:39Z
+! Version: 20260728.1631
+! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
+! Original file date: 2026-07-28T15:27:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260726.1717
-! Last modified: Sun, 26 Jul 2026 17:17:04 GMT
-! Original file date: 2026-07-26T11:23:39Z
+! Version: 20260728.1631
+! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
+! Original file date: 2026-07-28T15:27:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -531,6 +531,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".thisan
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".tingo.ai"], [href*="//tingo.ai"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".tldrdev.ai"], [href*="//tldrdev.ai"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".tooldirectory.ai"], [href*="//tooldirectory.ai"]):upward(li):remove()
+duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".toolerific.ai"], [href*="//toolerific.ai"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".toolify.ai"], [href*="//toolify.ai"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".toolnest.ai"], [href*="//toolnest.ai"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".toolpilot.ai"], [href*="//toolpilot.ai"]):upward(li):remove()
@@ -2234,9 +2235,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260726.1717
-! Last modified: Sun, 26 Jul 2026 17:17:04 GMT
-! Original file date: 2026-07-26T11:23:39Z
+! Version: 20260728.1631
+! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
+! Original file date: 2026-07-28T15:27:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2259,9 +2260,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260726.1717
-! Last modified: Sun, 26 Jul 2026 17:17:04 GMT
-! Original file date: 2026-07-26T11:23:39Z
+! Version: 20260728.1631
+! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
+! Original file date: 2026-07-28T15:27:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2284,9 +2285,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260726.1717
-! Last modified: Sun, 26 Jul 2026 17:17:04 GMT
-! Original file date: 2026-07-26T11:23:39Z
+! Version: 20260728.1631
+! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
+! Original file date: 2026-07-28T15:27:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2309,9 +2310,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260726.1717
-! Last modified: Sun, 26 Jul 2026 17:17:04 GMT
-! Original file date: 2026-07-26T11:23:39Z
+! Version: 20260728.1631
+! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
+! Original file date: 2026-07-28T15:27:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
