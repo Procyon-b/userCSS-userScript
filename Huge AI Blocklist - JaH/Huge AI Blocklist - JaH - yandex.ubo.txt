@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1174,6 +1174,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".domoai.app"], [href*="//domoai.app"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".eightify.app"], [href*="//eightify.app"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".eightify.app"], [href*="//eightify.app"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".flowmusic.app"], [href*="//flowmusic.app"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".flowmusic.app"], [href*="//flowmusic.app"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".gamma.app"], [href*="//gamma.app"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".gamma.app"], [href*="//gamma.app"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".getnude.app"], [href*="//getnude.app"]):upward(li):remove()
@@ -2174,6 +2176,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mixcomfy.com"], [href*="//mixcomfy.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mixologyai.com"], [href*="//mixologyai.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mixologyai.com"], [href*="//mixologyai.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mizou.com"], [href*="//mizou.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mizou.com"], [href*="//mizou.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mobile-eyes.com"], [href*="//mobile-eyes.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mobile-eyes.com"], [href*="//mobile-eyes.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mobirise.com"], [href*="//mobirise.com"]):upward(li):remove()
@@ -2484,6 +2488,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".steelefortress.com"], [href*="//steelefortress.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".stepofweb.com"], [href*="//stepofweb.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".stepofweb.com"], [href*="//stepofweb.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".stitch.withgoogle.com"], [href*="//stitch.withgoogle.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".stitch.withgoogle.com"], [href*="//stitch.withgoogle.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".stl24.com"], [href*="//stl24.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".stl24.com"], [href*="//stl24.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".stlmax.com"], [href*="//stlmax.com"]):upward(li):remove()
@@ -2650,6 +2656,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".zebrabi.com"], [href*="//zebrabi.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".zhihu.com"], [href*="//zhihu.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".zhihu.com"], [href*="//zhihu.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".zonerai.com"], [href*="//zonerai.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".zonerai.com"], [href*="//zonerai.com"]):upward(.JustifierRowLayout-Item):remove()
 
 ! Sites that have .io domain extension
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".ai-art.latitude.io"], [href*="//ai-art.latitude.io"]):upward(li):remove()
@@ -2960,6 +2968,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aiartgenerator.us"], [href*="//aiartgenerator.us"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aibooru.online"], [href*="//aibooru.online"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aibooru.online"], [href*="//aibooru.online"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aidetem.cz"], [href*="//aidetem.cz"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aidetem.cz"], [href*="//aidetem.cz"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aiforsocialgood.ca"], [href*="//aiforsocialgood.ca"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".aiforsocialgood.ca"], [href*="//aiforsocialgood.ca"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".aigirlfriend.sex"], [href*="//aigirlfriend.sex"]):upward(li):remove()
@@ -2994,6 +3004,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".animalia-life.club"], [href*="//animalia-life.club"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".animeart.studio"], [href*="//animeart.studio"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".animeart.studio"], [href*="//animeart.studio"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".app.sciobot.cz"], [href*="//app.sciobot.cz"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".app.sciobot.cz"], [href*="//app.sciobot.cz"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".artbreeder"], [href*="//artbreeder"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".artbreeder"], [href*="//artbreeder"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".artpictures.club"], [href*="//artpictures.club"]):upward(li):remove()
@@ -3014,6 +3026,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".carboncopy.pro"], [href*="//carboncopy.pro"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".chatgpt.fr"], [href*="//chatgpt.fr"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".chatgpt.fr"], [href*="//chatgpt.fr"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".chatveskole.cz"], [href*="//chatveskole.cz"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".chatveskole.cz"], [href*="//chatveskole.cz"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".cheatsheet.md"], [href*="//cheatsheet.md"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".cheatsheet.md"], [href*="//cheatsheet.md"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".chilloutai.xyz"], [href*="//chilloutai.xyz"]):upward(li):remove()
@@ -3112,12 +3126,16 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".image.computer"], [href*="//image.computer"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".imake.porn"], [href*="//imake.porn"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".imake.porn"], [href*="//imake.porn"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".informatika.naucmese.eu"], [href*="//informatika.naucmese.eu"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".informatika.naucmese.eu"], [href*="//informatika.naucmese.eu"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".ipv6.rs"], [href*="//ipv6.rs"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".ipv6.rs"], [href*="//ipv6.rs"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".jeveuxetredatascientist.fr"], [href*="//jeveuxetredatascientist.fr"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".jeveuxetredatascientist.fr"], [href*="//jeveuxetredatascientist.fr"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".koala.sh"], [href*="//koala.sh"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".koala.sh"], [href*="//koala.sh"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".kurikulum.aidetem.cz"], [href*="//kurikulum.aidetem.cz"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".kurikulum.aidetem.cz"], [href*="//kurikulum.aidetem.cz"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".larevueia.fr"], [href*="//larevueia.fr"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".larevueia.fr"], [href*="//larevueia.fr"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".linear.liftapp"], [href*="//linear.liftapp"]):upward(li):remove()
@@ -3128,6 +3146,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".made.porn"], [href*="//made.porn"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".mage.space"], [href*="//mage.space"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".mage.space"], [href*="//mage.space"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".manena.info"], [href*="//manena.info"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".manena.info"], [href*="//manena.info"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".manuals.plus"], [href*="//manuals.plus"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".manuals.plus"], [href*="//manuals.plus"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".memo.tv"], [href*="//memo.tv"]):upward(li):remove()
@@ -3208,8 +3228,12 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".rabbit.tech"], [href*="//rabbit.tech"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".renovables.blog"], [href*="//renovables.blog"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".renovables.blog"], [href*="//renovables.blog"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".sciobot-next.cz"], [href*="//sciobot-next.cz"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".sciobot-next.cz"], [href*="//sciobot-next.cz"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".sciobot.cz"], [href*="//sciobot.cz"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".sciobot.cz"], [href*="//sciobot.cz"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".sciobot.sk"], [href*="//sciobot.sk"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".sciobot.sk"], [href*="//sciobot.sk"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".sexystars.online"], [href*="//sexystars.online"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".sexystars.online"], [href*="//sexystars.online"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".sharaku.us"], [href*="//sharaku.us"]):upward(li):remove()
@@ -3268,6 +3292,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".veritecachee.fr"], [href*="//veritecachee.fr"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".visla.us"], [href*="//visla.us"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".visla.us"], [href*="//visla.us"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".vzdelavame.aidetem.cz"], [href*="//vzdelavame.aidetem.cz"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".vzdelavame.aidetem.cz"], [href*="//vzdelavame.aidetem.cz"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".waifu.com.mx"], [href*="//waifu.com.mx"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".waifu.com.mx"], [href*="//waifu.com.mx"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".warp.dev"], [href*="//warp.dev"]):upward(li):remove()
@@ -4432,9 +4458,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4457,9 +4483,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

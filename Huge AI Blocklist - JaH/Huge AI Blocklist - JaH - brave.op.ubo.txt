@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1174,6 +1174,8 @@ search.brave.com###results > .snippet a:is([href*=".domoai.app"], [href*="//domo
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(domoai.app):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".eightify.app"], [href*="//eightify.app"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(eightify.app):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".flowmusic.app"], [href*="//flowmusic.app"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(flowmusic.app):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".gamma.app"], [href*="//gamma.app"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(gamma.app):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".getnude.app"], [href*="//getnude.app"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2174,6 +2176,8 @@ search.brave.com###results > .snippet a:is([href*=".mixcomfy.com"], [href*="//mi
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(mixcomfy.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".mixologyai.com"], [href*="//mixologyai.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(mixologyai.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".mizou.com"], [href*="//mizou.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(mizou.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".mobile-eyes.com"], [href*="//mobile-eyes.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(mobile-eyes.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".mobirise.com"], [href*="//mobirise.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2484,6 +2488,8 @@ search.brave.com###results > .snippet a:is([href*=".steelefortress.com"], [href*
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(steelefortress.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".stepofweb.com"], [href*="//stepofweb.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(stepofweb.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".stitch.withgoogle.com"], [href*="//stitch.withgoogle.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(stitch.withgoogle.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".stl24.com"], [href*="//stl24.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(stl24.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".stlmax.com"], [href*="//stlmax.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2650,6 +2656,8 @@ search.brave.com###results > .snippet a:is([href*=".zebrabi.com"], [href*="//zeb
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(zebrabi.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".zhihu.com"], [href*="//zhihu.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(zhihu.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".zonerai.com"], [href*="//zonerai.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(zonerai.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 
 ! Sites that have .io domain extension
 search.brave.com###results > .snippet a:is([href*=".ai-art.latitude.io"], [href*="//ai-art.latitude.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2960,6 +2968,8 @@ search.brave.com###results > .snippet a:is([href*=".aiartgenerator.us"], [href*=
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(aiartgenerator.us):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".aibooru.online"], [href*="//aibooru.online"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(aibooru.online):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".aidetem.cz"], [href*="//aidetem.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(aidetem.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".aiforsocialgood.ca"], [href*="//aiforsocialgood.ca"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(aiforsocialgood.ca):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".aigirlfriend.sex"], [href*="//aigirlfriend.sex"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2994,6 +3004,8 @@ search.brave.com###results > .snippet a:is([href*=".animalia-life.club"], [href*
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(animalia-life.club):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".animeart.studio"], [href*="//animeart.studio"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(animeart.studio):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".app.sciobot.cz"], [href*="//app.sciobot.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(app.sciobot.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".artbreeder"], [href*="//artbreeder"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(artbreeder):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".artpictures.club"], [href*="//artpictures.club"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3014,6 +3026,8 @@ search.brave.com###results > .snippet a:is([href*=".carboncopy.pro"], [href*="//
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(carboncopy.pro):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".chatgpt.fr"], [href*="//chatgpt.fr"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(chatgpt.fr):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".chatveskole.cz"], [href*="//chatveskole.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(chatveskole.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".cheatsheet.md"], [href*="//cheatsheet.md"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(cheatsheet.md):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".chilloutai.xyz"], [href*="//chilloutai.xyz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3112,12 +3126,16 @@ search.brave.com###results > .snippet a:is([href*=".image.computer"], [href*="//
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(image.computer):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".imake.porn"], [href*="//imake.porn"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(imake.porn):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".informatika.naucmese.eu"], [href*="//informatika.naucmese.eu"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(informatika.naucmese.eu):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".ipv6.rs"], [href*="//ipv6.rs"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(ipv6.rs):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".jeveuxetredatascientist.fr"], [href*="//jeveuxetredatascientist.fr"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(jeveuxetredatascientist.fr):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".koala.sh"], [href*="//koala.sh"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(koala.sh):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".kurikulum.aidetem.cz"], [href*="//kurikulum.aidetem.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(kurikulum.aidetem.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".larevueia.fr"], [href*="//larevueia.fr"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(larevueia.fr):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".linear.liftapp"], [href*="//linear.liftapp"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3128,6 +3146,8 @@ search.brave.com###results > .snippet a:is([href*=".made.porn"], [href*="//made.
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(made.porn):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".mage.space"], [href*="//mage.space"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(mage.space):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".manena.info"], [href*="//manena.info"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(manena.info):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".manuals.plus"], [href*="//manuals.plus"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(manuals.plus):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".memo.tv"], [href*="//memo.tv"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3208,8 +3228,12 @@ search.brave.com###results > .snippet a:is([href*=".rabbit.tech"], [href*="//rab
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(rabbit.tech):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".renovables.blog"], [href*="//renovables.blog"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(renovables.blog):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".sciobot-next.cz"], [href*="//sciobot-next.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(sciobot-next.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".sciobot.cz"], [href*="//sciobot.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(sciobot.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".sciobot.sk"], [href*="//sciobot.sk"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(sciobot.sk):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".sexystars.online"], [href*="//sexystars.online"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(sexystars.online):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".sharaku.us"], [href*="//sharaku.us"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3268,6 +3292,8 @@ search.brave.com###results > .snippet a:is([href*=".veritecachee.fr"], [href*="/
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(veritecachee.fr):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".visla.us"], [href*="//visla.us"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(visla.us):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is([href*=".vzdelavame.aidetem.cz"], [href*="//vzdelavame.aidetem.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(vzdelavame.aidetem.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".waifu.com.mx"], [href*="//waifu.com.mx"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(waifu.com.mx):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is([href*=".warp.dev"], [href*="//warp.dev"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4432,9 +4458,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4457,9 +4483,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260728.1631
-! Last modified: Tue, 28 Jul 2026 16:31:41 GMT
-! Original file date: 2026-07-28T15:27:39Z
+! Version: 20260802.1952
+! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
+! Original file date: 2026-08-02T06:34:35Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
