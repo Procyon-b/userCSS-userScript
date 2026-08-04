@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260802.1952
-! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
-! Original file date: 2026-08-02T06:34:35Z
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260802.1952
-! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
-! Original file date: 2026-08-02T06:34:35Z
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260802.1952
-! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
-! Original file date: 2026-08-02T06:34:35Z
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260802.1952
-! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
-! Original file date: 2026-08-02T06:34:35Z
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260802.1952
-! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
-! Original file date: 2026-08-02T06:34:35Z
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1902,6 +1902,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".eggradients.com"], [href*="//eggradients.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".egyptmythology.com"], [href*="//egyptmythology.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".egyptmythology.com"], [href*="//egyptmythology.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".electronics.alibaba.com"], [href*="//electronics.alibaba.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".electronics.alibaba.com"], [href*="//electronics.alibaba.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".emailtriager.com"], [href*="//emailtriager.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".emailtriager.com"], [href*="//emailtriager.com"]):upward(.JustifierRowLayout-Item):style(opacity: 0 !important; pointer-events: none;)
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".emma-ai-teacher.com"], [href*="//emma-ai-teacher.com"]):upward(li):remove()
@@ -4458,9 +4460,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260802.1952
-! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
-! Original file date: 2026-08-02T06:34:35Z
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4483,9 +4485,34 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260802.1952
-! Last modified: Sun, 02 Aug 2026 19:52:36 GMT
-! Original file date: 2026-08-02T06:34:35Z
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
+
+! Homepage: https://github.com/Procyon-b/userCSS-userScript
+
+!
+! Issues: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/issues
+! PRs: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/pulls
+
+! Sites that have .ai domain extension
+! Sites that have .app domain extension
+! Sites that have .art domain extension
+! Sites that have .co domain extension
+! Sites that have .com domain extension
+! Sites that have .io domain extension
+! Sites that have .net domain extension
+! Sites that have .org domain extension
+! Sites that have other domain extensions
+! Specific users/subpages with predominantly AI-generated content
+! Title: Huge AI Blocklist -- JaH - Yandex - image placeholder
+! Expires: 4 days
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
+
+! Version: 20260804.1944
+! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
+! Original file date: 2026-08-04T17:46:13Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
