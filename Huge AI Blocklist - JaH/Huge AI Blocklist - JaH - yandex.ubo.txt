@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2066,6 +2066,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".ishencai.com"], [href*="//ishencai.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".iskysoft.com"], [href*="//iskysoft.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".iskysoft.com"], [href*="//iskysoft.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".itslinuxfoss.com"], [href*="//itslinuxfoss.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".itslinuxfoss.com"], [href*="//itslinuxfoss.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".iwaifu.com"], [href*="//iwaifu.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".iwaifu.com"], [href*="//iwaifu.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".jacting.com"], [href*="//jacting.com"]):upward(li):remove()
@@ -2722,6 +2724,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".instantart.io"], [href*="//instantart.io"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".invideo.io"], [href*="//invideo.io"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".invideo.io"], [href*="//invideo.io"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".itsfoss.gitlab.io"], [href*="//itsfoss.gitlab.io"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".itsfoss.gitlab.io"], [href*="//itsfoss.gitlab.io"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".jakeward.io"], [href*="//jakeward.io"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".jakeward.io"], [href*="//jakeward.io"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".kahma.io"], [href*="//kahma.io"]):upward(li):remove()
@@ -2872,6 +2876,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".pornlabs.net"], [href*="//pornlabs.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".promptpal.net"], [href*="//promptpal.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".promptpal.net"], [href*="//promptpal.net"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".robots.net"], [href*="//robots.net"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".robots.net"], [href*="//robots.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".sexcelebrity.net"], [href*="//sexcelebrity.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".sexcelebrity.net"], [href*="//sexcelebrity.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is([href*=".soulgen.net"], [href*="//soulgen.net"]):upward(li):remove()
@@ -4460,9 +4466,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4485,9 +4491,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4510,9 +4516,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is([href*=".youtube.com
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

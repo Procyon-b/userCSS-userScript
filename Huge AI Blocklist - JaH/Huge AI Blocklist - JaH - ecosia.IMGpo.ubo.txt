@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2066,6 +2066,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".ishencai.com"], [href*="//ishencai.com"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".iskysoft.com"], [href*="//iskysoft.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".iskysoft.com"], [href*="//iskysoft.com"]):upward(article):style( opacity: 0; pointer-events: none; )
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".itslinuxfoss.com"], [href*="//itslinuxfoss.com"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".itslinuxfoss.com"], [href*="//itslinuxfoss.com"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".iwaifu.com"], [href*="//iwaifu.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".iwaifu.com"], [href*="//iwaifu.com"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".jacting.com"], [href*="//jacting.com"]):upward(article):remove()
@@ -2722,6 +2724,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".instantart.io"], [href*="//instantart.io"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".invideo.io"], [href*="//invideo.io"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".invideo.io"], [href*="//invideo.io"]):upward(article):style( opacity: 0; pointer-events: none; )
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".itsfoss.gitlab.io"], [href*="//itsfoss.gitlab.io"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".itsfoss.gitlab.io"], [href*="//itsfoss.gitlab.io"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".jakeward.io"], [href*="//jakeward.io"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".jakeward.io"], [href*="//jakeward.io"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".kahma.io"], [href*="//kahma.io"]):upward(article):remove()
@@ -2872,6 +2876,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".pornlabs.net"], [href*="//pornlabs.net"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".promptpal.net"], [href*="//promptpal.net"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".promptpal.net"], [href*="//promptpal.net"]):upward(article):style( opacity: 0; pointer-events: none; )
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".robots.net"], [href*="//robots.net"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".robots.net"], [href*="//robots.net"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".sexcelebrity.net"], [href*="//sexcelebrity.net"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is([href*=".sexcelebrity.net"], [href*="//sexcelebrity.net"]):upward(article):style( opacity: 0; pointer-events: none; )
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is([href*=".soulgen.net"], [href*="//soulgen.net"]):upward(article):remove()
@@ -4460,9 +4466,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4485,9 +4491,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4510,9 +4516,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

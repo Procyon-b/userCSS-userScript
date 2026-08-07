@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1044,6 +1044,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".interl
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".irmoai.com"], [href*="//irmoai.com"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".ishencai.com"], [href*="//ishencai.com"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".iskysoft.com"], [href*="//iskysoft.com"]):upward(li):remove()
+duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".itslinuxfoss.com"], [href*="//itslinuxfoss.com"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".iwaifu.com"], [href*="//iwaifu.com"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".jacting.com"], [href*="//jacting.com"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".janitorai.com"], [href*="//janitorai.com"]):upward(li):remove()
@@ -1373,6 +1374,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".ggpred
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".gpt4free.io"], [href*="//gpt4free.io"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".instantart.io"], [href*="//instantart.io"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".invideo.io"], [href*="//invideo.io"]):upward(li):remove()
+duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".itsfoss.gitlab.io"], [href*="//itsfoss.gitlab.io"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".jakeward.io"], [href*="//jakeward.io"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".kahma.io"], [href*="//kahma.io"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".laive.io"], [href*="//laive.io"]):upward(li):remove()
@@ -1449,6 +1451,7 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".podcas
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".porndeepfake.net"], [href*="//porndeepfake.net"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".pornlabs.net"], [href*="//pornlabs.net"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".promptpal.net"], [href*="//promptpal.net"]):upward(li):remove()
+duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".robots.net"], [href*="//robots.net"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".sexcelebrity.net"], [href*="//sexcelebrity.net"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".soulgen.net"], [href*="//soulgen.net"]):upward(li):remove()
 duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".speedpaint.net"], [href*="//speedpaint.net"]):upward(li):remove()
@@ -2249,9 +2252,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2274,9 +2277,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2299,9 +2302,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2324,9 +2327,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2349,9 +2352,9 @@ duckduckgo.com##:is(li[data-layout="organic"], li > figure) a:is([href*=".youtub
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260804.1944
-! Last modified: Tue, 04 Aug 2026 19:44:56 GMT
-! Original file date: 2026-08-04T17:46:13Z
+! Version: 20260807.1937
+! Last modified: Fri, 07 Aug 2026 19:37:14 GMT
+! Original file date: 2026-08-07T15:26:50Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
