@@ -1,11 +1,11 @@
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2202,14 +2202,14 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw"], [href*="//youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=".youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ"], [href*="//youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ"]):upward(li):style(opacity: .4 !important; outline: 2px solid red;)
 
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2231,14 +2231,14 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Sites that have .org domain extension
 ! Sites that have other domain extensions
 ! Specific users/subpages with predominantly AI-generated content
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2260,14 +2260,14 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Sites that have .org domain extension
 ! Sites that have other domain extensions
 ! Specific users/subpages with predominantly AI-generated content
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2289,14 +2289,14 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Sites that have .org domain extension
 ! Sites that have other domain extensions
 ! Specific users/subpages with predominantly AI-generated content
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2318,14 +2318,14 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Sites that have .org domain extension
 ! Sites that have other domain extensions
 ! Specific users/subpages with predominantly AI-generated content
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2347,14 +2347,14 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Sites that have .org domain extension
 ! Sites that have other domain extensions
 ! Specific users/subpages with predominantly AI-generated content
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -2376,14 +2376,14 @@ www.bing.com###b_content :is(main, #vm_c) li a:is(.tilk,[h*="image"]):is([href*=
 ! Sites that have .org domain extension
 ! Sites that have other domain extensions
 ! Specific users/subpages with predominantly AI-generated content
-! Title: Huge AI Blocklist -- JaH - bing - opacity
+! Title: AI Image-Search Blocklist -- JaH - bing - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260814.0408
-! Last modified: Fri, 14 Aug 2026 04:08:20 GMT
-! Original file date: 2026-08-13T14:57:04Z
+! Version: 20260820.1517
+! Last modified: Thu, 20 Aug 2026 15:17:10 GMT
+! Original file date: 2026-08-20T09:38:16Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
