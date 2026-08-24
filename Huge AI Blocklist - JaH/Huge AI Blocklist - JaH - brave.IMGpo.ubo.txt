@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1476,6 +1476,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".iamfy.co
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(iamfy.co):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".jinnee.co"], [href*="//jinnee.co"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(jinnee.co):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".knightstemplar.co"], [href*="//knightstemplar.co"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(knightstemplar.co):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".midjourney.co"], [href*="//midjourney.co"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(midjourney.co):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".postalai.co"], [href*="//postalai.co"]):upward(.snippet):remove()
@@ -1684,6 +1686,10 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".bdiscove
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(bdiscover.kakaobrain.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".beatcoynz-artwork.com"], [href*="//beatcoynz-artwork.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(beatcoynz-artwork.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".beekeepersrealm.com"], [href*="//beekeepersrealm.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(beekeepersrealm.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".beekeeping-101.com"], [href*="//beekeeping-101.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(beekeeping-101.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".bestaitools.com"], [href*="//bestaitools.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(bestaitools.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".bestofai.com"], [href*="//bestofai.com"]):upward(.snippet):remove()
@@ -2156,6 +2162,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".maroonch
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(maroonchess.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".masterpiecestudio.com"], [href*="//masterpiecestudio.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(masterpiecestudio.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".medievalchronicles.com"], [href*="//medievalchronicles.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(medievalchronicles.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".menu52.com"], [href*="//menu52.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(menu52.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".metademolab.com"], [href*="//metademolab.com"]):upward(.snippet):remove()
@@ -4470,9 +4478,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4495,9 +4503,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4520,9 +4528,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1476,6 +1476,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".iamfy.co"], [href*="//iamfy.co"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".jinnee.co"], [href*="//jinnee.co"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".jinnee.co"], [href*="//jinnee.co"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".knightstemplar.co"], [href*="//knightstemplar.co"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".knightstemplar.co"], [href*="//knightstemplar.co"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".midjourney.co"], [href*="//midjourney.co"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".midjourney.co"], [href*="//midjourney.co"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".postalai.co"], [href*="//postalai.co"])):remove()
@@ -1684,6 +1686,10 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".bdiscover.kakaobrain.com"], [href*="//bdiscover.kakaobrain.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".beatcoynz-artwork.com"], [href*="//beatcoynz-artwork.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".beatcoynz-artwork.com"], [href*="//beatcoynz-artwork.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".beekeepersrealm.com"], [href*="//beekeepersrealm.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".beekeepersrealm.com"], [href*="//beekeepersrealm.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".beekeeping-101.com"], [href*="//beekeeping-101.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".beekeeping-101.com"], [href*="//beekeeping-101.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".bestaitools.com"], [href*="//bestaitools.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".bestaitools.com"], [href*="//bestaitools.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".bestofai.com"], [href*="//bestofai.com"])):remove()
@@ -2156,6 +2162,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".maroonchess.com"], [href*="//maroonchess.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".masterpiecestudio.com"], [href*="//masterpiecestudio.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".masterpiecestudio.com"], [href*="//masterpiecestudio.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".medievalchronicles.com"], [href*="//medievalchronicles.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".medievalchronicles.com"], [href*="//medievalchronicles.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".menu52.com"], [href*="//menu52.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".menu52.com"], [href*="//menu52.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".metademolab.com"], [href*="//metademolab.com"])):remove()
@@ -4470,9 +4478,9 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4495,9 +4503,9 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4520,9 +4528,9 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260822.0028
-! Last modified: Sat, 22 Aug 2026 00:28:04 GMT
-! Original file date: 2026-08-21T07:48:09Z
+! Version: 20260824.2005
+! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
+! Original file date: 2026-08-24T18:15:39Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
