@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1496,6 +1496,8 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is(
 ! Sites that have .com domain extension
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link[href*=".udio.com"]:upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link[href*=".udio.com"]:upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".1mideas.com"], [href*="//1mideas.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".1mideas.com"], [href*="//1mideas.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".2523ai.com"], [href*="//2523ai.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".2523ai.com"], [href*="//2523ai.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".2moonsai.com"], [href*="//2moonsai.com"]):upward(li):remove()
@@ -1656,6 +1658,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".araminta-k.com"], [href*="//araminta-k.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".arikouts.com"], [href*="//arikouts.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".arikouts.com"], [href*="//arikouts.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".art.tranduythuan.com"], [href*="//art.tranduythuan.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".art.tranduythuan.com"], [href*="//art.tranduythuan.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".artaigallery.com"], [href*="//artaigallery.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".artaigallery.com"], [href*="//artaigallery.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".artbreeder.com"], [href*="//artbreeder.com"]):upward(li):remove()
@@ -1788,6 +1792,10 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".createimg.com"], [href*="//createimg.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".createporn.com"], [href*="//createporn.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".createporn.com"], [href*="//createporn.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".creative.hudistore.com"], [href*="//creative.hudistore.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".creative.hudistore.com"], [href*="//creative.hudistore.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".creative.rapthoitrang.com"], [href*="//creative.rapthoitrang.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".creative.rapthoitrang.com"], [href*="//creative.rapthoitrang.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".creativefabrica.com"], [href*="//creativefabrica.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".creativefabrica.com"], [href*="//creativefabrica.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".creatixai.com"], [href*="//creatixai.com"]):upward(li):remove()
@@ -1848,6 +1856,10 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".descript.com"], [href*="//descript.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".design.sabankientruc.com"], [href*="//design.sabankientruc.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".design.sabankientruc.com"], [href*="//design.sabankientruc.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".designingdreamscapes.com"], [href*="//designingdreamscapes.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".designingdreamscapes.com"], [href*="//designingdreamscapes.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".designzscrapaishop.com"], [href*="//designzscrapaishop.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".designzscrapaishop.com"], [href*="//designzscrapaishop.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".desklib.com"], [href*="//desklib.com"]):upward(li):remove()
@@ -1882,6 +1894,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".dreamboothr.com"], [href*="//dreamboothr.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".dreamina.capcut.com"], [href*="//dreamina.capcut.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".dreamina.capcut.com"], [href*="//dreamina.capcut.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".dreamingartsus.com"], [href*="//dreamingartsus.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".dreamingartsus.com"], [href*="//dreamingartsus.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".dreamphillic.com"], [href*="//dreamphillic.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".dreamphillic.com"], [href*="//dreamphillic.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".dreamsofbooks.com"], [href*="//dreamsofbooks.com"]):upward(li):remove()
@@ -1968,6 +1982,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".future-pedia.com"], [href*="//future-pedia.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".futureen.com"], [href*="//futureen.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".futureen.com"], [href*="//futureen.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".futuristicdecors.com"], [href*="//futuristicdecors.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".futuristicdecors.com"], [href*="//futuristicdecors.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".fxhome.com"], [href*="//fxhome.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".fxhome.com"], [href*="//fxhome.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".fykoo.com"], [href*="//fykoo.com"]):upward(li):remove()
@@ -2058,6 +2074,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".imyfone.com"], [href*="//imyfone.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".insertface.com"], [href*="//insertface.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".insertface.com"], [href*="//insertface.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".inspiredcourt.com"], [href*="//inspiredcourt.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".inspiredcourt.com"], [href*="//inspiredcourt.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".inspiredpencil.com"], [href*="//inspiredpencil.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".inspiredpencil.com"], [href*="//inspiredpencil.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".instantaiprompt.com"], [href*="//instantaiprompt.com"]):upward(li):remove()
@@ -2546,6 +2564,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".theaipromptshop.com"], [href*="//theaipromptshop.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".thebiblechat.com"], [href*="//thebiblechat.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".thebiblechat.com"], [href*="//thebiblechat.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".theconceptfurniture.com"], [href*="//theconceptfurniture.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".theconceptfurniture.com"], [href*="//theconceptfurniture.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".thecookingfacts.com"], [href*="//thecookingfacts.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".thecookingfacts.com"], [href*="//thecookingfacts.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".thegamingmecca.com"], [href*="//thegamingmecca.com"]):upward(li):remove()
@@ -2606,10 +2626,14 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".undressninja.com"], [href*="//undressninja.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".universalclipart.com"], [href*="//universalclipart.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".universalclipart.com"], [href*="//universalclipart.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".updatebirthday.com"], [href*="//updatebirthday.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".updatebirthday.com"], [href*="//updatebirthday.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".vana.com"], [href*="//vana.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".vana.com"], [href*="//vana.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".vanceai.com"], [href*="//vanceai.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".vanceai.com"], [href*="//vanceai.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".vehiclefuturistic.com"], [href*="//vehiclefuturistic.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".vehiclefuturistic.com"], [href*="//vehiclefuturistic.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".verbaledgeai.com"], [href*="//verbaledgeai.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".verbaledgeai.com"], [href*="//verbaledgeai.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".vetexplainspets.com"], [href*="//vetexplainspets.com"]):upward(li):remove()
@@ -2618,6 +2642,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".vibelf.com"], [href*="//vibelf.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".violetforest.com"], [href*="//violetforest.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".violetforest.com"], [href*="//violetforest.com"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".viralnewsflare.com"], [href*="//viralnewsflare.com"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".viralnewsflare.com"], [href*="//viralnewsflare.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".virtulook.wondershare.com"], [href*="//virtulook.wondershare.com"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".virtulook.wondershare.com"], [href*="//virtulook.wondershare.com"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".viseo.com"], [href*="//viseo.com"]):upward(li):remove()
@@ -2860,8 +2886,12 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".heatware.net"], [href*="//heatware.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".heyeditor.net"], [href*="//heyeditor.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".heyeditor.net"], [href*="//heyeditor.net"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".ideaarts.net"], [href*="//ideaarts.net"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".ideaarts.net"], [href*="//ideaarts.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".illusiondiffusion.net"], [href*="//illusiondiffusion.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".illusiondiffusion.net"], [href*="//illusiondiffusion.net"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".inspiring-designs.net"], [href*="//inspiring-designs.net"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".inspiring-designs.net"], [href*="//inspiring-designs.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".inspiringdesigns.net"], [href*="//inspiringdesigns.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".inspiringdesigns.net"], [href*="//inspiringdesigns.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".jeddahairport.net"], [href*="//jeddahairport.net"]):upward(li):remove()
@@ -2900,10 +2930,14 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".stable-diffusion-online.net"], [href*="//stable-diffusion-online.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".stable-diffusion.net"], [href*="//stable-diffusion.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".stable-diffusion.net"], [href*="//stable-diffusion.net"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".stylishhomeidea.net"], [href*="//stylishhomeidea.net"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".stylishhomeidea.net"], [href*="//stylishhomeidea.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".towardsai.net"], [href*="//towardsai.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".towardsai.net"], [href*="//towardsai.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".trycatchdebug.net"], [href*="//trycatchdebug.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".trycatchdebug.net"], [href*="//trycatchdebug.net"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".uniqarch.net"], [href*="//uniqarch.net"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".uniqarch.net"], [href*="//uniqarch.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".urbantinyhouse.net"], [href*="//urbantinyhouse.net"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".urbantinyhouse.net"], [href*="//urbantinyhouse.net"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".vitalentum.net"], [href*="//vitalentum.net"]):upward(li):remove()
@@ -3030,6 +3064,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".artbreeder"], [href*="//artbreeder"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".artpictures.club"], [href*="//artpictures.club"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".artpictures.club"], [href*="//artpictures.club"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".aviary.pl"], [href*="//aviary.pl"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".aviary.pl"], [href*="//aviary.pl"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".background.lol"], [href*="//background.lol"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".background.lol"], [href*="//background.lol"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".barcode.so"], [href*="//barcode.so"]):upward(li):remove()
@@ -3076,6 +3112,8 @@ yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".deepnude.ca"], [href*="//deepnude.ca"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".deepnude.cc"], [href*="//deepnude.cc"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".deepnude.cc"], [href*="//deepnude.cc"]):upward(.JustifierRowLayout-Item):remove()
+yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".design.lenhisafety.com.vn"], [href*="//design.lenhisafety.com.vn"]):upward(li):remove()
+yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".design.lenhisafety.com.vn"], [href*="//design.lenhisafety.com.vn"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".dev.to"], [href*="//dev.to"]):upward(li):remove()
 yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is([href*=".dev.to"], [href*="//dev.to"]):upward(.JustifierRowLayout-Item):remove()
 yandex.com##ul[aria-label="Search results"] > li a.OrganicHost-Link:is(.zReHs, .LBcIee):is([href*=".diffus.me"], [href*="//diffus.me"]):upward(li):remove()
@@ -4478,9 +4516,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is(
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4503,9 +4541,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is(
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4528,9 +4566,9 @@ yandex.com##.SerpList div.JustifierRowLayout-Item a.Link:is(.zReHs, .LBcIee):is(
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260824.2005
-! Last modified: Mon, 24 Aug 2026 20:05:18 GMT
-! Original file date: 2026-08-24T18:15:39Z
+! Version: 20260830.1451
+! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
+! Original file date: 2026-08-30T09:23:26Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
