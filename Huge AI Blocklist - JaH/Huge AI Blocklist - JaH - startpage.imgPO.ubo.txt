@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -786,6 +786,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".otter.ai"], [h
 startpage.com###main div.image-container .image-quick-details > span:has-text(otter.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".painter-ai.ai"], [href*="//painter-ai.ai"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(painter-ai.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".paintit.ai"], [href*="//paintit.ai"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(paintit.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".pandorasbox.ai"], [href*="//pandorasbox.ai"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(pandorasbox.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".partly.ai"], [href*="//partly.ai"]):upward(.result):remove()
@@ -1638,6 +1640,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".allthedifferen
 startpage.com###main div.image-container .image-quick-details > span:has-text(allthedifferences.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".allthingsai.com"], [href*="//allthingsai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(allthingsai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".amazingfoodanddrink.com"], [href*="//amazingfoodanddrink.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(amazingfoodanddrink.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ambcrypto.com"], [href*="//ambcrypto.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(ambcrypto.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".amhuru.com"], [href*="//amhuru.com"]):upward(.result):remove()
@@ -2436,6 +2440,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".riffusion.com"
 startpage.com###main div.image-container .image-quick-details > span:has-text(riffusion.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".romanticai.com"], [href*="//romanticai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(romanticai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".rottenwifi.com"], [href*="//rottenwifi.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(rottenwifi.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".runcomfy.com"], [href*="//runcomfy.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(runcomfy.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".rundiffusion.com"], [href*="//rundiffusion.com"]):upward(.result):remove()
@@ -2574,6 +2580,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".theinsaneapp.c
 startpage.com###main div.image-container .image-quick-details > span:has-text(theinsaneapp.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thejesusai.com"], [href*="//thejesusai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(thejesusai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thejimbosliceworkshop.com"], [href*="//thejimbosliceworkshop.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(thejimbosliceworkshop.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thejoai.com"], [href*="//thejoai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(thejoai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thelinuxcode.com"], [href*="//thelinuxcode.com"]):upward(.result):remove()
@@ -2654,6 +2662,10 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".waifulabs.com"
 startpage.com###main div.image-container .image-quick-details > span:has-text(waifulabs.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".wannafake.com"], [href*="//wannafake.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(wannafake.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".welders-supply.com"], [href*="//welders-supply.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(welders-supply.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".weldingproperty.com"], [href*="//weldingproperty.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(weldingproperty.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".wellsaidlabs.com"], [href*="//wellsaidlabs.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(wellsaidlabs.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".wenzhangerchuang.com"], [href*="//wenzhangerchuang.com"]):upward(.result):remove()
@@ -2966,6 +2978,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".english-ai.org
 startpage.com###main div.image-container .image-quick-details > span:has-text(english-ai.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".enviroliteracy.org"], [href*="//enviroliteracy.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(enviroliteracy.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(gameslearningsociety.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".humanizer.org"], [href*="//humanizer.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(humanizer.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"]):upward(.result):remove()
@@ -3216,6 +3230,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".midjourney.fm"
 startpage.com###main div.image-container .image-quick-details > span:has-text(midjourney.fm):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".minervadb.xyz"], [href*="//minervadb.xyz"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(minervadb.xyz):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".moonagedaydream.film"], [href*="//moonagedaydream.film"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(moonagedaydream.film):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".musicfy.lol"], [href*="//musicfy.lol"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(musicfy.lol):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".myedit.online"], [href*="//myedit.online"]):upward(.result):remove()
@@ -3278,6 +3294,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".prompt.quel.jp
 startpage.com###main div.image-container .image-quick-details > span:has-text(prompt.quel.jp):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".promptstock.photos"], [href*="//promptstock.photos"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(promptstock.photos):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".pubgoer.co.uk"], [href*="//pubgoer.co.uk"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(pubgoer.co.uk):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".qrcraft.xyz"], [href*="//qrcraft.xyz"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(qrcraft.xyz):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".quasi.market"], [href*="//quasi.market"]):upward(.result):remove()
@@ -4516,9 +4534,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4541,9 +4559,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4566,9 +4584,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

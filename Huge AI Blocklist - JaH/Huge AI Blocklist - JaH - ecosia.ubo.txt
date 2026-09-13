@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -786,6 +786,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".otter.ai"], [href*="//otter.ai"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".painter-ai.ai"], [href*="//painter-ai.ai"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".painter-ai.ai"], [href*="//painter-ai.ai"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".paintit.ai"], [href*="//paintit.ai"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".paintit.ai"], [href*="//paintit.ai"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".pandorasbox.ai"], [href*="//pandorasbox.ai"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".pandorasbox.ai"], [href*="//pandorasbox.ai"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".partly.ai"], [href*="//partly.ai"]):upward(article):remove()
@@ -1638,6 +1640,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".allthedifferences.com"], [href*="//allthedifferences.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".allthingsai.com"], [href*="//allthingsai.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".allthingsai.com"], [href*="//allthingsai.com"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".amazingfoodanddrink.com"], [href*="//amazingfoodanddrink.com"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".amazingfoodanddrink.com"], [href*="//amazingfoodanddrink.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".ambcrypto.com"], [href*="//ambcrypto.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".ambcrypto.com"], [href*="//ambcrypto.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".amhuru.com"], [href*="//amhuru.com"]):upward(article):remove()
@@ -2436,6 +2440,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".riffusion.com"], [href*="//riffusion.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".romanticai.com"], [href*="//romanticai.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".romanticai.com"], [href*="//romanticai.com"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".rottenwifi.com"], [href*="//rottenwifi.com"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".rottenwifi.com"], [href*="//rottenwifi.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".runcomfy.com"], [href*="//runcomfy.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".runcomfy.com"], [href*="//runcomfy.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".rundiffusion.com"], [href*="//rundiffusion.com"]):upward(article):remove()
@@ -2574,6 +2580,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".theinsaneapp.com"], [href*="//theinsaneapp.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".thejesusai.com"], [href*="//thejesusai.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".thejesusai.com"], [href*="//thejesusai.com"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".thejimbosliceworkshop.com"], [href*="//thejimbosliceworkshop.com"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".thejimbosliceworkshop.com"], [href*="//thejimbosliceworkshop.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".thejoai.com"], [href*="//thejoai.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".thejoai.com"], [href*="//thejoai.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".thelinuxcode.com"], [href*="//thelinuxcode.com"]):upward(article):remove()
@@ -2654,6 +2662,10 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".waifulabs.com"], [href*="//waifulabs.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".wannafake.com"], [href*="//wannafake.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".wannafake.com"], [href*="//wannafake.com"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".welders-supply.com"], [href*="//welders-supply.com"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".welders-supply.com"], [href*="//welders-supply.com"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".weldingproperty.com"], [href*="//weldingproperty.com"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".weldingproperty.com"], [href*="//weldingproperty.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".wellsaidlabs.com"], [href*="//wellsaidlabs.com"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".wellsaidlabs.com"], [href*="//wellsaidlabs.com"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".wenzhangerchuang.com"], [href*="//wenzhangerchuang.com"]):upward(article):remove()
@@ -2966,6 +2978,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".english-ai.org"], [href*="//english-ai.org"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".enviroliteracy.org"], [href*="//enviroliteracy.org"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".enviroliteracy.org"], [href*="//enviroliteracy.org"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".humanizer.org"], [href*="//humanizer.org"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".humanizer.org"], [href*="//humanizer.org"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"]):upward(article):remove()
@@ -3216,6 +3230,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".midjourney.fm"], [href*="//midjourney.fm"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".minervadb.xyz"], [href*="//minervadb.xyz"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".minervadb.xyz"], [href*="//minervadb.xyz"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".moonagedaydream.film"], [href*="//moonagedaydream.film"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".moonagedaydream.film"], [href*="//moonagedaydream.film"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".musicfy.lol"], [href*="//musicfy.lol"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".musicfy.lol"], [href*="//musicfy.lol"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".myedit.online"], [href*="//myedit.online"]):upward(article):remove()
@@ -3278,6 +3294,8 @@ ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".prompt.quel.jp"], [href*="//prompt.quel.jp"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".promptstock.photos"], [href*="//promptstock.photos"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".promptstock.photos"], [href*="//promptstock.photos"]):upward(article):remove()
+ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".pubgoer.co.uk"], [href*="//pubgoer.co.uk"]):upward(article):remove()
+ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".pubgoer.co.uk"], [href*="//pubgoer.co.uk"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".qrcraft.xyz"], [href*="//qrcraft.xyz"]):upward(article):remove()
 ecosia.org##section.images__results article a:is(.image-result__link,.image-result__details-link):is(.zReHs, .LBcIee):is([href*=".qrcraft.xyz"], [href*="//qrcraft.xyz"]):upward(article):remove()
 ecosia.org##div[data-test-id="mainline-result-web"] > article .result__title > a.result__link:is(.zReHs, .LBcIee):is([href*=".quasi.market"], [href*="//quasi.market"]):upward(article):remove()
@@ -4516,9 +4534,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4541,9 +4559,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4566,9 +4584,9 @@ ecosia.org##section.images__results article a:is(.image-result__link,.image-resu
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260830.1451
-! Last modified: Sun, 30 Aug 2026 14:51:58 GMT
-! Original file date: 2026-08-30T09:23:26Z
+! Version: 20260913.1752
+! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
+! Original file date: 2026-09-13T08:25:51Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
