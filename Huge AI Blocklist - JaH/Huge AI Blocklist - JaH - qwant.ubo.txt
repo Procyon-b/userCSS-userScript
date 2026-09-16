@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -2094,6 +2094,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="ishencai.com
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(ishencai.com):upward(div.i3XL2.xM17T)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="iskysoft.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(iskysoft.com):upward(div.i3XL2.xM17T)
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="itarian.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(itarian.com):upward(div.i3XL2.xM17T)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="itslinuxfoss.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(itslinuxfoss.com):upward(div.i3XL2.xM17T)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="iwaifu.com"]:upward(1):remove()
@@ -3086,6 +3088,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="barcode.so"]
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(barcode.so):upward(div.i3XL2.xM17T)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="bare.club"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(bare.club):upward(div.i3XL2.xM17T)
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="batteriedrone.fr"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(batteriedrone.fr):upward(div.i3XL2.xM17T)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="bottr.me"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(bottr.me):upward(div.i3XL2.xM17T)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="boutique-wp.fr"]:upward(1):remove()
@@ -4534,9 +4538,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4559,9 +4563,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4584,9 +4588,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260913.1752
-! Last modified: Sun, 13 Sep 2026 17:52:23 GMT
-! Original file date: 2026-09-13T08:25:51Z
+! Version: 20260916.0420
+! Last modified: Wed, 16 Sep 2026 04:20:50 GMT
+! Original file date: 2025-10-02T23:25:53Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
