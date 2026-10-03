@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1650,6 +1650,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".angelgf.com"], [href*="//angelgf.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".animalbrainrot.com"], [href*="//animalbrainrot.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".animalbrainrot.com"], [href*="//animalbrainrot.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".animalerie-interalim.com"], [href*="//animalerie-interalim.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".animalerie-interalim.com"], [href*="//animalerie-interalim.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".anythingtranslate.com"], [href*="//anythingtranslate.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".anythingtranslate.com"], [href*="//anythingtranslate.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".app.studyraid.com"], [href*="//app.studyraid.com"])):remove()
@@ -1702,6 +1704,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".bestaitools.com"], [href*="//bestaitools.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".bestofai.com"], [href*="//bestofai.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".bestofai.com"], [href*="//bestofai.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".bgcopper.com"], [href*="//bgcopper.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".bgcopper.com"], [href*="//bgcopper.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".blimeycreate.com"], [href*="//blimeycreate.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".blimeycreate.com"], [href*="//blimeycreate.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".bobcares.com"], [href*="//bobcares.com"])):remove()
@@ -2640,12 +2644,16 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".universalclipart.com"], [href*="//universalclipart.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".updatebirthday.com"], [href*="//updatebirthday.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".updatebirthday.com"], [href*="//updatebirthday.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".usefulbs.com"], [href*="//usefulbs.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".usefulbs.com"], [href*="//usefulbs.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".vana.com"], [href*="//vana.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".vana.com"], [href*="//vana.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".vanceai.com"], [href*="//vanceai.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".vanceai.com"], [href*="//vanceai.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".vehiclefuturistic.com"], [href*="//vehiclefuturistic.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".vehiclefuturistic.com"], [href*="//vehiclefuturistic.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".veras-copper.com"], [href*="//veras-copper.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".veras-copper.com"], [href*="//veras-copper.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".verbaledgeai.com"], [href*="//verbaledgeai.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".verbaledgeai.com"], [href*="//verbaledgeai.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".vetexplainspets.com"], [href*="//vetexplainspets.com"])):remove()
@@ -2702,6 +2710,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".www.techbloat.com"], [href*="//www.techbloat.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".xjavascript.com"], [href*="//xjavascript.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".xjavascript.com"], [href*="//xjavascript.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".yeahweddings.com"], [href*="//yeahweddings.com"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".yeahweddings.com"], [href*="//yeahweddings.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".yodayo.com"], [href*="//yodayo.com"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".yodayo.com"], [href*="//yodayo.com"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".yourdreamai.com"], [href*="//yourdreamai.com"])):remove()
@@ -2968,6 +2978,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".aimodels.org"], [href*="//aimodels.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".bikehike.org"], [href*="//bikehike.org"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".bikehike.org"], [href*="//bikehike.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".cambridgeanalytica.org"], [href*="//cambridgeanalytica.org"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".cambridgeanalytica.org"], [href*="//cambridgeanalytica.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".chatgptfrancais.org"], [href*="//chatgptfrancais.org"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".chatgptfrancais.org"], [href*="//chatgptfrancais.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".comfy.org"], [href*="//comfy.org"])):remove()
@@ -2984,8 +2996,12 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".enviroliteracy.org"], [href*="//enviroliteracy.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".historyinpolitics.org"], [href*="//historyinpolitics.org"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".historyinpolitics.org"], [href*="//historyinpolitics.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".humanizer.org"], [href*="//humanizer.org"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".humanizer.org"], [href*="//humanizer.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".leravi.org"], [href*="//leravi.org"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".leravi.org"], [href*="//leravi.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".liveportrait.org"], [href*="//liveportrait.org"])):remove()
@@ -3022,6 +3038,8 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .
 ! Sites that have other domain extensions
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*="..play.ht"], [href*="//.play.ht"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*="..play.ht"], [href*="//.play.ht"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".CMU.fr"], [href*="//CMU.fr"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".CMU.fr"], [href*="//CMU.fr"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".ai-art.tokyo"], [href*="//ai-art.tokyo"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".ai-art.tokyo"], [href*="//ai-art.tokyo"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".ai-videos-generator.pro"], [href*="//ai-videos-generator.pro"])):remove()
@@ -3164,6 +3182,8 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".evolup.fr"], [href*="//evolup.fr"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".faceplay.info"], [href*="//faceplay.info"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".faceplay.info"], [href*="//faceplay.info"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
+www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".faislebeau.fr"], [href*="//faislebeau.fr"])):remove()
+www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".faislebeau.fr"], [href*="//faislebeau.fr"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".fluxai.dev"], [href*="//fluxai.dev"])):remove()
 www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .LBcIee):is([href*=".fluxai.dev"], [href*="//fluxai.dev"]):upward([jsname="dTDiAc"]):style( opacity: 0; pointer-events: none; )
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[class]:is(.zReHs, .LBcIee):is([href*=".fluxai.studio"], [href*="//fluxai.studio"])):remove()
@@ -4540,9 +4560,9 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4565,9 +4585,9 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4590,9 +4610,9 @@ www.google.*###search .MjjYud:only-child [jsname="dTDiAc"] a[class]:is(.zReHs, .
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20260918.1641
-! Last modified: Fri, 18 Sep 2026 16:41:25 GMT
-! Original file date: 2026-09-18T07:58:25Z
+! Version: 20261003.1853
+! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
+! Original file date: 2026-10-03T07:56:09Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
