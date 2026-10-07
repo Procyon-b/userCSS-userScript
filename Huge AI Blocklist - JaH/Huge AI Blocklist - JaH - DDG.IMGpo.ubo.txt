@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1466,6 +1466,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".actuia.com"], [href*="//
 duckduckgo.com##li > figure a:is([href*=".actuia.com"], [href*="//actuia.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".adultaitools.com"], [href*="//adultaitools.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".adultaitools.com"], [href*="//adultaitools.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".adventuregamers.com"], [href*="//adventuregamers.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".adventuregamers.com"], [href*="//adventuregamers.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".aeroscroll.com"], [href*="//aeroscroll.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".aeroscroll.com"], [href*="//aeroscroll.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".ai-code-translator.com"], [href*="//ai-code-translator.com"]):upward(li):remove()
@@ -1824,6 +1826,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".desklib.com"], [href*="/
 duckduckgo.com##li > figure a:is([href*=".desklib.com"], [href*="//desklib.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".dev59.com"], [href*="//dev59.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".dev59.com"], [href*="//dev59.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".devopsarsenal.com"], [href*="//devopsarsenal.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".devopsarsenal.com"], [href*="//devopsarsenal.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".devrevive.com"], [href*="//devrevive.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".devrevive.com"], [href*="//devrevive.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".dezgo.com"], [href*="//dezgo.com"]):upward(li):remove()
@@ -1898,6 +1902,10 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".englishoverview.com"], [
 duckduckgo.com##li > figure a:is([href*=".englishoverview.com"], [href*="//englishoverview.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".epic-avatar.com"], [href*="//epic-avatar.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".epic-avatar.com"], [href*="//epic-avatar.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".escapistmagazine.com"], [href*="//escapistmagazine.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".escapistmagazine.com"], [href*="//escapistmagazine.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".evenuepass.com"], [href*="//evenuepass.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".evenuepass.com"], [href*="//evenuepass.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".fadr.com"], [href*="//fadr.com"]):upward(li):remove()
@@ -1928,6 +1936,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".fluxaistudio.com"], [hre
 duckduckgo.com##li > figure a:is([href*=".fluxaistudio.com"], [href*="//fluxaistudio.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".forourposterity.com"], [href*="//forourposterity.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".forourposterity.com"], [href*="//forourposterity.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".fosslinux.com"], [href*="//fosslinux.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".fosslinux.com"], [href*="//fosslinux.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".fotor.com"], [href*="//fotor.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".fotor.com"], [href*="//fotor.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".frenchicoai.com"], [href*="//frenchicoai.com"]):upward(li):remove()
@@ -1950,6 +1960,10 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".fykoo.com"], [href*="//f
 duckduckgo.com##li > figure a:is([href*=".fykoo.com"], [href*="//fykoo.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".gaigify.com"], [href*="//gaigify.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".gaigify.com"], [href*="//gaigify.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".gameshub.com"], [href*="//gameshub.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".gameshub.com"], [href*="//gameshub.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".gbtimes.com"], [href*="//gbtimes.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".gbtimes.com"], [href*="//gbtimes.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".gcore.com"], [href*="//gcore.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".gcore.com"], [href*="//gcore.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".gecdesigns.com"], [href*="//gecdesigns.com"]):upward(li):remove()
@@ -2010,6 +2024,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".hyperwriteai.com"], [hre
 duckduckgo.com##li > figure a:is([href*=".hyperwriteai.com"], [href*="//hyperwriteai.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".hypnozh.com"], [href*="//hypnozh.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".hypnozh.com"], [href*="//hypnozh.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".i5apps.com"], [href*="//i5apps.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".i5apps.com"], [href*="//i5apps.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".icons8.com"], [href*="//icons8.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".icons8.com"], [href*="//icons8.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".ieltslounge.com"], [href*="//ieltslounge.com"]):upward(li):remove()
@@ -2120,8 +2136,12 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".lilybankai.com"], [href*
 duckduckgo.com##li > figure a:is([href*=".lilybankai.com"], [href*="//lilybankai.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".live2tech.com"], [href*="//live2tech.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".live2tech.com"], [href*="//live2tech.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".livereachcrm.com"], [href*="//livereachcrm.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".livereachcrm.com"], [href*="//livereachcrm.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".loudly.com"], [href*="//loudly.com"]):upward(li):remove()
@@ -2428,6 +2448,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".shopdeft.com"], [href*="
 duckduckgo.com##li > figure a:is([href*=".shopdeft.com"], [href*="//shopdeft.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".shruggingface.com"], [href*="//shruggingface.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".shruggingface.com"], [href*="//shruggingface.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".shunauto.com"], [href*="//shunauto.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".shunauto.com"], [href*="//shunauto.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".shungrill.com"], [href*="//shungrill.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".shungrill.com"], [href*="//shungrill.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".sightlessdev.com"], [href*="//sightlessdev.com"]):upward(li):remove()
@@ -2446,6 +2468,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".softhandtech.com"], [hre
 duckduckgo.com##li > figure a:is([href*=".softhandtech.com"], [href*="//softhandtech.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".softstrix.com"], [href*="//softstrix.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".softstrix.com"], [href*="//softstrix.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".solveyourtech.com"], [href*="//solveyourtech.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".solveyourtech.com"], [href*="//solveyourtech.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".songtell.com"], [href*="//songtell.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".songtell.com"], [href*="//songtell.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".sora.com"], [href*="//sora.com"]):upward(li):remove()
@@ -2502,6 +2526,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".suno.com"], [href*="//su
 duckduckgo.com##li > figure a:is([href*=".suno.com"], [href*="//suno.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".superprompts.com"], [href*="//superprompts.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".superprompts.com"], [href*="//superprompts.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".supportyourtech.com"], [href*="//supportyourtech.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".supportyourtech.com"], [href*="//supportyourtech.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".swag-ai.com"], [href*="//swag-ai.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".swag-ai.com"], [href*="//swag-ai.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".talkie-ai.com"], [href*="//talkie-ai.com"]):upward(li):remove()
@@ -2510,6 +2536,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".tallerhumano.com"], [hre
 duckduckgo.com##li > figure a:is([href*=".tallerhumano.com"], [href*="//tallerhumano.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".tattooyeah.com"], [href*="//tattooyeah.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".tattooyeah.com"], [href*="//tattooyeah.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".techbloat.com"], [href*="//techbloat.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".techbloat.com"], [href*="//techbloat.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".technolynx.com"], [href*="//technolynx.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".technolynx.com"], [href*="//technolynx.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".tecnobits.com"], [href*="//tecnobits.com"]):upward(li):remove()
@@ -2610,6 +2638,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".vetexplainspets.com"], [
 duckduckgo.com##li > figure a:is([href*=".vetexplainspets.com"], [href*="//vetexplainspets.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".vibelf.com"], [href*="//vibelf.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".vibelf.com"], [href*="//vibelf.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".videogamer.com"], [href*="//videogamer.com"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".videogamer.com"], [href*="//videogamer.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".violetforest.com"], [href*="//violetforest.com"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".violetforest.com"], [href*="//violetforest.com"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".viralnewsflare.com"], [href*="//viralnewsflare.com"]):upward(li):remove()
@@ -2958,6 +2988,8 @@ duckduckgo.com##li[data-layout="organic"] a:is([href*=".liveportrait.org"], [hre
 duckduckgo.com##li > figure a:is([href*=".liveportrait.org"], [href*="//liveportrait.org"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".madpenguin.org"], [href*="//madpenguin.org"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".madpenguin.org"], [href*="//madpenguin.org"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
+duckduckgo.com##li[data-layout="organic"] a:is([href*=".mefmobile.org"], [href*="//mefmobile.org"]):upward(li):remove()
+duckduckgo.com##li > figure a:is([href*=".mefmobile.org"], [href*="//mefmobile.org"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".mlyearning.org"], [href*="//mlyearning.org"]):upward(li):remove()
 duckduckgo.com##li > figure a:is([href*=".mlyearning.org"], [href*="//mlyearning.org"]):upward(li):style(opacity: 0 !important; pointer-events: none;)
 duckduckgo.com##li[data-layout="organic"] a:is([href*=".nailyourinterview.org"], [href*="//nailyourinterview.org"]):upward(li):remove()
@@ -4510,9 +4542,9 @@ duckduckgo.com##li > figure a:is([href*=".youtube.com/channel/UCvKqTb-65iAmXK59s
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4535,9 +4567,9 @@ duckduckgo.com##li > figure a:is([href*=".youtube.com/channel/UCvKqTb-65iAmXK59s
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4560,9 +4592,9 @@ duckduckgo.com##li > figure a:is([href*=".youtube.com/channel/UCvKqTb-65iAmXK59s
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4585,9 +4617,9 @@ duckduckgo.com##li > figure a:is([href*=".youtube.com/channel/UCvKqTb-65iAmXK59s
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4610,9 +4642,9 @@ duckduckgo.com##li > figure a:is([href*=".youtube.com/channel/UCvKqTb-65iAmXK59s
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261003.1853
-! Last modified: Sat, 03 Oct 2026 18:53:34 GMT
-! Original file date: 2026-10-03T07:56:09Z
+! Version: 20261007.1925
+! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
+! Original file date: 2026-10-07T19:07:05Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
