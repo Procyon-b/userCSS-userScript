@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1518,6 +1518,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".adultaitools.c
 startpage.com###main div.image-container .image-quick-details > span:has-text(adultaitools.com):upward(.image-container)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".adventuregamers.com"], [href*="//adventuregamers.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(adventuregamers.com):upward(.image-container)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".advoncommerce.com"], [href*="//advoncommerce.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(advoncommerce.com):upward(.image-container)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".aeroscroll.com"], [href*="//aeroscroll.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(aeroscroll.com):upward(.image-container)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ai-code-translator.com"], [href*="//ai-code-translator.com"]):upward(.result):remove()
@@ -3032,6 +3034,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".humanizer.org"
 startpage.com###main div.image-container .image-quick-details > span:has-text(humanizer.org):upward(.image-container)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".leravi.org"], [href*="//leravi.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(leravi.org):upward(.image-container)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linustechtips.org"], [href*="//linustechtips.org"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(linustechtips.org):upward(.image-container)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxconfig.org):upward(.image-container)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".liveportrait.org"], [href*="//liveportrait.org"]):upward(.result):remove()
@@ -3634,6 +3638,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".evgenijohn.med
 startpage.com###main div.image-container[data-page-url*="evgenijohn.medium.com/crossplane-in-2024-c0631a49265e"] > :first-child:upward(1)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".evgenijohn.medium.com/python-pydantic-acfbd5d77977"], [href*="//evgenijohn.medium.com/python-pydantic-acfbd5d77977"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="evgenijohn.medium.com/python-pydantic-acfbd5d77977"] > :first-child:upward(1)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".expressvpn.com/expressai"], [href*="//expressvpn.com/expressai"]):upward(.result):remove()
+startpage.com###main div.image-container[data-page-url*="expressvpn.com/expressai"] > :first-child:upward(1)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".facebook.com/TheTiniestTiger"], [href*="//facebook.com/TheTiniestTiger"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="facebook.com/TheTiniestTiger"] > :first-child:upward(1)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".facebook.com/cuteanimegirl99"], [href*="//facebook.com/cuteanimegirl99"]):upward(.result):remove()
@@ -3738,8 +3744,6 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/
 startpage.com###main div.image-container[data-page-url*="instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX"] > :first-child:upward(1)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/raymur.art"], [href*="//instagram.com/raymur.art"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="instagram.com/raymur.art"] > :first-child:upward(1)
-startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/reel"], [href*="//instagram.com/reel"]):upward(.result):remove()
-startpage.com###main div.image-container[data-page-url*="instagram.com/reel"] > :first-child:upward(1)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/sentientmuppetfactory"], [href*="//instagram.com/sentientmuppetfactory"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="instagram.com/sentientmuppetfactory"] > :first-child:upward(1)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/slickcityceo"], [href*="//instagram.com/slickcityceo"]):upward(.result):remove()
@@ -4592,9 +4596,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4617,9 +4621,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4642,9 +4646,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1518,6 +1518,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".adultait
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(adultaitools.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".adventuregamers.com"], [href*="//adventuregamers.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(adventuregamers.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".advoncommerce.com"], [href*="//advoncommerce.com"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(advoncommerce.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".aeroscroll.com"], [href*="//aeroscroll.com"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(aeroscroll.com):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".ai-code-translator.com"], [href*="//ai-code-translator.com"]):upward(.snippet):remove()
@@ -3032,6 +3034,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".humanize
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(humanizer.org):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".leravi.org"], [href*="//leravi.org"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(leravi.org):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linustechtips.org"], [href*="//linustechtips.org"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linustechtips.org):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxconfig.org):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".liveportrait.org"], [href*="//liveportrait.org"]):upward(.snippet):remove()
@@ -3634,6 +3638,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".evgenijo
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(evgenijohn.medium.com/crossplane-in-2024-c0631a49265e):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".evgenijohn.medium.com/python-pydantic-acfbd5d77977"], [href*="//evgenijohn.medium.com/python-pydantic-acfbd5d77977"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(evgenijohn.medium.com/python-pydantic-acfbd5d77977):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".expressvpn.com/expressai"], [href*="//expressvpn.com/expressai"]):upward(.snippet):remove()
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(expressvpn.com/expressai):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".facebook.com/TheTiniestTiger"], [href*="//facebook.com/TheTiniestTiger"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(facebook.com/TheTiniestTiger):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".facebook.com/cuteanimegirl99"], [href*="//facebook.com/cuteanimegirl99"]):upward(.snippet):remove()
@@ -3738,8 +3744,6 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".instagra
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".instagram.com/raymur.art"], [href*="//instagram.com/raymur.art"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(instagram.com/raymur.art):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
-search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".instagram.com/reel"], [href*="//instagram.com/reel"]):upward(.snippet):remove()
-search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(instagram.com/reel):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".instagram.com/sentientmuppetfactory"], [href*="//instagram.com/sentientmuppetfactory"]):upward(.snippet):remove()
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(instagram.com/sentientmuppetfactory):upward(.image-result):style(opacity: 0 !important; pointer-events: none;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".instagram.com/slickcityceo"], [href*="//instagram.com/slickcityceo"]):upward(.snippet):remove()
@@ -4592,9 +4596,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4617,9 +4621,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4642,9 +4646,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261007.1925
-! Last modified: Wed, 07 Oct 2026 19:25:57 GMT
-! Original file date: 2026-10-07T19:07:05Z
+! Version: 20261011.2236
+! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
+! Original file date: 2026-10-11T13:17:52Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
