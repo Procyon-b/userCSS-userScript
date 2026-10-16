@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1592,6 +1592,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="aiforswes.co
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(aiforswes.com):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="aigodlike.com"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(aigodlike.com):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="aigptjournal.com"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(aigptjournal.com):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="aigreem.com"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(aigreem.com):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="aimagazine.com"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3032,6 +3034,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="historyinpol
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(historyinpolitics.org):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="humanizer.org"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(humanizer.org):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="kernel-seeds.org"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(kernel-seeds.org):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="leravi.org"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(leravi.org):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linustechtips.org"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3222,6 +3226,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="faislebeau.f
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(faislebeau.fr):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fluxai.dev"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(fluxai.dev):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fluxai.pro"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(fluxai.pro):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fluxai.studio"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(fluxai.studio):upward(div.i3XL2.xM17T):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="franceencolere.fr"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3644,6 +3650,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="facebook.com
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="facebook.com/TheTiniestTiger"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="facebook.com/cuteanimegirl99"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="facebook.com/cuteanimegirl99"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fity.club/lists/suggestions/generated-images/"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="fity.club/lists/suggestions/generated-images/"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fiverr.com/bleassome"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="fiverr.com/bleassome"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="freepik.com/ai"]:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4596,9 +4604,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4621,9 +4629,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4646,9 +4654,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="youtube
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261011.2236
-! Last modified: Sun, 11 Oct 2026 22:36:38 GMT
-! Original file date: 2026-10-11T13:17:52Z
+! Version: 20261016.1606
+! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
+! Original file date: 2026-10-16T11:58:57Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
