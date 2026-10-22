@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -482,6 +482,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".impossibleimages.ai"], [href
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".impossibleimages.ai"], [href*="//impossibleimages.ai"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".insidr.ai"], [href*="//insidr.ai"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".insidr.ai"], [href*="//insidr.ai"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".insighto.ai"], [href*="//insighto.ai"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".insighto.ai"], [href*="//insighto.ai"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".instabooks.ai"], [href*="//instabooks.ai"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".instabooks.ai"], [href*="//instabooks.ai"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".inworld.ai"], [href*="//inworld.ai"]):upward(li):remove()
@@ -1360,6 +1362,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".artprint.co"], [href*="//art
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".artprint.co"], [href*="//artprint.co"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".astridai.co"], [href*="//astridai.co"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".astridai.co"], [href*="//astridai.co"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".audiophiles.co"], [href*="//audiophiles.co"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".audiophiles.co"], [href*="//audiophiles.co"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".cameralyze.co"], [href*="//cameralyze.co"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".cameralyze.co"], [href*="//cameralyze.co"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".chatbase.co"], [href*="//chatbase.co"]):upward(li):remove()
@@ -1398,6 +1402,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".thedreamkeeper.co"], [href*=
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thedreamkeeper.co"], [href*="//thedreamkeeper.co"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".thomasschulz.co"], [href*="//thomasschulz.co"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thomasschulz.co"], [href*="//thomasschulz.co"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".visme.co"], [href*="//visme.co"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".visme.co"], [href*="//visme.co"]):upward(li):style( opacity: 0; pointer-events: none; )
 
 ! Sites that have .com domain extension
 www.bing.com###b_content main li a.tilk:is([href*="..udio.com"], [href*="//.udio.com"]):upward(li):remove()
@@ -1424,6 +1430,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".adventuregamers.com"], [href
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".adventuregamers.com"], [href*="//adventuregamers.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".advoncommerce.com"], [href*="//advoncommerce.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".advoncommerce.com"], [href*="//advoncommerce.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".aelftech.com"], [href*="//aelftech.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aelftech.com"], [href*="//aelftech.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".aeroscroll.com"], [href*="//aeroscroll.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".aeroscroll.com"], [href*="//aeroscroll.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".ai-code-translator.com"], [href*="//ai-code-translator.com"]):upward(li):remove()
@@ -1592,6 +1600,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".askstockgpt.com"], [href*="/
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".askstockgpt.com"], [href*="//askstockgpt.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".astronymero.com"], [href*="//astronymero.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".astronymero.com"], [href*="//astronymero.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".audiochamps.com"], [href*="//audiochamps.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".audiochamps.com"], [href*="//audiochamps.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".augxlabs.com"], [href*="//augxlabs.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".augxlabs.com"], [href*="//augxlabs.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".automationswitch.com"], [href*="//automationswitch.com"]):upward(li):remove()
@@ -1692,6 +1702,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".color-anything.com"], [href*
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".color-anything.com"], [href*="//color-anything.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".colossyan.com"], [href*="//colossyan.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".colossyan.com"], [href*="//colossyan.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".commandmasters.com"], [href*="//commandmasters.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".commandmasters.com"], [href*="//commandmasters.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".conservationcubclub.com"], [href*="//conservationcubclub.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".conservationcubclub.com"], [href*="//conservationcubclub.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".copilot.github.com"], [href*="//copilot.github.com"]):upward(li):remove()
@@ -1774,8 +1786,12 @@ www.bing.com###b_content main li a.tilk:is([href*=".descript.com"], [href*="//de
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".descript.com"], [href*="//descript.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".design.com"], [href*="//design.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".design.com"], [href*="//design.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".design.sabankientruc.com"], [href*="//design.sabankientruc.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".design.sabankientruc.com"], [href*="//design.sabankientruc.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".designer.microsoft.com"], [href*="//designer.microsoft.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".designer.microsoft.com"], [href*="//designer.microsoft.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".designingdreamscapes.com"], [href*="//designingdreamscapes.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".designingdreamscapes.com"], [href*="//designingdreamscapes.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".designzscrapaishop.com"], [href*="//designzscrapaishop.com"]):upward(li):remove()
@@ -1886,6 +1902,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".finxter.com"], [href*="//fin
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".finxter.com"], [href*="//finxter.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".fishkeepingadvice.com"], [href*="//fishkeepingadvice.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".fishkeepingadvice.com"], [href*="//fishkeepingadvice.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".flaviocopes.com"], [href*="//flaviocopes.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".flaviocopes.com"], [href*="//flaviocopes.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".flow.google.com"], [href*="//flow.google.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".flow.google.com"], [href*="//flow.google.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".flux-image.com"], [href*="//flux-image.com"]):upward(li):remove()
@@ -1990,6 +2008,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".ieltslounge.com"], [href*="/
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".ieltslounge.com"], [href*="//ieltslounge.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".ihavecrayon.com"], [href*="//ihavecrayon.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".ihavecrayon.com"], [href*="//ihavecrayon.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".image-generator.com"], [href*="//image-generator.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".image-generator.com"], [href*="//image-generator.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".imagecreator.alkaidvision.com"], [href*="//imagecreator.alkaidvision.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".imagecreator.alkaidvision.com"], [href*="//imagecreator.alkaidvision.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".imagefap.com"], [href*="//imagefap.com"]):upward(li):remove()
@@ -2008,6 +2028,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".imyfone.com"], [href*="//imy
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".imyfone.com"], [href*="//imyfone.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".insertface.com"], [href*="//insertface.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".insertface.com"], [href*="//insertface.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".insmind.com"], [href*="//insmind.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".insmind.com"], [href*="//insmind.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".inspiredcourt.com"], [href*="//inspiredcourt.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".inspiredcourt.com"], [href*="//inspiredcourt.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".inspiredpencil.com"], [href*="//inspiredpencil.com"]):upward(li):remove()
@@ -2064,6 +2086,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".langfuse.com"], [href*="//la
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".langfuse.com"], [href*="//langfuse.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".laprompt.com"], [href*="//laprompt.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".laprompt.com"], [href*="//laprompt.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".laptopjudge.com"], [href*="//laptopjudge.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".laptopjudge.com"], [href*="//laptopjudge.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".laserpiles.com"], [href*="//laserpiles.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".laserpiles.com"], [href*="//laserpiles.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".lazyriverdesignworks.com"], [href*="//lazyriverdesignworks.com"]):upward(li):remove()
@@ -2092,12 +2116,16 @@ www.bing.com###b_content main li a.tilk:is([href*=".lightxeditor.com"], [href*="
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".lightxeditor.com"], [href*="//lightxeditor.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".lilybankai.com"], [href*="//lilybankai.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".lilybankai.com"], [href*="//lilybankai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".linuxactionshow.com"], [href*="//linuxactionshow.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".linuxactionshow.com"], [href*="//linuxactionshow.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".literary-techniques.com"], [href*="//literary-techniques.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".literary-techniques.com"], [href*="//literary-techniques.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".live2tech.com"], [href*="//live2tech.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".live2tech.com"], [href*="//live2tech.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".livereachcrm.com"], [href*="//livereachcrm.com"]):upward(li):remove()
@@ -2204,6 +2232,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".nobleshapes.com"], [href*="/
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".nobleshapes.com"], [href*="//nobleshapes.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".nocodingai.com"], [href*="//nocodingai.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".nocodingai.com"], [href*="//nocodingai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".novicedev.com"], [href*="//novicedev.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".novicedev.com"], [href*="//novicedev.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".nucleovisual.com"], [href*="//nucleovisual.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".nucleovisual.com"], [href*="//nucleovisual.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".nudeai.com"], [href*="//nudeai.com"]):upward(li):remove()
@@ -2434,6 +2464,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".sora.com"], [href*="//sora.c
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".sora.com"], [href*="//sora.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".soundful.com"], [href*="//soundful.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".soundful.com"], [href*="//soundful.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".southparkcycle.com"], [href*="//southparkcycle.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".southparkcycle.com"], [href*="//southparkcycle.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".spacemit.com"], [href*="//spacemit.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".spacemit.com"], [href*="//spacemit.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".speakenglishwithai.com"], [href*="//speakenglishwithai.com"]):upward(li):remove()
@@ -2488,6 +2520,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".supportyourtech.com"], [href
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".supportyourtech.com"], [href*="//supportyourtech.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".swag-ai.com"], [href*="//swag-ai.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".swag-ai.com"], [href*="//swag-ai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".sysadminsage.com"], [href*="//sysadminsage.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".sysadminsage.com"], [href*="//sysadminsage.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".talkie-ai.com"], [href*="//talkie-ai.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".talkie-ai.com"], [href*="//talkie-ai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".tallerhumano.com"], [href*="//tallerhumano.com"]):upward(li):remove()
@@ -2514,12 +2548,16 @@ www.bing.com###b_content main li a.tilk:is([href*=".theaipromptshop.com"], [href
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".theaipromptshop.com"], [href*="//theaipromptshop.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".thebiblechat.com"], [href*="//thebiblechat.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thebiblechat.com"], [href*="//thebiblechat.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".theboringmagazine.com"], [href*="//theboringmagazine.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".theboringmagazine.com"], [href*="//theboringmagazine.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".theconceptfurniture.com"], [href*="//theconceptfurniture.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".theconceptfurniture.com"], [href*="//theconceptfurniture.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".thecookingfacts.com"], [href*="//thecookingfacts.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thecookingfacts.com"], [href*="//thecookingfacts.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".thegamingmecca.com"], [href*="//thegamingmecca.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thegamingmecca.com"], [href*="//thegamingmecca.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".thegeekdiary.com"], [href*="//thegeekdiary.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thegeekdiary.com"], [href*="//thegeekdiary.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".theinsaneapp.com"], [href*="//theinsaneapp.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".theinsaneapp.com"], [href*="//theinsaneapp.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".thejesusai.com"], [href*="//thejesusai.com"]):upward(li):remove()
@@ -2534,6 +2572,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".thepetpainting.com"], [href*
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thepetpainting.com"], [href*="//thepetpainting.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".theresanaiforthat.com"], [href*="//theresanaiforthat.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".theresanaiforthat.com"], [href*="//theresanaiforthat.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".thesevenseventech.com"], [href*="//thesevenseventech.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thesevenseventech.com"], [href*="//thesevenseventech.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".thetechylife.com"], [href*="//thetechylife.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".thetechylife.com"], [href*="//thetechylife.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".thinkdiffusion.com"], [href*="//thinkdiffusion.com"]):upward(li):remove()
@@ -2562,6 +2602,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".trymaverick.com"], [href*="/
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".trymaverick.com"], [href*="//trymaverick.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".tusiart.com"], [href*="//tusiart.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".tusiart.com"], [href*="//tusiart.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".tweakyourterminal.com"], [href*="//tweakyourterminal.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".tweakyourterminal.com"], [href*="//tweakyourterminal.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".tweetai.com"], [href*="//tweetai.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".tweetai.com"], [href*="//tweetai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".typedream.com"], [href*="//typedream.com"]):upward(li):remove()
@@ -2620,6 +2662,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".wellsaidlabs.com"], [href*="
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".wellsaidlabs.com"], [href*="//wellsaidlabs.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".wenzhangerchuang.com"], [href*="//wenzhangerchuang.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".wenzhangerchuang.com"], [href*="//wenzhangerchuang.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".whm.novicedev.com"], [href*="//whm.novicedev.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".whm.novicedev.com"], [href*="//whm.novicedev.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".whythealgarve.com"], [href*="//whythealgarve.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".whythealgarve.com"], [href*="//whythealgarve.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".whytryai.com"], [href*="//whytryai.com"]):upward(li):remove()
@@ -2662,6 +2706,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".zhihu.com"], [href*="//zhihu
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".zhihu.com"], [href*="//zhihu.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".zonerai.com"], [href*="//zonerai.com"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".zonerai.com"], [href*="//zonerai.com"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".ztech100.com"], [href*="//ztech100.com"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".ztech100.com"], [href*="//ztech100.com"]):upward(li):style( opacity: 0; pointer-events: none; )
 
 ! Sites that have .io domain extension
 www.bing.com###b_content main li a.tilk:is([href*=".ai-art.latitude.io"], [href*="//ai-art.latitude.io"]):upward(li):remove()
@@ -2840,6 +2886,10 @@ www.bing.com###b_content main li a.tilk:is([href*=".designbundles.net"], [href*=
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".designbundles.net"], [href*="//designbundles.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".docai.net"], [href*="//docai.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".docai.net"], [href*="//docai.net"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".dotmovie.net"], [href*="//dotmovie.net"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".dotmovie.net"], [href*="//dotmovie.net"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".entomologist.net"], [href*="//entomologist.net"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".entomologist.net"], [href*="//entomologist.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".eyecandy.net"], [href*="//eyecandy.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".eyecandy.net"], [href*="//eyecandy.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".flux-ai.net"], [href*="//flux-ai.net"]):upward(li):remove()
@@ -2896,6 +2946,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".stable-diffusion.net"], [hre
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".stable-diffusion.net"], [href*="//stable-diffusion.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".stylishhomeidea.net"], [href*="//stylishhomeidea.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".stylishhomeidea.net"], [href*="//stylishhomeidea.net"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".techzeel.net"], [href*="//techzeel.net"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".techzeel.net"], [href*="//techzeel.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".towardsai.net"], [href*="//towardsai.net"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".towardsai.net"], [href*="//towardsai.net"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".trycatchdebug.net"], [href*="//trycatchdebug.net"]):upward(li):remove()
@@ -2920,6 +2972,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".cambridgeanalytica.org"], [h
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".cambridgeanalytica.org"], [href*="//cambridgeanalytica.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".chatgptfrancais.org"], [href*="//chatgptfrancais.org"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".chatgptfrancais.org"], [href*="//chatgptfrancais.org"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".clrn.org"], [href*="//clrn.org"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".clrn.org"], [href*="//clrn.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".comfy.org"], [href*="//comfy.org"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".comfy.org"], [href*="//comfy.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".deepai.org"], [href*="//deepai.org"]):upward(li):remove()
@@ -2934,6 +2988,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".enviroliteracy.org"], [href*
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".enviroliteracy.org"], [href*="//enviroliteracy.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".glukhov.org"], [href*="//glukhov.org"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".glukhov.org"], [href*="//glukhov.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".historyinpolitics.org"], [href*="//historyinpolitics.org"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".historyinpolitics.org"], [href*="//historyinpolitics.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".humanizer.org"], [href*="//humanizer.org"]):upward(li):remove()
@@ -2954,8 +3010,12 @@ www.bing.com###b_content main li a.tilk:is([href*=".mefmobile.org"], [href*="//m
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".mefmobile.org"], [href*="//mefmobile.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".mlyearning.org"], [href*="//mlyearning.org"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".mlyearning.org"], [href*="//mlyearning.org"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".myunix.org"], [href*="//myunix.org"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".myunix.org"], [href*="//myunix.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".nailyourinterview.org"], [href*="//nailyourinterview.org"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".nailyourinterview.org"], [href*="//nailyourinterview.org"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".nogentech.org"], [href*="//nogentech.org"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".nogentech.org"], [href*="//nogentech.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".objectiondecroissance.org"], [href*="//objectiondecroissance.org"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".objectiondecroissance.org"], [href*="//objectiondecroissance.org"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".ocfchess.org"], [href*="//ocfchess.org"]):upward(li):remove()
@@ -3062,6 +3122,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".capidhouser.mobi"], [href*="
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".capidhouser.mobi"], [href*="//capidhouser.mobi"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".carboncopy.pro"], [href*="//carboncopy.pro"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".carboncopy.pro"], [href*="//carboncopy.pro"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".cashstarkom.in"], [href*="//cashstarkom.in"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".cashstarkom.in"], [href*="//cashstarkom.in"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".chatgpt.fr"], [href*="//chatgpt.fr"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".chatgpt.fr"], [href*="//chatgpt.fr"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".chatveskole.cz"], [href*="//chatveskole.cz"]):upward(li):remove()
@@ -3140,6 +3202,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".freeaiavatargenerator.pro"],
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".freeaiavatargenerator.pro"], [href*="//freeaiavatargenerator.pro"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".gamer.se"], [href*="//gamer.se"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".gamer.se"], [href*="//gamer.se"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".gemini.google"], [href*="//gemini.google"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".gemini.google"], [href*="//gemini.google"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".generaitiv.xyz"], [href*="//generaitiv.xyz"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".generaitiv.xyz"], [href*="//generaitiv.xyz"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".generated.photos"], [href*="//generated.photos"]):upward(li):remove()
@@ -3194,6 +3258,10 @@ www.bing.com###b_content main li a.tilk:is([href*=".manena.info"], [href*="//man
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".manena.info"], [href*="//manena.info"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".manuals.plus"], [href*="//manuals.plus"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".manuals.plus"], [href*="//manuals.plus"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".manus.im"], [href*="//manus.im"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".manus.im"], [href*="//manus.im"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".manzeel.com.np"], [href*="//manzeel.com.np"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".manzeel.com.np"], [href*="//manzeel.com.np"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".memo.tv"], [href*="//memo.tv"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".memo.tv"], [href*="//memo.tv"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".midjourney.co.in"], [href*="//midjourney.co.in"]):upward(li):remove()
@@ -3580,6 +3648,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".gettywallpapers.com/cute-ani
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".gettywallpapers.com/cute-anime-girl-profile-pictures"], [href*="//gettywallpapers.com/cute-anime-girl-profile-pictures"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".github.com/lllyasviel"], [href*="//github.com/lllyasviel"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".github.com/lllyasviel"], [href*="//github.com/lllyasviel"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".imei.info/news"], [href*="//imei.info/news"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".imei.info/news"], [href*="//imei.info/news"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".instagram.com/_prateekarora"], [href*="//instagram.com/_prateekarora"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".instagram.com/_prateekarora"], [href*="//instagram.com/_prateekarora"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".instagram.com/a_n_i_m_e___f_a_n"], [href*="//instagram.com/a_n_i_m_e___f_a_n"]):upward(li):remove()
@@ -3672,6 +3742,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".instagram.com/wand.official"
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".instagram.com/wand.official"], [href*="//instagram.com/wand.official"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".instagram.com/xonorika"], [href*="//instagram.com/xonorika"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".instagram.com/xonorika"], [href*="//instagram.com/xonorika"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".iplocation.net/blog"], [href*="//iplocation.net/blog"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".iplocation.net/blog"], [href*="//iplocation.net/blog"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".kittl.com/feature/ai-text-to-vector"], [href*="//kittl.com/feature/ai-text-to-vector"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".kittl.com/feature/ai-text-to-vector"], [href*="//kittl.com/feature/ai-text-to-vector"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".ko-fi.com/ainomad"], [href*="//ko-fi.com/ainomad"]):upward(li):remove()
@@ -4258,6 +4330,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".stock.adobe.com/images/abstr
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986"], [href*="//stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".supagruen.github.io/StableDiffusion-CheatSheet"], [href*="//supagruen.github.io/StableDiffusion-CheatSheet"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".supagruen.github.io/StableDiffusion-CheatSheet"], [href*="//supagruen.github.io/StableDiffusion-CheatSheet"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".tambenaconsulting.com/blog"], [href*="//tambenaconsulting.com/blog"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".tambenaconsulting.com/blog"], [href*="//tambenaconsulting.com/blog"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".teletype.in/@hackfreaks"], [href*="//teletype.in/@hackfreaks"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".teletype.in/@hackfreaks"], [href*="//teletype.in/@hackfreaks"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".tiktok.com/@gulfpicasso"], [href*="//tiktok.com/@gulfpicasso"]):upward(li):remove()
@@ -4376,6 +4450,8 @@ www.bing.com###b_content main li a.tilk:is([href*=".twitter.com/watanaharumi/"],
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".twitter.com/watanaharumi/"], [href*="//twitter.com/watanaharumi/"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".underonethousand.com/p/poetry-for-machines"], [href*="//underonethousand.com/p/poetry-for-machines"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".underonethousand.com/p/poetry-for-machines"], [href*="//underonethousand.com/p/poetry-for-machines"]):upward(li):style( opacity: 0; pointer-events: none; )
+www.bing.com###b_content main li a.tilk:is([href*=".version-tracker.app/blog"], [href*="//version-tracker.app/blog"]):upward(li):remove()
+www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".version-tracker.app/blog"], [href*="//version-tracker.app/blog"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".x.com/21xfour"], [href*="//x.com/21xfour"]):upward(li):remove()
 www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".x.com/21xfour"], [href*="//x.com/21xfour"]):upward(li):style( opacity: 0; pointer-events: none; )
 www.bing.com###b_content main li a.tilk:is([href*=".x.com/AI_ART__"], [href*="//x.com/AI_ART__"]):upward(li):remove()
@@ -4508,9 +4584,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4537,9 +4613,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4566,9 +4642,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4595,9 +4671,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4624,9 +4700,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4653,9 +4729,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.
@@ -4682,9 +4758,9 @@ www.bing.com###b_content #vm_c li a[h*="image"]:is([href*=".youtube.com/channel/
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Explanation: The original filter list uses a scriptlet that is resource intensive.
 !              This version of the list uses pure CSS.

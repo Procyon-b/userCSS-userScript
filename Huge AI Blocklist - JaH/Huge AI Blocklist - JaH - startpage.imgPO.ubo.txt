@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -578,6 +578,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".impossibleimag
 startpage.com###main div.image-container .image-quick-details > span:has-text(impossibleimages.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".insidr.ai"], [href*="//insidr.ai"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(insidr.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".insighto.ai"], [href*="//insighto.ai"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(insighto.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instabooks.ai"], [href*="//instabooks.ai"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(instabooks.ai):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".inworld.ai"], [href*="//inworld.ai"]):upward(.result):remove()
@@ -1456,6 +1458,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".artprint.co"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(artprint.co):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".astridai.co"], [href*="//astridai.co"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(astridai.co):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".audiophiles.co"], [href*="//audiophiles.co"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(audiophiles.co):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cameralyze.co"], [href*="//cameralyze.co"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(cameralyze.co):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".chatbase.co"], [href*="//chatbase.co"]):upward(.result):remove()
@@ -1494,6 +1498,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thedreamkeeper
 startpage.com###main div.image-container .image-quick-details > span:has-text(thedreamkeeper.co):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thomasschulz.co"], [href*="//thomasschulz.co"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(thomasschulz.co):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".visme.co"], [href*="//visme.co"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(visme.co):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 
 ! Sites that have .com domain extension
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*="..udio.com"], [href*="//.udio.com"]):upward(.result):remove()
@@ -1520,6 +1526,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".adventuregamer
 startpage.com###main div.image-container .image-quick-details > span:has-text(adventuregamers.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".advoncommerce.com"], [href*="//advoncommerce.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(advoncommerce.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".aelftech.com"], [href*="//aelftech.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(aelftech.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".aeroscroll.com"], [href*="//aeroscroll.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(aeroscroll.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ai-code-translator.com"], [href*="//ai-code-translator.com"]):upward(.result):remove()
@@ -1688,6 +1696,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".askstockgpt.co
 startpage.com###main div.image-container .image-quick-details > span:has-text(askstockgpt.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".astronymero.com"], [href*="//astronymero.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(astronymero.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".audiochamps.com"], [href*="//audiochamps.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(audiochamps.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".augxlabs.com"], [href*="//augxlabs.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(augxlabs.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".automationswitch.com"], [href*="//automationswitch.com"]):upward(.result):remove()
@@ -1788,6 +1798,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".color-anything
 startpage.com###main div.image-container .image-quick-details > span:has-text(color-anything.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".colossyan.com"], [href*="//colossyan.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(colossyan.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".commandmasters.com"], [href*="//commandmasters.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(commandmasters.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".conservationcubclub.com"], [href*="//conservationcubclub.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(conservationcubclub.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".copilot.github.com"], [href*="//copilot.github.com"]):upward(.result):remove()
@@ -1870,8 +1882,12 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".descript.com"]
 startpage.com###main div.image-container .image-quick-details > span:has-text(descript.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".desifakes.com"], [href*="//desifakes.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(desifakes.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".design.com"], [href*="//design.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(design.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".design.sabankientruc.com"], [href*="//design.sabankientruc.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(design.sabankientruc.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".designer.microsoft.com"], [href*="//designer.microsoft.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(designer.microsoft.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".designingdreamscapes.com"], [href*="//designingdreamscapes.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(designingdreamscapes.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".designzscrapaishop.com"], [href*="//designzscrapaishop.com"]):upward(.result):remove()
@@ -1982,6 +1998,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".finxter.com"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(finxter.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fishkeepingadvice.com"], [href*="//fishkeepingadvice.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(fishkeepingadvice.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".flaviocopes.com"], [href*="//flaviocopes.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(flaviocopes.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".flow.google.com"], [href*="//flow.google.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(flow.google.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".flux-image.com"], [href*="//flux-image.com"]):upward(.result):remove()
@@ -2086,6 +2104,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ieltslounge.co
 startpage.com###main div.image-container .image-quick-details > span:has-text(ieltslounge.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ihavecrayon.com"], [href*="//ihavecrayon.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(ihavecrayon.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".image-generator.com"], [href*="//image-generator.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(image-generator.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".imagecreator.alkaidvision.com"], [href*="//imagecreator.alkaidvision.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(imagecreator.alkaidvision.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".imagefap.com"], [href*="//imagefap.com"]):upward(.result):remove()
@@ -2104,6 +2124,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".imyfone.com"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(imyfone.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".insertface.com"], [href*="//insertface.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(insertface.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".insmind.com"], [href*="//insmind.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(insmind.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".inspiredcourt.com"], [href*="//inspiredcourt.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(inspiredcourt.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".inspiredpencil.com"], [href*="//inspiredpencil.com"]):upward(.result):remove()
@@ -2160,6 +2182,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".langfuse.com"]
 startpage.com###main div.image-container .image-quick-details > span:has-text(langfuse.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".laprompt.com"], [href*="//laprompt.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(laprompt.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".laptopjudge.com"], [href*="//laptopjudge.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(laptopjudge.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".laserpiles.com"], [href*="//laserpiles.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(laserpiles.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lazyriverdesignworks.com"], [href*="//lazyriverdesignworks.com"]):upward(.result):remove()
@@ -2188,12 +2212,16 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lightxeditor.c
 startpage.com###main div.image-container .image-quick-details > span:has-text(lightxeditor.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lilybankai.com"], [href*="//lilybankai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(lilybankai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxactionshow.com"], [href*="//linuxactionshow.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(linuxactionshow.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxcapable.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxtechlab.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxvox.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".literary-techniques.com"], [href*="//literary-techniques.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(literary-techniques.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".live2tech.com"], [href*="//live2tech.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(live2tech.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".livereachcrm.com"], [href*="//livereachcrm.com"]):upward(.result):remove()
@@ -2300,6 +2328,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".nobleshapes.co
 startpage.com###main div.image-container .image-quick-details > span:has-text(nobleshapes.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".nocodingai.com"], [href*="//nocodingai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(nocodingai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".novicedev.com"], [href*="//novicedev.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(novicedev.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".nucleovisual.com"], [href*="//nucleovisual.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(nucleovisual.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".nudeai.com"], [href*="//nudeai.com"]):upward(.result):remove()
@@ -2530,6 +2560,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".sora.com"], [h
 startpage.com###main div.image-container .image-quick-details > span:has-text(sora.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".soundful.com"], [href*="//soundful.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(soundful.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".southparkcycle.com"], [href*="//southparkcycle.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(southparkcycle.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".spacemit.com"], [href*="//spacemit.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(spacemit.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".speakenglishwithai.com"], [href*="//speakenglishwithai.com"]):upward(.result):remove()
@@ -2584,6 +2616,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".supportyourtec
 startpage.com###main div.image-container .image-quick-details > span:has-text(supportyourtech.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".swag-ai.com"], [href*="//swag-ai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(swag-ai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".sysadminsage.com"], [href*="//sysadminsage.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(sysadminsage.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".talkie-ai.com"], [href*="//talkie-ai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(talkie-ai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tallerhumano.com"], [href*="//tallerhumano.com"]):upward(.result):remove()
@@ -2610,12 +2644,16 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".theaipromptsho
 startpage.com###main div.image-container .image-quick-details > span:has-text(theaipromptshop.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thebiblechat.com"], [href*="//thebiblechat.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(thebiblechat.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".theboringmagazine.com"], [href*="//theboringmagazine.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(theboringmagazine.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".theconceptfurniture.com"], [href*="//theconceptfurniture.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(theconceptfurniture.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thecookingfacts.com"], [href*="//thecookingfacts.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(thecookingfacts.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thegamingmecca.com"], [href*="//thegamingmecca.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(thegamingmecca.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thegeekdiary.com"], [href*="//thegeekdiary.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(thegeekdiary.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".theinsaneapp.com"], [href*="//theinsaneapp.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(theinsaneapp.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thejesusai.com"], [href*="//thejesusai.com"]):upward(.result):remove()
@@ -2630,6 +2668,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thepetpainting
 startpage.com###main div.image-container .image-quick-details > span:has-text(thepetpainting.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".theresanaiforthat.com"], [href*="//theresanaiforthat.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(theresanaiforthat.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thesevenseventech.com"], [href*="//thesevenseventech.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(thesevenseventech.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thetechylife.com"], [href*="//thetechylife.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(thetechylife.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thinkdiffusion.com"], [href*="//thinkdiffusion.com"]):upward(.result):remove()
@@ -2658,6 +2698,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".trymaverick.co
 startpage.com###main div.image-container .image-quick-details > span:has-text(trymaverick.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tusiart.com"], [href*="//tusiart.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(tusiart.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tweakyourterminal.com"], [href*="//tweakyourterminal.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(tweakyourterminal.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tweetai.com"], [href*="//tweetai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(tweetai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".typedream.com"], [href*="//typedream.com"]):upward(.result):remove()
@@ -2716,6 +2758,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".wellsaidlabs.c
 startpage.com###main div.image-container .image-quick-details > span:has-text(wellsaidlabs.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".wenzhangerchuang.com"], [href*="//wenzhangerchuang.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(wenzhangerchuang.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".whm.novicedev.com"], [href*="//whm.novicedev.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(whm.novicedev.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".whythealgarve.com"], [href*="//whythealgarve.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(whythealgarve.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".whytryai.com"], [href*="//whytryai.com"]):upward(.result):remove()
@@ -2758,6 +2802,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".zhihu.com"], [
 startpage.com###main div.image-container .image-quick-details > span:has-text(zhihu.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".zonerai.com"], [href*="//zonerai.com"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(zonerai.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ztech100.com"], [href*="//ztech100.com"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(ztech100.com):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 
 ! Sites that have .io domain extension
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ai-art.latitude.io"], [href*="//ai-art.latitude.io"]):upward(.result):remove()
@@ -2936,6 +2982,10 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".designbundles.
 startpage.com###main div.image-container .image-quick-details > span:has-text(designbundles.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".docai.net"], [href*="//docai.net"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(docai.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".dotmovie.net"], [href*="//dotmovie.net"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(dotmovie.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".entomologist.net"], [href*="//entomologist.net"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(entomologist.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".eyecandy.net"], [href*="//eyecandy.net"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(eyecandy.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".flux-ai.net"], [href*="//flux-ai.net"]):upward(.result):remove()
@@ -2992,6 +3042,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".stable-diffusi
 startpage.com###main div.image-container .image-quick-details > span:has-text(stable-diffusion.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".stylishhomeidea.net"], [href*="//stylishhomeidea.net"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(stylishhomeidea.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".techzeel.net"], [href*="//techzeel.net"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(techzeel.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".towardsai.net"], [href*="//towardsai.net"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(towardsai.net):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".trycatchdebug.net"], [href*="//trycatchdebug.net"]):upward(.result):remove()
@@ -3016,6 +3068,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cambridgeanaly
 startpage.com###main div.image-container .image-quick-details > span:has-text(cambridgeanalytica.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".chatgptfrancais.org"], [href*="//chatgptfrancais.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(chatgptfrancais.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".clrn.org"], [href*="//clrn.org"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(clrn.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".comfy.org"], [href*="//comfy.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(comfy.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".deepai.org"], [href*="//deepai.org"]):upward(.result):remove()
@@ -3030,6 +3084,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".enviroliteracy
 startpage.com###main div.image-container .image-quick-details > span:has-text(enviroliteracy.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gameslearningsociety.org"], [href*="//gameslearningsociety.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(gameslearningsociety.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".glukhov.org"], [href*="//glukhov.org"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(glukhov.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".historyinpolitics.org"], [href*="//historyinpolitics.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(historyinpolitics.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".humanizer.org"], [href*="//humanizer.org"]):upward(.result):remove()
@@ -3050,8 +3106,12 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".mefmobile.org"
 startpage.com###main div.image-container .image-quick-details > span:has-text(mefmobile.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".mlyearning.org"], [href*="//mlyearning.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(mlyearning.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".myunix.org"], [href*="//myunix.org"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(myunix.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".nailyourinterview.org"], [href*="//nailyourinterview.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(nailyourinterview.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".nogentech.org"], [href*="//nogentech.org"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(nogentech.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".objectiondecroissance.org"], [href*="//objectiondecroissance.org"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(objectiondecroissance.org):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ocfchess.org"], [href*="//ocfchess.org"]):upward(.result):remove()
@@ -3158,6 +3218,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".capidhouser.mo
 startpage.com###main div.image-container .image-quick-details > span:has-text(capidhouser.mobi):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".carboncopy.pro"], [href*="//carboncopy.pro"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(carboncopy.pro):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cashstarkom.in"], [href*="//cashstarkom.in"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(cashstarkom.in):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".chatgpt.fr"], [href*="//chatgpt.fr"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(chatgpt.fr):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".chatveskole.cz"], [href*="//chatveskole.cz"]):upward(.result):remove()
@@ -3236,6 +3298,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".freeaiavatarge
 startpage.com###main div.image-container .image-quick-details > span:has-text(freeaiavatargenerator.pro):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gamer.se"], [href*="//gamer.se"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(gamer.se):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gemini.google"], [href*="//gemini.google"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(gemini.google):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".generaitiv.xyz"], [href*="//generaitiv.xyz"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(generaitiv.xyz):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".generated.photos"], [href*="//generated.photos"]):upward(.result):remove()
@@ -3290,6 +3354,10 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".manena.info"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(manena.info):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".manuals.plus"], [href*="//manuals.plus"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(manuals.plus):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".manus.im"], [href*="//manus.im"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(manus.im):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".manzeel.com.np"], [href*="//manzeel.com.np"]):upward(.result):remove()
+startpage.com###main div.image-container .image-quick-details > span:has-text(manzeel.com.np):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".memo.tv"], [href*="//memo.tv"]):upward(.result):remove()
 startpage.com###main div.image-container .image-quick-details > span:has-text(memo.tv):upward(.image-container):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".midjourney.co.in"], [href*="//midjourney.co.in"]):upward(.result):remove()
@@ -3676,6 +3744,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gettywallpaper
 startpage.com###main div.image-container[data-page-url*="gettywallpapers.com/cute-anime-girl-profile-pictures"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".github.com/lllyasviel"], [href*="//github.com/lllyasviel"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="github.com/lllyasviel"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".imei.info/news"], [href*="//imei.info/news"]):upward(.result):remove()
+startpage.com###main div.image-container[data-page-url*="imei.info/news"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/_prateekarora"], [href*="//instagram.com/_prateekarora"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="instagram.com/_prateekarora"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/a_n_i_m_e___f_a_n"], [href*="//instagram.com/a_n_i_m_e___f_a_n"]):upward(.result):remove()
@@ -3768,6 +3838,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/
 startpage.com###main div.image-container[data-page-url*="instagram.com/wand.official"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".instagram.com/xonorika"], [href*="//instagram.com/xonorika"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="instagram.com/xonorika"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".iplocation.net/blog"], [href*="//iplocation.net/blog"]):upward(.result):remove()
+startpage.com###main div.image-container[data-page-url*="iplocation.net/blog"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".kittl.com/feature/ai-text-to-vector"], [href*="//kittl.com/feature/ai-text-to-vector"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="kittl.com/feature/ai-text-to-vector"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ko-fi.com/ainomad"], [href*="//ko-fi.com/ainomad"]):upward(.result):remove()
@@ -4354,6 +4426,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".stock.adobe.co
 startpage.com###main div.image-container[data-page-url*="stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".supagruen.github.io/StableDiffusion-CheatSheet"], [href*="//supagruen.github.io/StableDiffusion-CheatSheet"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="supagruen.github.io/StableDiffusion-CheatSheet"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tambenaconsulting.com/blog"], [href*="//tambenaconsulting.com/blog"]):upward(.result):remove()
+startpage.com###main div.image-container[data-page-url*="tambenaconsulting.com/blog"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".teletype.in/@hackfreaks"], [href*="//teletype.in/@hackfreaks"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="teletype.in/@hackfreaks"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tiktok.com/@gulfpicasso"], [href*="//tiktok.com/@gulfpicasso"]):upward(.result):remove()
@@ -4472,6 +4546,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".twitter.com/wa
 startpage.com###main div.image-container[data-page-url*="twitter.com/watanaharumi/"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".underonethousand.com/p/poetry-for-machines"], [href*="//underonethousand.com/p/poetry-for-machines"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="underonethousand.com/p/poetry-for-machines"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".version-tracker.app/blog"], [href*="//version-tracker.app/blog"]):upward(.result):remove()
+startpage.com###main div.image-container[data-page-url*="version-tracker.app/blog"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".x.com/21xfour"], [href*="//x.com/21xfour"]):upward(.result):remove()
 startpage.com###main div.image-container[data-page-url*="x.com/21xfour"] > :first-child:upward(1):style(opacity: 0 !important; pointer-events: none;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".x.com/AI_ART__"], [href*="//x.com/AI_ART__"]):upward(.result):remove()
@@ -4604,9 +4680,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4629,9 +4705,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4654,9 +4730,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261016.1606
-! Last modified: Fri, 16 Oct 2026 16:06:38 GMT
-! Original file date: 2026-10-16T11:58:57Z
+! Version: 20261022.2045
+! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
+! Original file date: 2026-10-20T11:41:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
