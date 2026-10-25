@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1030,6 +1030,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".techmoni
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(techmonitor.ai):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".techpilot.ai"], [href*="//techpilot.ai"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(techpilot.ai):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".teraaipix.ai"], [href*="//teraaipix.ai"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(teraaipix.ai):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".texta.ai"], [href*="//texta.ai"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(texta.ai):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".thaura.ai"], [href*="//thaura.ai"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1724,6 +1726,10 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".bgcopper
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(bgcopper.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".blimeycreate.com"], [href*="//blimeycreate.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(blimeycreate.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".blog.bogdancaraman.com"], [href*="//blog.bogdancaraman.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(blog.bogdancaraman.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".blog.terabox.com"], [href*="//blog.terabox.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(blog.terabox.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".bobcares.com"], [href*="//bobcares.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(bobcares.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".boomy.com"], [href*="//boomy.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1798,6 +1804,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".color-an
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(color-anything.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".colossyan.com"], [href*="//colossyan.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(colossyan.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".commandinline.com"], [href*="//commandinline.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(commandinline.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".commandmasters.com"], [href*="//commandmasters.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(commandmasters.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".conservationcubclub.com"], [href*="//conservationcubclub.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2006,6 +2014,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".flux-ima
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(flux-image.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".fluxaistudio.com"], [href*="//fluxaistudio.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(fluxaistudio.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".flyawaysimulation.com"], [href*="//flyawaysimulation.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(flyawaysimulation.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".forourposterity.com"], [href*="//forourposterity.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(forourposterity.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".fosslinux.com"], [href*="//fosslinux.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2040,6 +2050,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".gcore.co
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(gcore.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".gecdesigns.com"], [href*="//gecdesigns.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(gecdesigns.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".geek-university.com"], [href*="//geek-university.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(geek-university.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".geekchamp.com"], [href*="//geekchamp.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(geekchamp.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".geekpedia.com"], [href*="//geekpedia.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2214,8 +2226,12 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".lilybank
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(lilybankai.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxactionshow.com"], [href*="//linuxactionshow.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxactionshow.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxbasecamp.com"], [href*="//linuxbasecamp.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxbasecamp.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxcapable.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxiac.com"], [href*="//linuxiac.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxiac.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxtechlab.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2736,6 +2752,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".vibelf.c
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(vibelf.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".videogamer.com"], [href*="//videogamer.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(videogamer.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".views.terabox.com"], [href*="//views.terabox.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(views.terabox.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".violetforest.com"], [href*="//violetforest.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(violetforest.com):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".viralnewsflare.com"], [href*="//viralnewsflare.com"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2890,6 +2908,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".loraai.i
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(loraai.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".lorro.io"], [href*="//lorro.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(lorro.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".mahdi-n0rouzi.github.io"], [href*="//mahdi-n0rouzi.github.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(mahdi-n0rouzi.github.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".media.io"], [href*="//media.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(media.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".merchantgenius.io"], [href*="//merchantgenius.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2942,6 +2962,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".undressi
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(undressing.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".veed.io"], [href*="//veed.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(veed.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".vmheaven.io"], [href*="//vmheaven.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(vmheaven.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".x-pictures.io"], [href*="//x-pictures.io"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(x-pictures.io):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 
@@ -3098,6 +3120,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linustec
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linustechtips.org):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxconfig.org):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".linuxjunkies.org"], [href*="//linuxjunkies.org"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(linuxjunkies.org):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".liveportrait.org"], [href*="//liveportrait.org"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(liveportrait.org):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".madpenguin.org"], [href*="//madpenguin.org"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3254,8 +3278,6 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".deepnude
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(deepnude.cc):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".design.lenhisafety.com.vn"], [href*="//design.lenhisafety.com.vn"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(design.lenhisafety.com.vn):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
-search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".dev.to"], [href*="//dev.to"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
-search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(dev.to):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".diffus.me"], [href*="//diffus.me"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(diffus.me):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".diffusion.land"], [href*="//diffusion.land"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3298,6 +3320,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".freeaiav
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(freeaiavatargenerator.pro):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".gamer.se"], [href*="//gamer.se"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(gamer.se):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".gamerguru.blog"], [href*="//gamerguru.blog"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(gamerguru.blog):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".gemini.google"], [href*="//gemini.google"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(gemini.google):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".generaitiv.xyz"], [href*="//generaitiv.xyz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3504,6 +3528,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".veriteca
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(veritecachee.fr):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".visla.us"], [href*="//visla.us"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(visla.us):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".vps.do"], [href*="//vps.do"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(vps.do):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".vzdelavame.aidetem.cz"], [href*="//vzdelavame.aidetem.cz"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(vzdelavame.aidetem.cz):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".waifu.com.mx"], [href*="//waifu.com.mx"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4430,6 +4456,8 @@ search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".tambenac
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(tambenaconsulting.com/blog):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".teletype.in/@hackfreaks"], [href*="//teletype.in/@hackfreaks"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(teletype.in/@hackfreaks):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".terabox.com/ai"], [href*="//terabox.com/ai"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
+search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(terabox.com/ai):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".tiktok.com/@gulfpicasso"], [href*="//tiktok.com/@gulfpicasso"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source:has-text(tiktok.com/@gulfpicasso):upward(.image-result):style(opacity: .4 !important; outline: 2px solid red;)
 search.brave.com###results > .snippet a:is(.zReHs, .LBcIee):is([href*=".tiktok.com/@ku_13js"], [href*="//tiktok.com/@ku_13js"]):upward(.snippet):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4680,9 +4708,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4705,9 +4733,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4730,9 +4758,9 @@ search.brave.com##div.images-layout-wrapper .image-result .image-metadata-source
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 

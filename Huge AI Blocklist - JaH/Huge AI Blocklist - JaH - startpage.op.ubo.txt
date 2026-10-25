@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1030,6 +1030,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".techmonitor.ai
 startpage.com###main div.image-container .image-quick-details > span:has-text(techmonitor.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".techpilot.ai"], [href*="//techpilot.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(techpilot.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".teraaipix.ai"], [href*="//teraaipix.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(teraaipix.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".texta.ai"], [href*="//texta.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(texta.ai):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".thaura.ai"], [href*="//thaura.ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1724,6 +1726,10 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".bgcopper.com"]
 startpage.com###main div.image-container .image-quick-details > span:has-text(bgcopper.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".blimeycreate.com"], [href*="//blimeycreate.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(blimeycreate.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".blog.bogdancaraman.com"], [href*="//blog.bogdancaraman.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(blog.bogdancaraman.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".blog.terabox.com"], [href*="//blog.terabox.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(blog.terabox.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".bobcares.com"], [href*="//bobcares.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(bobcares.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".boomy.com"], [href*="//boomy.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1798,6 +1804,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".color-anything
 startpage.com###main div.image-container .image-quick-details > span:has-text(color-anything.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".colossyan.com"], [href*="//colossyan.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(colossyan.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".commandinline.com"], [href*="//commandinline.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(commandinline.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".commandmasters.com"], [href*="//commandmasters.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(commandmasters.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".conservationcubclub.com"], [href*="//conservationcubclub.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2006,6 +2014,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".flux-image.com
 startpage.com###main div.image-container .image-quick-details > span:has-text(flux-image.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fluxaistudio.com"], [href*="//fluxaistudio.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(fluxaistudio.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".flyawaysimulation.com"], [href*="//flyawaysimulation.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(flyawaysimulation.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".forourposterity.com"], [href*="//forourposterity.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(forourposterity.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fosslinux.com"], [href*="//fosslinux.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2040,6 +2050,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gcore.com"], [
 startpage.com###main div.image-container .image-quick-details > span:has-text(gcore.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gecdesigns.com"], [href*="//gecdesigns.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(gecdesigns.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".geek-university.com"], [href*="//geek-university.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(geek-university.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".geekchamp.com"], [href*="//geekchamp.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(geekchamp.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".geekpedia.com"], [href*="//geekpedia.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2214,8 +2226,12 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lilybankai.com
 startpage.com###main div.image-container .image-quick-details > span:has-text(lilybankai.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxactionshow.com"], [href*="//linuxactionshow.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxactionshow.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxbasecamp.com"], [href*="//linuxbasecamp.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(linuxbasecamp.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxcapable.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxiac.com"], [href*="//linuxiac.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(linuxiac.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxtechlab.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2736,6 +2752,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".vibelf.com"], 
 startpage.com###main div.image-container .image-quick-details > span:has-text(vibelf.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".videogamer.com"], [href*="//videogamer.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(videogamer.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".views.terabox.com"], [href*="//views.terabox.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(views.terabox.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".violetforest.com"], [href*="//violetforest.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(violetforest.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".viralnewsflare.com"], [href*="//viralnewsflare.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2890,6 +2908,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".loraai.io"], [
 startpage.com###main div.image-container .image-quick-details > span:has-text(loraai.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lorro.io"], [href*="//lorro.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(lorro.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".mahdi-n0rouzi.github.io"], [href*="//mahdi-n0rouzi.github.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(mahdi-n0rouzi.github.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".media.io"], [href*="//media.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(media.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".merchantgenius.io"], [href*="//merchantgenius.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2942,6 +2962,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".undressing.io"
 startpage.com###main div.image-container .image-quick-details > span:has-text(undressing.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".veed.io"], [href*="//veed.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(veed.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".vmheaven.io"], [href*="//vmheaven.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(vmheaven.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".x-pictures.io"], [href*="//x-pictures.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(x-pictures.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 
@@ -3098,6 +3120,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linustechtips.
 startpage.com###main div.image-container .image-quick-details > span:has-text(linustechtips.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxconfig.org"], [href*="//linuxconfig.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxconfig.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxjunkies.org"], [href*="//linuxjunkies.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(linuxjunkies.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".liveportrait.org"], [href*="//liveportrait.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(liveportrait.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".madpenguin.org"], [href*="//madpenguin.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3254,8 +3278,6 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".deepnude.cc"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(deepnude.cc):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".design.lenhisafety.com.vn"], [href*="//design.lenhisafety.com.vn"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(design.lenhisafety.com.vn):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
-startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".dev.to"], [href*="//dev.to"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
-startpage.com###main div.image-container .image-quick-details > span:has-text(dev.to):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".diffus.me"], [href*="//diffus.me"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(diffus.me):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".diffusion.land"], [href*="//diffusion.land"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3298,6 +3320,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".freeaiavatarge
 startpage.com###main div.image-container .image-quick-details > span:has-text(freeaiavatargenerator.pro):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gamer.se"], [href*="//gamer.se"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(gamer.se):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gamerguru.blog"], [href*="//gamerguru.blog"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(gamerguru.blog):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gemini.google"], [href*="//gemini.google"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(gemini.google):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".generaitiv.xyz"], [href*="//generaitiv.xyz"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3504,6 +3528,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".veritecachee.f
 startpage.com###main div.image-container .image-quick-details > span:has-text(veritecachee.fr):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".visla.us"], [href*="//visla.us"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(visla.us):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".vps.do"], [href*="//vps.do"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(vps.do):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".vzdelavame.aidetem.cz"], [href*="//vzdelavame.aidetem.cz"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(vzdelavame.aidetem.cz):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".waifu.com.mx"], [href*="//waifu.com.mx"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4430,6 +4456,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tambenaconsult
 startpage.com###main div.image-container[data-page-url*="tambenaconsulting.com/blog"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".teletype.in/@hackfreaks"], [href*="//teletype.in/@hackfreaks"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="teletype.in/@hackfreaks"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".terabox.com/ai"], [href*="//terabox.com/ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container[data-page-url*="terabox.com/ai"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tiktok.com/@gulfpicasso"], [href*="//tiktok.com/@gulfpicasso"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="tiktok.com/@gulfpicasso"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tiktok.com/@ku_13js"], [href*="//tiktok.com/@ku_13js"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4680,9 +4708,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4705,9 +4733,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4730,9 +4758,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261022.2045
-! Last modified: Thu, 22 Oct 2026 20:45:08 GMT
-! Original file date: 2026-10-20T11:41:44Z
+! Version: 20261025.2137
+! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
+! Original file date: 2026-10-24T15:03:49Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
