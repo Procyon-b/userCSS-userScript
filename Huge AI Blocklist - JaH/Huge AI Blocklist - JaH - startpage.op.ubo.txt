@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -1690,6 +1690,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".artificialpain
 startpage.com###main div.image-container .image-quick-details > span:has-text(artificialpaintings.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".artreviewgenerator.com"], [href*="//artreviewgenerator.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(artreviewgenerator.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".askanydifference.com"], [href*="//askanydifference.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(askanydifference.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".askbotta.com"], [href*="//askbotta.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(askbotta.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".askmkbhd.com"], [href*="//askmkbhd.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1752,6 +1754,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".castordoc.com"
 startpage.com###main div.image-container .image-quick-details > span:has-text(castordoc.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".catsaroundtheglobe.com"], [href*="//catsaroundtheglobe.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(catsaroundtheglobe.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cavecreekcoffee.com"], [href*="//cavecreekcoffee.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(cavecreekcoffee.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cdn.deepseek.com"], [href*="//cdn.deepseek.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(cdn.deepseek.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".celebjihad.com"], [href*="//celebjihad.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1838,6 +1842,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cubismartwork.
 startpage.com###main div.image-container .image-quick-details > span:has-text(cubismartwork.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".curiousrefuge.com"], [href*="//curiousrefuge.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(curiousrefuge.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cute-penguins.com"], [href*="//cute-penguins.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(cute-penguins.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cybersecguide.com"], [href*="//cybersecguide.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(cybersecguide.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".d-id.com"], [href*="//d-id.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1846,6 +1852,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".dall-efree.com
 startpage.com###main div.image-container .image-quick-details > span:has-text(dall-efree.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".dalle2.tumblr.com"], [href*="//dalle2.tumblr.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(dalle2.tumblr.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".danielcosenza.com"], [href*="//danielcosenza.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(danielcosenza.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".datadoghq.com"], [href*="//datadoghq.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(datadoghq.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".datadriveninvestor.com"], [href*="//datadriveninvestor.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1904,6 +1912,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".desklib.com"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(desklib.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".dev59.com"], [href*="//dev59.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(dev59.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".developnsolve.com"], [href*="//developnsolve.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(developnsolve.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".devopsarsenal.com"], [href*="//devopsarsenal.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(devopsarsenal.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".devrevive.com"], [href*="//devrevive.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -1986,6 +1996,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".evenuepass.com
 startpage.com###main div.image-container .image-quick-details > span:has-text(evenuepass.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".everylastrecipe.com"], [href*="//everylastrecipe.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(everylastrecipe.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".exoticpethub.com"], [href*="//exoticpethub.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(exoticpethub.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fadr.com"], [href*="//fadr.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(fadr.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fairytailai.com"], [href*="//fairytailai.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2040,10 +2052,14 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fxhome.com"], 
 startpage.com###main div.image-container .image-quick-details > span:has-text(fxhome.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fykoo.com"], [href*="//fykoo.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(fykoo.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gadgetsnurture.com"], [href*="//gadgetsnurture.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(gadgetsnurture.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gaigify.com"], [href*="//gaigify.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(gaigify.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gameshub.com"], [href*="//gameshub.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(gameshub.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gamingpcguru.com"], [href*="//gamingpcguru.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(gamingpcguru.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gbtimes.com"], [href*="//gbtimes.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(gbtimes.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".gcore.com"], [href*="//gcore.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2208,6 +2224,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".learnupnest.co
 startpage.com###main div.image-container .image-quick-details > span:has-text(learnupnest.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".learnwithnaseem.com"], [href*="//learnwithnaseem.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(learnwithnaseem.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".learnwithnishtha.com"], [href*="//learnwithnishtha.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(learnwithnishtha.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lemonsqueezy.com"], [href*="//lemonsqueezy.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(lemonsqueezy.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".letskeepitreal.com"], [href*="//letskeepitreal.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2224,14 +2242,22 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lightxeditor.c
 startpage.com###main div.image-container .image-quick-details > span:has-text(lightxeditor.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lilybankai.com"], [href*="//lilybankai.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(lilybankai.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".lindseyshoots.com"], [href*="//lindseyshoots.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(lindseyshoots.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxactionshow.com"], [href*="//linuxactionshow.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxactionshow.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxbasecamp.com"], [href*="//linuxbasecamp.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxbasecamp.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxcapable.com"], [href*="//linuxcapable.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxcapable.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxdork.com"], [href*="//linuxdork.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(linuxdork.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxiac.com"], [href*="//linuxiac.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxiac.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxkernal.com"], [href*="//linuxkernal.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(linuxkernal.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxstans.com"], [href*="//linuxstans.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(linuxstans.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxtechlab.com"], [href*="//linuxtechlab.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(linuxtechlab.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".linuxvox.com"], [href*="//linuxvox.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2370,6 +2396,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".openaisea.com"
 startpage.com###main div.image-container .image-quick-details > span:has-text(openaisea.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".openposes.com"], [href*="//openposes.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(openposes.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".optnode.com"], [href*="//optnode.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(optnode.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".oreateai.com"], [href*="//oreateai.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(oreateai.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".oryoy.com"], [href*="//oryoy.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2642,8 +2670,12 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tattooyeah.com
 startpage.com###main div.image-container .image-quick-details > span:has-text(tattooyeah.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".techbloat.com"], [href*="//techbloat.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(techbloat.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".techedubyte.com"], [href*="//techedubyte.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(techedubyte.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".technolynx.com"], [href*="//technolynx.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(technolynx.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".techrefreshing.com"], [href*="//techrefreshing.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(techrefreshing.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".tecnobits.com"], [href*="//tecnobits.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(tecnobits.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".telegai.com"], [href*="//telegai.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2764,6 +2796,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".viseo.com"], [
 startpage.com###main div.image-container .image-quick-details > span:has-text(viseo.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".vondy.com"], [href*="//vondy.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(vondy.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".wafaicloud.com"], [href*="//wafaicloud.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(wafaicloud.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".waifulabs.com"], [href*="//waifulabs.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(waifulabs.com):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".wannafake.com"], [href*="//wannafake.com"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -2890,6 +2924,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".jakeward.io"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(jakeward.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".kahma.io"], [href*="//kahma.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(kahma.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".labex.io"], [href*="//labex.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(labex.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".laive.io"], [href*="//laive.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(laive.io):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".latitude.io"], [href*="//latitude.io"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3014,6 +3050,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".flux-ai.net"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(flux-ai.net):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fullbloomclub.net"], [href*="//fullbloomclub.net"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(fullbloomclub.net):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".hawxtech.net"], [href*="//hawxtech.net"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(hawxtech.net):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".heatware.net"], [href*="//heatware.net"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(heatware.net):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".heyeditor.net"], [href*="//heyeditor.net"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3100,6 +3138,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".deepwiki.org"]
 startpage.com###main div.image-container .image-quick-details > span:has-text(deepwiki.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".dinosaur.org"], [href*="//dinosaur.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(dinosaur.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".eglug.org"], [href*="//eglug.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(eglug.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".english-ai.org"], [href*="//english-ai.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(english-ai.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".enviroliteracy.org"], [href*="//enviroliteracy.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3110,6 +3150,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".glukhov.org"],
 startpage.com###main div.image-container .image-quick-details > span:has-text(glukhov.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".historyinpolitics.org"], [href*="//historyinpolitics.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(historyinpolitics.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".historytools.org"], [href*="//historytools.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(historytools.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".humanizer.org"], [href*="//humanizer.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(humanizer.org):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".kernel-seeds.org"], [href*="//kernel-seeds.org"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3218,6 +3260,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".animalia-life.
 startpage.com###main div.image-container .image-quick-details > span:has-text(animalia-life.club):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".animeart.studio"], [href*="//animeart.studio"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(animeart.studio):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".apexgear.blog"], [href*="//apexgear.blog"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(apexgear.blog):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".app.sciobot.cz"], [href*="//app.sciobot.cz"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(app.sciobot.cz):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".artbreeder"], [href*="//artbreeder"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3242,8 +3286,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".capidhouser.mo
 startpage.com###main div.image-container .image-quick-details > span:has-text(capidhouser.mobi):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".carboncopy.pro"], [href*="//carboncopy.pro"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(carboncopy.pro):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
-startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cashstarkom.in"], [href*="//cashstarkom.in"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
-startpage.com###main div.image-container .image-quick-details > span:has-text(cashstarkom.in):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".cashstarkcom.in"], [href*="//cashstarkcom.in"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(cashstarkcom.in):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".chatgpt.fr"], [href*="//chatgpt.fr"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(chatgpt.fr):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".chatveskole.cz"], [href*="//chatveskole.cz"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3526,6 +3570,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".unleash.so"], 
 startpage.com###main div.image-container .image-quick-details > span:has-text(unleash.so):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".veritecachee.fr"], [href*="//veritecachee.fr"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(veritecachee.fr):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".vibewire.com.au"], [href*="//vibewire.com.au"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container .image-quick-details > span:has-text(vibewire.com.au):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".visla.us"], [href*="//visla.us"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container .image-quick-details > span:has-text(visla.us):upward(.image-container):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".vps.do"], [href*="//vps.do"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3638,6 +3684,10 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".behance.net/ol
 startpage.com###main div.image-container[data-page-url*="behance.net/oliviosarikas"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".behance.net/zeeshi"], [href*="//behance.net/zeeshi"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="behance.net/zeeshi"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".binadit.com/blog"], [href*="//binadit.com/blog"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container[data-page-url*="binadit.com/blog"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".binadit.com/tutorials"], [href*="//binadit.com/tutorials"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container[data-page-url*="binadit.com/tutorials"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".bing.com/images/create"], [href*="//bing.com/images/create"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="bing.com/images/create"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".canva.com/ai-art-generator"], [href*="//canva.com/ai-art-generator"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3744,6 +3794,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".facebook.com/T
 startpage.com###main div.image-container[data-page-url*="facebook.com/TheTiniestTiger"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".facebook.com/cuteanimegirl99"], [href*="//facebook.com/cuteanimegirl99"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="facebook.com/cuteanimegirl99"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fdcservers.net/blog"], [href*="//fdcservers.net/blog"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container[data-page-url*="fdcservers.net/blog"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fity.club/lists/suggestions/generated-images/"], [href*="//fity.club/lists/suggestions/generated-images/"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="fity.club/lists/suggestions/generated-images/"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".fiverr.com/bleassome"], [href*="//fiverr.com/bleassome"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -3898,6 +3950,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".medium.com/mle
 startpage.com###main div.image-container[data-page-url*="medium.com/mlearning-ai"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".microsoft.com/en-us/bing/do-more-with-ai"], [href*="//microsoft.com/en-us/bing/do-more-with-ai"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="microsoft.com/en-us/bing/do-more-with-ai"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".ninjaone.com/script-hub"], [href*="//ninjaone.com/script-hub"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container[data-page-url*="ninjaone.com/script-hub"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".picsart.com/ai-image-generator"], [href*="//picsart.com/ai-image-generator"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="picsart.com/ai-image-generator"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".pinterest.com/0ccmbkgxrcqh40h"], [href*="//pinterest.com/0ccmbkgxrcqh40h"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4692,6 +4746,8 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".youtube.com/@a
 startpage.com###main div.image-container[data-page-url*="youtube.com/@alkaid-art"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".youtube.com/@enigmatic_e"], [href*="//youtube.com/@enigmatic_e"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="youtube.com/@enigmatic_e"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".youtube.com/@nelvox"], [href*="//youtube.com/@nelvox"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container[data-page-url*="youtube.com/@nelvox"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".youtube.com/@sebastiankamph"], [href*="//youtube.com/@sebastiankamph"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="youtube.com/@sebastiankamph"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w"], [href*="//youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
@@ -4702,15 +4758,17 @@ startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".youtube.com/ch
 startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ"], [href*="//youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
 startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.result a:is(.zReHs, .LBcIee):is([href*=".zmanda.com/blog"], [href*="//zmanda.com/blog"]):upward(.result):style(opacity: .4 !important; outline: 2px solid red;)
+startpage.com###main div.image-container[data-page-url*="zmanda.com/blog"] > :first-child:upward(1):style(opacity: .4 !important; outline: 2px solid red;)
 
 ! Title: AI Image-Search Blocklist -- JaH - Startpage - opacity
 ! Expires: 4 days
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4733,9 +4791,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4758,9 +4816,9 @@ startpage.com###main div.image-container[data-page-url*="youtube.com/channel/UCv
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261025.2137
-! Last modified: Sun, 25 Oct 2026 21:37:38 GMT
-! Original file date: 2026-10-24T15:03:49Z
+! Version: 20261106.1912
+! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
+! Original file date: 2026-11-06T18:43:44Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
