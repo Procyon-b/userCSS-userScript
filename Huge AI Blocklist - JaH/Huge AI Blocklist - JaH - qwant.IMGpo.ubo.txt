@@ -3,9 +3,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -28,9 +28,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -53,9 +53,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -78,9 +78,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -103,9 +103,9 @@
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -786,6 +786,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="opentools.ai
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(opentools.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="otter.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(otter.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="ourdream.ai"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(ourdream.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="painter-ai.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(painter-ai.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="paintit.ai"]:upward(1):remove()
@@ -862,6 +864,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="pornjourney.
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(pornjourney.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="pornjoy.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(pornjoy.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="pornmaker.ai"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(pornmaker.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="pornpen.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(pornpen.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="pornshow.ai"]:upward(1):remove()
@@ -980,6 +984,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="speakpal.ai"
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(speakpal.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="spicychat.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(spicychat.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="spicygen.ai"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(spicygen.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="stability.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(stability.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="stablegenius.ai"]:upward(1):remove()
@@ -1006,6 +1012,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="studymonkey.
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(studymonkey.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="studyx.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(studyx.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="stuffer.ai"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(stuffer.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="success.ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(success.ai):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="suno.ai"]:upward(1):remove()
@@ -1470,6 +1478,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="clipdrop.co"
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(clipdrop.co):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="deep-nude.co"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(deep-nude.co):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="dessi.co"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(dessi.co):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="diffusionart.co"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(diffusionart.co):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="embolden.co"]:upward(1):remove()
@@ -1744,6 +1754,10 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="briskteachin
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(briskteaching.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="buddhaweekly.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(buddhaweekly.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="caniplayonlinux.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(caniplayonlinux.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="capcut.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(capcut.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="capidhouser.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(capidhouser.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="capidhouser.medium.com"]:upward(1):remove()
@@ -2006,6 +2020,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fakeyou.com"
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(fakeyou.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="famousboards.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(famousboards.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fapwise.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(fapwise.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="fashionadvisorai.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(fashionadvisorai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="favtutor.com"]:upward(1):remove()
@@ -2164,6 +2180,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="interiorai.c
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(interiorai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="interlinkedai.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(interlinkedai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="internetpasoapaso.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(internetpasoapaso.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="irmoai.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(irmoai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="ishencai.com"]:upward(1):remove()
@@ -2254,12 +2272,16 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxdork.co
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxdork.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxiac.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxiac.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxjournal.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxjournal.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxkernal.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxkernal.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxstans.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxstans.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxtechlab.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxtechlab.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxteck.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxteck.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxvox.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxvox.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="literary-techniques.com"]:upward(1):remove()
@@ -2278,6 +2300,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="magicstudio.
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(magicstudio.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="makersplace.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(makersplace.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="mamalinux.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(mamalinux.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="mancoding.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(mancoding.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="markaicode.com"]:upward(1):remove()
@@ -2362,6 +2386,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="newfuku.com"
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(newfuku.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="newtonsf.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(newtonsf.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="nextporn.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(nextporn.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="nftartwithlauren.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(nftartwithlauren.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="nijijourney.com"]:upward(1):remove()
@@ -2402,6 +2428,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="oreateai.com
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(oreateai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="oryoy.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(oryoy.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="ourdreamer.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(ourdreamer.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="owlift.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(owlift.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="paintedsaintly.com"]:upward(1):remove()
@@ -2676,8 +2704,12 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="technolynx.c
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(technolynx.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="techrefreshing.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(techrefreshing.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="techtimes.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(techtimes.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="tecnobits.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(tecnobits.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="tecnoloblog.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(tecnoloblog.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="telegai.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(telegai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="tencent.com"]:upward(1):remove()
@@ -2712,6 +2744,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="thejoai.com"
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(thejoai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="thelinuxcode.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(thelinuxcode.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="thelinuxtutorials.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(thelinuxtutorials.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="thepetpainting.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(thepetpainting.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="theresanaiforthat.com"]:upward(1):remove()
@@ -2730,6 +2764,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="timesmojo.co
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(timesmojo.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="toolbaz.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(toolbaz.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="tools.capcut.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(tools.capcut.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="topicbarn.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(topicbarn.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="topmediai.com"]:upward(1):remove()
@@ -2764,6 +2800,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="undressninja
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(undressninja.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="universalclipart.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(universalclipart.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="unixmen.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(unixmen.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="updatebirthday.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(updatebirthday.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="usefulbs.com"]:upward(1):remove()
@@ -2846,6 +2884,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="yodayo.com"]
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(yodayo.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="yourdreamai.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(yourdreamai.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="yuchenhou.com"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(yuchenhou.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="zazow.com"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(zazow.com):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="zebrabi.com"]:upward(1):remove()
@@ -3412,6 +3452,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="larevueia.fr
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(larevueia.fr):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linear.liftapp"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linear.liftapp):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="linuxmind.dev"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(linuxmind.dev):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="lovelines.xyz"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(lovelines.xyz):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="made.porn"]:upward(1):remove()
@@ -3440,6 +3482,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="musicfy.lol"
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(musicfy.lol):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="myedit.online"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(myedit.online):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="mylinux.work"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(mylinux.work):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="nathaliedupuy.fr"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(nathaliedupuy.fr):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="naviai.cn"]:upward(1):remove()
@@ -3524,6 +3568,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="spca.educati
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(spca.education):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="spicy.porn"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(spicy.porn):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="sprintlaw.com.au"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(sprintlaw.com.au):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="stablediffusion.blog"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T div.vSaqU:has-text(stablediffusion.blog):upward(div.i3XL2.xM17T):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="stablediffusion.fr"]:upward(1):remove()
@@ -3700,6 +3746,8 @@ qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="conoha.jp/ai
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="conoha.jp/ai/canvas"]:upward(1):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="creativefabrica.com/spark"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="creativefabrica.com/spark"]:upward(1):style( opacity: 0; pointer-events: none; )
+qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="cyberpanel.net/blog"]:upward(1):remove()
+qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="cyberpanel.net/blog"]:upward(1):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="designbundles.net/illustrate-ai"]:upward(1):remove()
 qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="designbundles.net/illustrate-ai"]:upward(1):style( opacity: 0; pointer-events: none; )
 qwant.com##div[data-testid="sectionWeb"] > div > div > div[domain*="designbundles.net/ylivdesign"]:upward(1):remove()
@@ -4766,9 +4814,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="zmanda.
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4791,9 +4839,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="zmanda.
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
@@ -4816,9 +4864,9 @@ qwant.com##div[data-testid="images"] div.i3XL2.xM17T > a[data-page-url*="zmanda.
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Original homepage: https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/
 
-! Version: 20261106.1912
-! Last modified: Fri, 06 Nov 2026 19:12:48 GMT
-! Original file date: 2026-11-06T18:43:44Z
+! Version: 20261113.0214
+! Last modified: Fri, 13 Nov 2026 02:14:53 GMT
+! Original file date: 2026-11-12T16:50:00Z
 
 ! Homepage: https://github.com/Procyon-b/userCSS-userScript
 
